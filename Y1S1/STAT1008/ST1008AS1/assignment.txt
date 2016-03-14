@@ -12,4 +12,6 @@
 
 
 
-   b. The shape of this histogram
+   b. The shape of this histogram centres around the 80°F area, and infers that the  mean temperature is between 80°-85°F. Temperatures below 80°F are also appear to be more frequent than temperatures above 80°F.
+
+   c. The boxplots show that the ozone density was much higher in the months of July and August than in other months, both in mean and variance. The ozone densities in May, June and September are all very similar, with those in June covering a much smaller range than the other months. However, the lower quartiles of all months are much more similar than the upper quartiles. July had the smallest variance, and August the largest. 
