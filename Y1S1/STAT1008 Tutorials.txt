@@ -1,0 +1,34 @@
+{{TOC}}
+## T1
+Du Liu (Jimmy)  
+u539817@anu.edu.au
+Friday 2-5 3.09
+
+## T2 
+Lower = 3rd term = 23.4, upper = 9th term, 31.4
+
+## T3 
+1. a. 138/200 = 69/100
+b. 3/10
+c. 89/100
+d. c includes *all* males sampled as well as the females who prefer to order via drive through.
+
+2. 
+
+|  | Male |  Female | Total |
+|--|--|--|-:|
+| Enjoy | 238 | 276 | 514|
+| Enjoy’ | 304 | 267 | 571 |
+| Total | 542| 543 | 1085 |
+
+a. 514/1085
+b. 276/1085?
+c. 781/1085
+d. 1
+
+3. D = has disease, T = positive test
+	given P(T|D’)=0.01, hence P(T’|D’)=0.99
+	P(D)=0.03, P(D’)=0.97
+	
+	Need to find P(D|T)=P(D int. T)/P(T)
+	

@@ -1,0 +1,124 @@
+{{TOC}}
+
+## L1
+
+Add photo to wattle
+neil.fargher@anu.edu.au
+Do the examples while reading
+Read both ch. 1 and 2
+Grab learning objectives from the slide to make sure that you understand all of it, also to be helpful
+Go through **ALL** classes and take out definitions into a separate glossary
+**Three financial reports**:
+- Balance sheet
+- Income statement
+- Statement of cash flow
+
+Be sure to look for “scales” e.g. A$M somewhere
+Net assets = assets - liabilities
+Grab proper definitions from chapter 1 for assets, liabilites, etc., then come up with easier to remember ones
+Equity = Assets - Liabilities, “Net Assets”
+
+
+## L2
+
+fin ch 1 and get 2 from somewhere
+Quiz next week ch 1 and 2
+Total Assets = Total Liabilities and Equity
+be able to define asset, liability and equity
+Be sure that balance sheets balance in each row if using a worksheet. But don’t add lines together it would seem, add up at end.
+30000 = 30000
+-28000 + 28000 = 0
++5000 = B(5000)
+-4000 + 4000 = 0
+-1000 = B(-1000)
+= 2000 + 4000 + 28000 = 4000 + 3000
+= 34000 = 34000 (tick!)
+Curren Assets: (in order of being turned into cash)
+Cash 2000
+Non-current Asset
+——————
+Inv  4000       6000
+Veh  28000      28000
+————
+Total Assets 34000
+
+Current Liability
+——————
+Borrowing 4000
+————
+T Liab    4000       4000
+Non-cur L  0         4000
+Net Assets = 30000
+Capital    = 30000
+
+**Debit**: Increase in assets, decrease in liabilities
+**Credit**: Increase in liabilities, decrease in assets
+**Shareholder’s Equity**: 
+**BS Limitations**:
+- It is only concerned with one point in time
+- Only provedes past information
+- Limitations from value assumptions
+-  (The monetary unit assumption
+-   mixed model but maily historical cost assumption)
+- Accounting principles and rules allow accountants considerable discretion when it comes to deciding how to record transactions.
+
+Ending retained profits = Beginning retained profits + profits this period - losses this period - dividends thi period
+
+Next week: Measuring financial position
+
+## L3
+
+***nigga u fucked for the quiz today***
+**Measuring Financial Performance**
+Each transaction can be recorded as a devit or a credit describing the change in the balance sheet account
+
+read ch3? check course outline for erading.
+COGS=cost of goods sold
+Credit payments go into *Accounts Receivable*. 
+Control, future benefit, past transactions. 
+No. debits = no. credits
+
+“Income Statement for X for Month of _____”
+Purpose of the income statement is to mearsure and report how much profit the business has generated ovar a period. 
+
+**Income**= Revenue + Gains
+- increases in economic benefits
+- in the form of increases in assets or decreases in liabilities
+- results in increases in equity
+- excludes contributions
+
+**Revenues** represent the gross inflows of economic benefits from ordinary activities
+**Gains** represent net inflows normally from non-ordinary activities.
+
+Point of Sale is the point in time that customer gets the goods (for revenue)
+
+Formats of IS: descriptive and functional.
+
+Sales within company group have to be ignored
+**Grab definitions from lecture slides**
+read 3 and 4
+
+## L4 
+
+yeah oops actual studying begins once crux is working, but cooking, cleaning, jaques, other stuff comes before that
+REALLY NEED TO READ THIS SHIT JUSTIN
+**Record Keeping System to Support Financial Reporting**
+Need to elimnate sales within the group
+Accounting Cycle: (Source Documents -> Journals -> Ledgers) -> [Trial Balance -> Adjusting Journal Entries -> Closing Journal Entries -> Post-Closing Trial Balance -> Financial Statements]
+() = During accounting period
+[] = after accounting period
+**Chart of Accounts**: Represents listing of all accounts in the general ledger. Identified by specific number, usually contained in accounting manual.
+(Grab all of the debit/credit stuff from the slides)
+Dr PPE 100 000
+Cr Cash 100 00
+
+ex. 2 f year depreciation
+Dr Depreciation 18000
+Cr Accumulated Depreciation 1800
+
+**Steps to**
+
+For services provided, cr *unearned* revenue, then after the service has been provided, dr un. rev. and cr fees rev (etc.)
+*Rewatch this after you've done the reading*/
+**Closing**: Resetting accounts so that an acccurate report of financial performance is reliable and not biased
+read ch. 3 4 and 5 by next lecture

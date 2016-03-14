@@ -1,0 +1,377 @@
+{{TOC}}
+## L1
+
+**((STILL USES OVERHEADS))**
+
+Read ch. 1 & 2 of textbook
+use dedicated course address with ANU student email, micro1.anu@gmail.com
+Tutorial questions posted on WATTLE by Friday, same one week delay
+
+Final exam 60%, all covered material
+Mid-sem exam 25%, first half I assume…
+Tutorial quizzes 15%, best 5 of 7
+***Micro*economics**: Studies the behaviour of individual firms and households or specific markets
+***Macro*economics**: focuses on the whole economy, not individual markets.
+**Positive analysis**: descriptive statements of cause and effect, e.g. lower wages for low wage workers will lead to an increase in demand for those workers
+**Normative analysis**: statements that embody value judgements,
+ e.g. the government *should* lower wager for the poor.
+ Simple models with simplifying assumptions are used
+ Rationality and maximising behaviour are assumed.
+ Judge a model by it’s predictive power.
+ Is a theory of irrational behaviour more desirable?
+ 
+ 
+ 
+## L2 
+Read pp.4-13 for tomorrow
+If a lecture is missed, and the recording fucked up, contact someone else in the class
+**Scarcity and Choices, Some Key Economic Ideas, and Lines, Slopes and Curves**
+- Weighing the Benefits and Costs
+- Opportunity Cost
+- Thinking on the Margin
+- People Respond to Incentives
+
+Heart of Economics considers:
+- Resources are finite (*scarce*)
+- Wants are unlimited
+- Choices must be made
+
+**Implication of Scarcity**: Having more of one good thing usually means having less of another - tradeoff notion
+
+**Rational Decision Making**: If the benefits > costs of an action, then pursue the action
+
+Opportunity cost of any choice is the value of the next *best* alternative foregone.
+
+Rational to take an action if the marginal benefit exceeds the marginal cost
+
+## L3
+Read ch. 1,2 and 3 if the book is here
+**Gains from Trade, Production Possibilities Curve**
+- Voluntary exchange
+- Absolute and comparative advantage
+- Inefficient outcomes
+- Efficient outcomes
+- Impossible outcomes
+
+Markets next week (chapter 3)
+# You got some reading to do boiiiiii 1 2 3
+Homer: 10 pencils, Virgil: 2 pads of paper, Homer swaps five pencils for 1 pad of paper, both now have 5 pencils and 1 pad of paper
+Voluntary exchange is mutially advantageous
+No change in total quantity of goods available. Simply a reallocation of goods.
+Martha and Ruth each own old houses which need man repairs.
+Martha more productive in cooking, Martha more productive in house repairs.
+**Absolute advantage**: where a person or country is more efficent or productive in producing a good compared to another person or country.
+**Comparative advantage**: where a person or country can produce on good more efficently relative to another good (lower opportunity cost) compared to another person or country.
+In this scenario, Martha has an absolute advantage
+
+|Opportunity Cost| Martha | | Ruth |
+|--|--|--|-:|
+|OC of 1 meal | 1/2 Repair | < | 1 repair |  
+|OC of 1 repair | 2 meals | > | 1 meal | 
+
+
+
+Martha has a comparative advantage over Ruth in cooking while Ruth has a comparative advantage over Martha in home repair.
+Trade can benefit both.
+Ruth offers to make 1 for Martha. Martha makes 1 less repair but sepnds more time cooking and offers 1.5 meals to Ruth.
+
+| 24hr Day | Martha | Ruth | Total|
+|--|--|--|-:|
+|**No Trade** | | | |
+| Repairs Produced and Consumed| 11 | 6 | 17|
+| Meals Produced and Consumed | 2 | 2 | 4 |
+| **With Trade** |
+| Repairs Produced | 10 | 7 | 17 |
+|Meals Produced | 4 | 1 | 5 |
+| |
+| Repairs Traded | +1 received | -1 given | |
+| Meals Traded | -1 1/2 given | + 1 1/2 received | |
+| Repairs consumed | 11 | 6 | 17 |
+| Meals consumed | 2 1/2 | 2 1/2 | 5 |
+
+Here, total output (meals) has increased. No more or less inputs used but inputs (Martha and Ruth’s time) have been reallocated across outputs. Both are better off!
+Why does Ruth sell a repair and byu meals while Martha sells meals and buys a repair.
+Compare OC of item across individuals:  
+Each sells the good where she is lowest OC producer and has comparative advantage in producing and buys the good where she is *not* the lowest OC producer nor has comparative advantage in producing.
+
+| Movies | PCs | OC |
+|--|--|-:|
+| 0 | 25000 |  0|
+| 100 | 24000 | -1000|
+| 200 | 22000 |-2000|
+| 300 | 18000 |-4000|
+| 400 | 13000 |-5000|
+| 500 | 0 | -13000|
+
+graph : pc y axis, movies x axis, downward slope. Shows Production Possibilities Curve (PPC). Shows maximum combinations of two goods that are possible, given the economy’s resources and level of technology.
+Outcomes within the curve are inefficient, outcomes along the curve are efficient. Outcomes above/beyond the PPC are impossible.
+What is impossible today may be possible tomorrow.
+
+## L4
+Finish reading Ch. 3
+**Demand Schedule and Demand Curve**
+- Law of Demand
+- Movements Along Demand Curve
+**Demand Schedule**: a table of prices (P) and quantity demanded (Q^0) for a good at different prices, all things being equal (*ceteris paribus*)
+
+| Price per Egg (c) | Quantity Demanded (million) | 
+|--|-:|
+| 10 | 25 | 
+| 20 | 20 | 
+| 30 | 15 |
+| 40 | 10 |
+| 50 | 5 | 
+
+
+**Law of Demand**: P ⇑ = Q^0 ⇑
+**Demand Curve**: Graph indicating quantity demanded at different prices
+A change in the price of the good itself eads to a movement *along* the demand curve
+Other non-price factors are said to *shift* the demand (D) curve.
+Increase in Demand = shift D curve to the right
+Decrease in Demand = Shift D curve to the left
+Could be cause by:
+- A change in tastes/preferences/information
+- A change in income - for any price. If income⇑ -> D⇑ (normal goods. Demand *decreases* for inferior goods if income increases.
+
+**Change in Prices of Closely Related Goods**
+- substitute goods (e.g. X and Y): goods that substitute for each other. When the price of X rises (falls), the D for Y increases (decreases).
+- complementary goods (e.g. X and Y). Goods which are usually consumed or used togther. WHen the price of X rises (falls), D for Y decreases (increases).
+
+**Change in Number of Consumers or Population**
+
+**Change in Consumer’s Expectations of the Future**
+
+## L5
+ch. 3 74-79
+**Supply Schedule and Supply Curve**
+- Law of Supply
+- Movements Along Supply Curve
+
+**Market Equilibrium**
+- Excess Demand and Excess Supply
+- Price Adjustment
+
+**TUTORIAL QUESTIONS**
+1. Review the key terms and recent course material
+2. Write down relevant information provided in question.
+3. Clarify what needs to be explained or examined
+4. Relate points 2 and 3 t o the material covered in the course.
+5. If you make no progress, take a break and come back to the problem later.
+
+**Quantity Demanded**: The amount of a good that buyers are willing to buy. 
+**Quantity Supplied**: The amount of a good thatsellers are willing and able to supply
+**Supply Schedule**: A table of prices (P) and quantity supplied (Q^s), for a good at different prices, *ceteris paribus*
+**Law of Supply**: P⇑ = Q^s ⇑
+**Supply Curve**: Graph indicating quantity supplied at diferent prices.
+
+A change in the price of the good itself leads to a movement *along* the supply curve.
+Other non-price factors are said to *shift* the supply (S) curve
+Increase in supply ⇋ shift S curve to the right
+Decrease in supply ⇋ shift S curve to the left
+**Some of the Other Factors**
+**Change in Tech**: Anything that changes quantity of output for a given amount of inputs.
+**Change in Prices of Inputs**
+**Change in Number of Firms in Market**  
+**Change in Expectations of Future Price**
+**Change in Govt Taxer, Subsidies and Regulations**
+
+**Excess Demand** or **Shortage** occurs when Q^D > Q^S >- P rises.
+**Excess Supply** or **Surplus** occurs when Q^D < Q^S -> P falls.
+
+No change: Q^D = Q^S
+
+
+## L6
+### Read ch. 4 for next week
+**Prices Allocate Resources or Rationing by Price**
+**Change in Market Equilibrium**:
+- Using Supply and Demand Curves
+- Finding the New Market Equilibrium
+**Price Controls**:
+- Price Ceiling
+- Price Floor
+**Equilibrium**: Q^S = Q^D
+
+Given scarcity and choice, a society mus decide:
+1. *What* goods are produced and how much
+2. *How* these goods are produced
+3. *For whom* are they produced for.
+
+Figure out what the fuck marginal cost and marginal benefits are
+
+**Using Supply and Demand Analysis**:
+- Consider market impact of discovery that chemical compounds in egg whites may reduce baldness. Demand up, supply curve doesn’t change, equilibrium would change, consumers would settle for higher prices. 
+- Consider market impact if Australian Workers’ Union negotiates higher wages for agricultural workers. Demand curve won’t change, supply curve shifts to the left, new market equilibrium, higher price but less demand because of higher input costs (higher wages) 
+
+*How do you solve for the new market equilibrium*:
+1. determine whether change shifts D and/or S curve
+2. determine how curve or curves shift
+3. determine new equilibrium P and Q
+
+**Price Controls**
+**Price Ceiling**: A legal maximum on the price of a good.
+Ex. Rent Control: “the best way to destroy a city other than bombing”
+  
+For price ceiling to bind and create shortage, must be less than equilibrium price.
+**Price Floor**: A legal minimum on the price of a good.
+
+For price floor to bind and create surplus, must be more than equilibrium price.
+
+## L7
+**Read ch. 4 and 5**
+**Price Elasticity of Demand**
+- Point Elasticity
+- Arc (Midpoint) Elasticity
+
+**Inelastic and Elastic Demand**
+**Determinants of Price Elasticity**
+
+Orange juice example: Price goes down 1 cent, quantity demanded gos up 5. ∆Q/∆P = 5L/-1c = -5L/c
+**Price Elasticity of Demand**: (negative of the) % change in Q^D divided by the % change in P
+ε^D = -(%∆Q^D/%∆P), or -((%∆Q/Q<sub>1</sub>)/(%∆P/P<sub>1</sub>))
+**Point Elasticity of Demand**: ε^D = -(1/slope)(*P*/*Q^D*), use for small price change.
+**Arc Elasticity of Demand (Midpoint Method)**: ε^D = (-∆Q^D/Avg. Q)/(∆P/Avg. P), use for large changes.
+**Perfectly Inelastic**: Doesn’t do shit, vertical demand curve, as price has no impact
+**Perfectly Elastic**: Does do shit, horizontal demand curve, huge impact.
+
+**Determinants**: 
+1. Substitution Possibilities: Goods without close substitutes are less price elastic, e.g. insulin for diabetics. 
+2. Budget Share: In general, the smaller a good’s budget share, the less elastic is demand.
+3. Time: Demand tends to be more price sensitive over time.
+4. Temporary vs. Permanent Price Change: Demand is more elastic for temporary compared to permanent price changes.
+
+## L8
+Read ch. 5 including “The Budget Line” in the appendix
+**Other Demand Elasticity Measures, Price Elasticity of Supply**
+**Application: Drug-Related Crime, Drug Prohibition and Drug Education**
+**Consumer Behaviour - Individual Demand**
+- Willingness to pay
+- Marginal and Total Benefit
+- Price Equals Marginal Benefit
+
+**Price Elasticity of Supply**: % change in Q^s divided by the % change in P
+ε^S = %∆Q^S/%∆P
+
+Perfectly inelastic supply (ε^S = 0) - vertical supply curve
+Perfectly elastic supply (ε^S = ∞) - horizontal supply curve
+
+**Determinants**:
+- ease at which producers can increase output e.g. capacity constraints
+- time - supply is usually more price sensitive over time
+
+**Go over supply and demand again, see if you can work out the graphs a bit more**
+
+Demand curve also indicates *willingness to pay*, i.e the **highest** price that will be paid for the last unit purchased.
+
+## L9
+
+Reading still the same
+
+**Marginal and Total Benefit**
+**Consumer Surplus**
+**Diamond-Water Paradox**
+**Market Demand**
+**Consumer Budget Constraint**
+
+**Marginal Benefit**: The additional benefit fof consuming one more unit (or last unit) of a good
+
+At P = 30¢, Kim demands therre epss vut could have demanded only two. The 3^rd egg, the *marginal* egg, must be worth at least 30¢ of other goods that could have bveen bought.
+
+**Consumer Surplus**: The difference between what a consumer is willing to pay and what he/she has to pay
+
+**Market Demand**: The horizontal summation of the individual demand curves of market participants. (i.e. add up the demands of the individual curves.)
+
+Consumers choose the best bundle or mix of goods they can afford. This depends on:
+- what bundles they can afford 
+	- budget constraint or budget line (see “The Budget Line” in appendix of TB)
+- consumer preferences or tastes
+
+## L10
+Read Ch. 6
+**Income and Substitution Effects**  
+**Preferences and Utility**
+**Diminishing Marginal Utility (MU)**
+**Equalizing MU per Dollar Spent**
+
+**Income Effect**: P up -> real income down -> Q^D down (for normal goods)
+
+**Substitution Effect**: P<sub>x</sub> Up -> good x now relatively more expensive compared to other goods -> substitute away from x to other relatively chearger goods - > Q^D for x down
+
+**Utility**: A measure of a person’s preferences or satisfaction from consuming a good or service.
+
+**Marginal Utility**: The additonal utility from consuming one more unit (or last unit) of good
+
+Utility is maximzed when the MU per dollar spent is the same for all godds X and Y.
+
+
+## L11
+
+**What is a Firm and Why do They Exist?**
+**Competetive Markets/Price-Takers**
+**Profits, Production, and Costs**
+**Increasing Marginal Costs (MC)**
+
+((UNRELATED)) use the set_layer function so that you don't get locked in qwerty
+Market *Demand* is linked to *consumers*, who maximise *utility*, constrained by *budget/income*, slope of curve down due to marginal benefit or marginal utiility, gains from trade is *consumer* surplus
+Market *Supply* is linked to *firms*, who maximize *profits*, constrained by *production function*, slope of curve up due to marginal cost, gains from trade is *producer* surplus
+
+**Firm**: An organization that produces goods or services
+
+**Labour components of firm**:
+1. *Workers/employees*: usually paid a fixed wage or salary and told what to do
+2. *Managers*: make decisions and monitor workers.
+3. *Owners*: Fund firm's investments and bear financial risks
+
+**Why do firms exist?**
+1. To minimize transaction costs
+2. Individual contracts unwieldly with team production
+3. Difficult or costly to specify complete contracts
+
+We assume firms' goal is to maximize profit. (p. 138)
+
+Assume firm's face competitive markets
+- No firm can influence market price. Firms are **price-takers**
+
+**Profit**: Revenue - Costs
+**Revenue**: Price x Quantity
+**Production**: A process that transforms inputs into outputs.
+
+**Output Q** = F(L,K), where L is the labour input and K is capital input.
+
+Depending on time horizon, not all inputs can be varied, some may be fixed.
+
+**Short run**: Some inputs are variable, all others fixed
+**Long run**: All inputs are variable
+
+**Marginal Product of Labour (MP)**: Additional output from additional (or last) unit of labour. 
+MP<sub>L</sub> = ∆Q/∆L (roughly)
+Notice diminishing MP<sub>L</sub> or dimnishing returns to labour
+Total Costs = Variable Costs + Fixed Costs
+**Marginal Costs**: Change in costs due to additonal (or last) unit of output produced
+MC = ∆C/∆Q (roughly)
+Increasing MC due to diminishing MP<sub>L</sub>
+
+## L12
+Ch. 6 and 7
+**Individual Firm Demand**
+**Fixed Cost as a Sunk Cost**
+**Marginal Cost and Supply**
+**Market Supply**
+**Producer Surplus**
+
+If charged P<sub>1</sub> > P<sub>equilibrium</sub>, Q^D = 0
+If firm charged P<sub>2</sub> < P<sub>equilibrium</sub>, Q^D large
+sell at a highr price -> markets arise
+Individual firm demand is perfectly elastic at the market price.
+**Sunk Cost**: A cost that can not be avoided or, once made, can not be recovered.
+Fixed costs in production decisions:
+1. in Short Run: Fixed costs don't enter into how much to produce since have to be paid regardless (a sunk cost)
+2. in Long Run: "fixed" costs are not sunk and can be avoided; thus do enter into production decisions.
+Rational to take an action if the MB > or = MC
+**Marginal Revenue**: A change in revenue due to additional (or last) unit of output sold
+for price-taking firm: MR = P
+MC Curve is firm's supply curve
+Market or industry supply is the horizontal summation of individual firm supply curves.
+**Producer Surplus**: the difference between the price and marginal cost over each unit of output supplied
+PS = revenues - sum of MC
+Profits = PS - fixed costs

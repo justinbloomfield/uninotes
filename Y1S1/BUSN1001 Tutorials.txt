@@ -1,0 +1,59 @@
+{{TOC}}
+Tessa Zhang
+tessa.zhang@anu.edu.au
+Consultation 10-12 Thursdays, CBE 3.18
+Work will be checked from WK3
+Can only miss 2 tutorials
+Make sure to have added photo by next week
+Bring calculator to **ALL** classes
+Best 3 of 4 quizzes will count for 15%
+Mid-sem exam WK7 25%
+10% from preparation and participation
+Final exam 50%
+Read ch1 2 and 3
+Solutions on WATTLE at the end of the week
+
+## T1
+
+1. Woolworths is in the retail industry. They generate profits mostly by acting as a market to enable the selling of produce from other companies on to consumers, with the actual profit coming from the markup of the price of the products.
+2. Revenues, cost of sales, profit of continuing operations (main because they provide the largest numbers).
+3. Main for balance sheet are assets, liabilities and equity.
+4. Operating activities, financing activities and some other activity that i didn’t catch. Just the big headings, really.
+
+1. 24,205.2 ($m)
+2. 7558 ($m)
+3. arst 
+4. In brackets = outflow, therefore largest inflow is operating, largest outflow is the employee payment.
+**SA QNS**
+1. b
+2. c
+3. Faithful representation ensures that financial statements are not misleading intentionally, are not biased in any way, and are kept objective. 
+
+Company Name, Title, and Date very important to put on the balance sheet.
+
+- Expenses not involving cash outlays e.g. depreciation and bad debts.
+
+**Financial Position**: balance sheet
+**Financial Performance**: income statement
+
+## T2
+
+1. b
+2. c
+3. c?
+4. 
+
+
+## T3
+mid-sem exam week 7 (fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffuck)
+quiz next week
+Relevance is the other qualitative thingy majig - so faithful representation and relevance
+Deferred income = liability
+Categories that shit can currently be: Asset, liability, expense, equity
+Expense and revenue closed off at the end of each period, so fresh at the open of each period
+This period's opening balance = last period's closing balance
+Helps to nest with double entry system, i.e. nest credits under debits, to make sure that they match
+Debit entry comes first **ALWAYS**
+profit = rev - exp
+ Assets and liabilities NOT in inc stat
+ Rev and Exp not in balance sheet
