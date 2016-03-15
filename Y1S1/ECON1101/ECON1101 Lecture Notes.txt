@@ -1,5 +1,4 @@
-{{TOC}}
-## L1
+{{TOC}} ## L1
 
 **((STILL USES OVERHEADS))**
 
@@ -375,3 +374,38 @@ Market or industry supply is the horizontal summation of individual firm supply 
 **Producer Surplus**: the difference between the price and marginal cost over each unit of output supplied
 PS = revenues - sum of MC
 Profits = PS - fixed costs
+
+## L13
+Chapter 7 readings
+**Total Surplus and Competitive Markets**
+**Deadweight Loss**
+**Pareto Efficiency**
+**Competitive Market, Outcomes are Pareto Efficient**
+**Consumer Surplus** = Value to consumers - consumers' expenditures, ABP*
+Consumers's Expenditures = P* x Q*
+
+**Producer's Surplus** = producer revenues - producer costs, P*BQ*O - CBQ*O = P*BC
+**Total Surplus** = CS + PS
+= ABP* + P*BC
+=ABC (triangle, A and C on the y-axis, B the point where the curves meet)
+= value to consumers - producer costs
+
+Q* is the "efficient" output level where MB = MC and total surplus is maximised
+
+**Deadweight Loss**: The reduction in total surplus due to an inefficient quantity
+
+**Efficient Outcome**: No resources wasted
+
+**Pareto Efficiency**: A situation where you can not make someone better off without makeing someone else worse off 
+3 conditions for econ. effiency: pp. 169-170
+1. *Output effiency*
+MB=MC for last item produced (  if not,a dlust output to mac total rupluf)
+2. *Production efficiency*
+MC same fro all producers ( if not, shift production to lowest MC producer and produce at lower cost)
+3. *Consumption effiency*
+- MB same for all consumers ( if not, shift consumption to highest MB consumer and get more total benefit)
+
+Competitive market outcomes are efficient
+**Output Efficient**: at Q*: MB = MC = P*
+**Production Efficient: All producers face same market price and produce where P* = MC
+**Consumption Efficient**: All onsumers face same market price and consume where P* = MB.

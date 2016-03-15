@@ -28,4 +28,13 @@
 **Supply Curve**: Graph indicating quantity supplied at diferent prices.
 **Price Floor**: A legal minimum on the price of a good
 **Sunk Cost**: A cost that can not be avoided or, once made, can not be recovered.
+**Consumer Surplus**: The difference between what consumers are willing to pay and what they have to pay
+**Producer Surplus**: The difference between the price and marginal cost over each unit of output supplied
+
+**Deadweight Loss**: The reduction in total surplus due to an inefficient quantity
+
+**Pareto Efficiency**: A situation where you can not make someone better off without makeing someone else worse off 
+
+
+
 
