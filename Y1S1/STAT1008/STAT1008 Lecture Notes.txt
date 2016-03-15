@@ -203,8 +203,8 @@ E(X-Y)= E(X)-E(Y)
 
 **Variance**: Measures spread/dispersion of distribution
 σ<sup>2</sup> = E[(X-µ)<sup>2</sup>] 
-E[X^2]-µ^2
-∑[x<sub>i</sub>2 * p(x<sub>i</sub>)- σ^2
+Var(X) = E(X^2 )-µ^2
+Var(X) = ∑[x<sub>i</sub><sup>2</sup> * p(x<sub>i</sub>)]- σ^2 
 Var(X)=σ^2(X) = σ<sub>X</sub>^2
 V(c)=0
 V(cX)=c^2V(X)
