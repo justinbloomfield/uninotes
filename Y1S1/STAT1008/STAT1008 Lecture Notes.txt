@@ -189,5 +189,26 @@ Random variables in capitals, actual values in lower case.
 
 ## L12
 
-Assignment handed out by latest on wattle
 **Random Variables**: If value of X depends on chance, then it is a *random variable*
+
+## L13
+
+Ask course dude about whether or not my r is acceptable for a screenshot
+
+var(cbind(x,y)), want the ones that match, could just use cov(x,y)
+**Grab the formulae for the Rules for Expectations form the lecture slides**
+E(c) = c 
+E(cX) = cE(X)
+E(X-Y)= E(X)-E(Y)
+
+**Variance**: Measures spread/dispersion of distribution
+σ<sup>2</sup> = E[(X-µ)<sup>2</sup>] 
+E[X^2]-µ^2
+∑[x<sub>i</sub>2 * p(x<sub>i</sub>)- σ^2
+Var(X)=σ^2(X) = σ<sub>X</sub>^2
+V(c)=0
+V(cX)=c^2V(X)
+V(X+c)=V(X)
+V(X+Y)=V(X)+V(Y) (*if X and Y are independent*)
+V(X-Y) = V(X)+V(Y) (*if X and Y are indepent*)
+

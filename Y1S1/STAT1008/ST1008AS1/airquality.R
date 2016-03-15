@@ -4,5 +4,4 @@ aq = read.csv("airquality.csv")
 hist(aq$Temp, breaks=20)
 #Save currently visible plot
 boxplot(Ozone~Month,data=aq, main="Ozone per Month", ylab="Ozone Density", xlab="Month")
-dev.print(png, file="histtemp.png")
 table(aq$Month, aq$Ozone)

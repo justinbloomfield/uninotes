@@ -31,3 +31,4 @@
 **Stratified Random Sampling**: Sometimes called proportional or quota random sampling, involving dividing our population into homgeneous subgrougs and then taking a simpe random smaple in each subgroup. Sex, Religion and Race are categories for identifying subgroups.
 **Cluster/Area Random Sampling**: Divide population into clusters, randomly sample these clusters, measure **all** units within sampled clusters.
 
+**Variance**: Measures spread/dispersion of distribution
