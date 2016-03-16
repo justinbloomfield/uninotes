@@ -409,3 +409,22 @@ Competitive market outcomes are efficient
 **Output Efficient**: at Q*: MB = MC = P*
 **Production Efficient: All producers face same market price and produce where P* = MC
 **Consumption Efficient**: All onsumers face same market price and consume where P* = MB.
+
+## L14
+chapter 7, pp.178-181, 363-365
+**Infomational Advantage of Price Mehcanism**
+**Efficiency vs Equity**
+**Application to Price Ceiling**
+
+Competitive markets lead to efficient but not necessarily equitable outcomes.
+
+Economic effiency leads to maximum total surplus, i.e., realize all possible gains from trade.
+**Equity**: The farness of the distribution of goods and wellbeing across society.
+Efficiency: Getting the economic "pie" or total surplus as big as possible. *Relies largely on positive analysis**
+Equity: dividing the economic pie "fairly". *Involves normative judgements*
+*Application to Price Ceiling*: Govt. imposes a price ceiling or maximum price below P*. Leads to excess demand and a lower market quantity Q<sub>2</sub>. Assume that consumers who value the good the most receive the good. Consumers who still purchase good do so at lower price, increase in CS = A. Consumers who no longer purchease good, decrease in CS = B. Total change in CS = A - B.  Producers who still produce now receive a lower price, decrease in their PS = A. Producers who no longer produce (higher cost producers), lost PS = C. Total chaneg in PS = -A - C.
+
+Change in Total Surplus = chane in CS + change in PS
+= (A - B) + (-A - C)
+= -B - C
+= deadweight loss

@@ -5,4 +5,5 @@ hist(aq$Temp, breaks=20)
 #Save currently visible plot
 boxplot(Ozone~Month,data=aq, main="Ozone per Month", ylab="Ozone Density", xlab="Month")
 plot(table(aq$Ozone, aq$Temp))
+plot(aq$Temp, aq$Ozone, main="Ozone Density for Temperature", ylab="Ozone Density", xlab="Temperature (°F)") 
 

@@ -1,5 +1,4 @@
-# ECON1101 Glossary
-
+# ECON1101 Glossary 
 ***Micro*economics**: Studies the behaviour of individual firms and households or specific markets
 ***Macro*economics**: Focuses on the whole economy, not individual markets.
 **Positive analysis**: Descriptive statements of cause and effect, e.g. lower fages for low wage workers will lead to an increase in demand for those workers
@@ -35,6 +34,4 @@
 
 **Pareto Efficiency**: A situation where you can not make someone better off without makeing someone else worse off 
 
-
-
-
+**Equity**: The farness of the distribution of goods and wellbeing across society.
