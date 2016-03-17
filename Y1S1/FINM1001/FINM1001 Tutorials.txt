@@ -39,6 +39,8 @@ e3. A preference share is given priority over ordinary shareholders and are enti
 2. Limited liability means that liability is restricted to some extent by law, where no liability is where an investor has no obligation to help should shit hit the fan. Lim. usually represented by having the full share price not paid at the time of purchase, with the company holding the extra amount ready to be called in shoudld they need it, wheras no liability means you do not have to pay the amount owing. 
 3. A preference share is given priority over ordinary shareholders and are entitled to fixed dividends, but generally have no right to vote on company affairs.
 *Valuing Financial Instruments*
-Dividends that have been paid are unrelated to valuing share.
-Identify all cash flows, add up PV's if there's a gap(?)
+**Dividends that have been paid are unrelated to valuing share.
+Identify all cash flows, add up PV's if there's a gap(?)**
+
+## T4 
 

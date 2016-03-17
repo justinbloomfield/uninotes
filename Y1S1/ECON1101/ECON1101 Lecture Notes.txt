@@ -428,3 +428,63 @@ Change in Total Surplus = chane in CS + change in PS
 = (A - B) + (-A - C)
 = -B - C
 = deadweight loss
+
+## L15
+reading: chapter 7 & 8
+
+**IMPACT OF EXCISE TAX**
+**Determining the Market Quantity**
+**Welfare Impact**
+**Economic Incidence of Tax**
+**Determinants of DW Loss**
+
+**Excise Tax**: Tax on a good or a service
+let P<sub>b</sub> = price buyers pay
+    P<sub>s</sub> = price sellers receive
+    P<sub>b</sub> > P<sub>s</sub>
+
+**Specific or unit tax**: a fixed dollar tax per unit of a good.
+    P<sub>b</sub> = P<sub>s</sub> + t
+
+**ad valorem Tax**: Tax levied as a fixed percentage of the value of good
+    P<sub>b</sub> = (1 + t)P<sub>s</sub>
+
+No difference in market quantity or prices if tax is collected from suppliers or demanders.
+
+Production tax: tax adds to MC of suppling goods.
+
+Tax shifts supply curve upwards, which moces the market price to left, and the market cost increases.
+
+Consumption tax: tax lowers MB of consuming goods
+
+Demand curve moves down, market quantity the same as the production tax place.
+
+Market equilibrium quantity with tax t is where 
+1. demand equals supply
+	Q<sub>t</sub> = Q^D (at P<sub>b</sub>) = Q^S (at P<sub>s</sub>)
+2. price difference equals tax
+	P<sub>b</sub> - P<sub>s</sub> = t
+
+**Welfare Impact of a Tax**
+1. Impact on consumers: pay more, (P<sub>b</sub> > P*) and consume less
+CS (Before) =  A+B+C
+CS (After) = A (the top triangle, above P<sub>b</sub>)
+∆CS = -B - C
+2. Impact on producers: lower price received (P<sub>s</sub> < P*) and produce less
+PS (Before) = D + E + F
+PS (After) = F
+∆PS = -E-D
+3. Govt. Surplus: Collect tar revenues
+GS = t x Q<sub>t</sub> = B + D (it's a rectangle)
+4. Change in Total Surplus = ∆CS + ∆PS + ∆GS = - C - E (DW Loss), Excess Burden of Taxation
+t Q<sub>t</sub>(<Q*): MB > MC
+
+*Economic Incidence of tax* or *Who bears the tax?*
+Tax borne by the side of the market which is less price sensitive (i.e. less elastic)
+1. Elastic S & Inelastic D (e.g. tobacco products)
+2. Inelastic S & Elasic D
+
+Deadweight loss of tax (or excess burden of tax) is bigger when:
+1. tax t is larger (resulting in lower, more inefficient quantity)
+2. demand or supply is more price elastic (resulting in lower, more inefficient quantity)
+

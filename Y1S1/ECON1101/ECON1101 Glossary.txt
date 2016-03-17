@@ -35,3 +35,7 @@
 **Pareto Efficiency**: A situation where you can not make someone better off without makeing someone else worse off 
 
 **Equity**: The farness of the distribution of goods and wellbeing across society.
+
+**Excise Tax**: Tax on a good or a service
+**Specific or unit tax**: a fixed dollar toax per unit of a good.
+**ad valorem Tax**: Tax levied as a fixed percentage of the value of good
