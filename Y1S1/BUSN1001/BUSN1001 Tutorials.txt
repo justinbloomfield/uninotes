@@ -57,3 +57,20 @@ Debit entry comes first **ALWAYS**
 profit = rev - exp
  Assets and liabilities NOT in inc stat
  Rev and Exp not in balance sheet
+
+
+## T4
+4.1. a. No, no cash flows? also hasn't occurred yet, so just no. Only internal. Tick
+	b. Yes, as their would be changes to acccounts, specifically to acounts receivable and inventory? Tick
+	c. Yes????????????????????????? probs not.... shit 
+	d. yes 
+	e. yes, cash and vehicles
+	f. maybe, as the accounts would need to be adjusted to reflect this event.
+	g. no 
+
+**RULES FOR A TRANSACTION**
+1. Must have exchange which has occurred in the past
+2. Must be between company and external party
+
+Recheck how to do the income statements (something about p and l)
+Allowance for DD = contra-asset
