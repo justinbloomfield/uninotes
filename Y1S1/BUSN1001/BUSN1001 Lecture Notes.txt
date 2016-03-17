@@ -122,3 +122,37 @@ For services provided, cr *unearned* revenue, then after the service has been pr
 *Rewatch this after you've done the reading*/
 **Closing**: Resetting accounts so that an acccurate report of financial performance is reliable and not biased
 read ch. 3 4 and 5 by next lecture
+
+## L5
+**Accrual accounting** - Business Reporting of Financial Position and Financial Performance.
+
+All this stuff so far is the focus of the mid-term exam, so re-read it all (the important parts at least) so that you actually understand it
+Mid-sem Wed 30 March, 6PM. Need to bring: sudent card, pencil, calc, ruler. Closed book, so again, actually learn this stuff.
+Supposedly 20 MC questions, and 2 ER
+
+Revenue from point of sale
+Expenses when (defs on p 57,58,185), more advanced defs in chapter 6 and 13
+	|Accruals |	Deferrals|
+	|--|--|-:|
+Revenues Acc. rev (asset) Unearned rev (liability)
+Expenses Acc. exp (lia) 
+
+
+eatch expenses into the same period as 
+Match expenses into the same period as 
+prepayment acc for cash inflow prior to rev and exp, Dr Prepaid, Cr Cash -> Dr Expense, Cr Prepaid
+
+Work performed but not yet paid = Dr Wages Wxpense, Cr Accrued Wages
+Payment made = Dr Accrued Wages, Cr Cash
+
+Cash received in advance: Dr Cash, Cr Unearned Revenue (<- liability)
+Performed = Dr Unearned Revenue, Cr Fees 
+
+**Allowance for doubtful debts**
+1. *Creating*
+Dr Doubtful debts expense 
+  Cr Allowance for doubtful debts
+2. *Writing off a bad debt*
+Dr Allowance for Doubtful debts
+  Cr Accounts receivable
+
