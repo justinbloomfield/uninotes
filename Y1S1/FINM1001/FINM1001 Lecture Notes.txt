@@ -141,3 +141,33 @@ Repay the face value, F of the instrument at a pre-defined maturity date.
 If coupons are other than semi-annual, quoted as annual nominal rates with compounding frequency to match the frequency of coupon payments. 
 
 *Unless told otherwise*, zero-coupon bonds with maturities > 1 year assume yield is quoted an an annual effective rate. Where < 1 year, assume an annual nominal rate with a compounding frequency that matches the time until bond maturity.
+
+## L5
+**Making Investment Decisions**
+Mid-sem april 1st, in the morning? Melville hall we think
+From week one to week 5
+**Capital Budgeting**: Using time value of money concepts to identify the projects a firm should undertake.
+Using annuities, because nearly all projects have an end date.
+When considering a project, important to note we are only concerned withe the *incremental* cash flows associated with the project. The incremental net cash flow of a project is defined as the difference between the firm's cash flows if the project is undertaken and the firm's cash flows if the project is undertaken and the firm's cash flows if the project is not undertaken.
+
+Depreciation is *tax deductible*.
+Assume $0 for ESV if not told
+If an asset is sold for a price greater than it's depreciated value, the excess is a taxable gain. If sold for less, the difference is an allowable deduction for tax purposes.
+g
+
+## L6
+
+**DIVERSIFICATION**
+Room opens at 8:35 (Melville Hall/JD102) friday 1st, hour and a half
+Week one stuff not on exam, not that that really matters that much. The maths stuff is what the questions are going to be on
+**Defining Risk and Understanding its Relationship with Return**
+
+**Kurtosis**: A measure of the "tallness" or "flatness" of the distribution. Normal distribution has zero excess kurtosis.
+
+**Default risk**: Company-specific risk that is *different for each stock*. Company gose bankrupt due to its own actions
+**Systematic risk (ß)**: Risk caused by factors that influence all stocks. Cannot remove this risk through diversification
+*Investors prefer more wealth to less*, and
+*Investors are risk averse*
+**Risk averse utility maximiser**
+
+

@@ -37,3 +37,7 @@
 **Par Value**: The amount specified to be payed on the bond’s maturity date.
 
 **Expected Rate of Return**: The discount rate that equates the present value of the future cash flows with the current market price.
+
+**Kurtosis**: A measure of the "tallness" or "flatness" of the distribution. Normal distribution has zero excess kurtosis.
+
+
