@@ -241,9 +241,7 @@ Orange juice example: Price goes down 1 cent, quantity demanded gos up 5. ∆Q/�
 
 ## L8
 Read ch. 5 including “The Budget Line” in the appendix
-**Other Demand Elasticity Measures, Price Elasticity of Supply**
-**Application: Drug-Related Crime, Drug Prohibition and Drug Education**
-**Consumer Behaviour - Individual Demand**
+**Otherer Behaviour - Individual Demand**
 - Willingness to pay
 - Marginal and Total Benefit
 - Price Equals Marginal Benefit
@@ -396,7 +394,7 @@ Q* is the "efficient" output level where MB = MC and total surplus is maximised
 
 **Efficient Outcome**: No resources wasted
 
-**Pareto Efficiency**: A situation where you can not make someone better off without makeing someone else worse off 
+**Pareto Efficiency**: A situation where you can not make someone better off without making someone else worse off 
 3 conditions for econ. effiency: pp. 169-170
 1. *Output effiency*
 MB=MC for last item produced (  if not,a dlust output to mac total rupluf)
@@ -487,4 +485,73 @@ Tax borne by the side of the market which is less price sensitive (i.e. less ela
 Deadweight loss of tax (or excess burden of tax) is bigger when:
 1. tax t is larger (resulting in lower, more inefficient quantity)
 2. demand or supply is more price elastic (resulting in lower, more inefficient quantity)
+
+## L16
+Chapter 8
+
+**Costs in the Short Run**
+**Drawing the Short Run Cost Curves**
+**Tutorial 5 Q2**
+
+Depending on timem horizon, not all production inputs can be varied, some may be fixed.
+
+**Short run**: Some inputs are variable, all others fixed.
+
+**Long run**: All inputs are variable.
+
+**Fixed Costs**: Costs associated with fixed inputs, paid regardless of output level, a sunk cost in SR (short run)
+
+**Vaiable Cost**: Costs associated with variable inputs, varies with output level
+
+**Marginal Cost (again)**: Change in costs due to additional (or last) unit of output produced
+
+MC = ∆TC /∆Q (Roughly)
+
+Average Fixed Cost = Fixed Cost / Quantity
+
+Average Variable Cost = Variable Cost / Quantity
+
+Average Total Cost = Total Cost / Quantity
+
+ATC = AFC + AVC
+
+As Q increases, ATC and AVC move closer together.
+
+For SR Cost Curves, MC curve *must* intersect AVC and ATC curves at their turning point
+
+MC = w (wage) / MP<sub>L</sub>
+
+## L17
+Still chapter 8... you should be able to do this tonight, if you don't you're an idiot. Probs look at tutorial work for tomozzles as well
+
+**Economic Costs vs. Accounting Costs**
+**Price-Taking Firm: P = MR = AR**
+**Profits, Costs and Production in SR** *Break-Even Point, Shut Down Point*
+**Costs and Production in LR**
+
+Last year's mid sem up on wattle by the end of the week, which room i need to go to as well, determined by surname
+
+**Total Economic Cost**: Sum of opportunity cost of all inputs including implicit costs
+
+For Price-Taking Firms, Marginal Revenue = Price
+Average Revenue (AR) = Total Revenue/Quantity = (PxQ)/Q = P
+
+Thinking on the Margin:
+In SR, firm macimzes profits and produces at Q* where P (= MR ) = MC
+
+Profits = (P-ATC) x Q
+
+**Break-even point**: When price equals the minimum of average total costs (p. 202), i.e. no profit
+
+IF P ( = AR ) < ATC (at Q*), then profits are negative
+
+Profits = Revenues - Variable Costs - Fixed Costs
+        = (PxQ) - (AVCxQ) - FC
+	= (P-AVC)xQ - FC
+
+If P > AVC, then firm can more than cover its variable costs and achieve less negative or possibly positive profits.
+
+But, if P =< minimum of AVC, then the firm should **shut down** to maximize profit.
+
+
 
