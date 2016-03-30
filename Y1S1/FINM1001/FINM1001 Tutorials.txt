@@ -44,3 +44,8 @@ Identify all cash flows, add up PV's if there's a gap(?)**
 
 ## T4 
 
+## T5
+Capital Expenditures: Something you own, after using it, still have/own it. Able to re-sell, cost that comes togethers, e.g. installation.
+Expenses: Once used, gone, e.g. Electricity, water
+
+

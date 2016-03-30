@@ -554,4 +554,175 @@ If P > AVC, then firm can more than cover its variable costs and achieve less ne
 But, if P =< minimum of AVC, then the firm should **shut down** to maximize profit.
 
 
+## L18
+Read chapter 9
+**Price Taking Firm in the Long Run**
+**Production and Profits**
+**Returns to Scale**
+**Economies of Scale**
+**Set-Up Costs**
+**Economies of Scope**
+
+Bring a pencil for multiple choice questions
+
+Long run: All inputs are variable including capital K
+
+Tend to observe firms which produce more also use more K. 
+At low Q1, ATC(K1) < ATC(K2)
+	use less capital K1
+At high Q2, ATC(K2) < ATC(K1)
+	use more capital K2
+
+What about long run MC?
+ATC<sub>LR</sub> = TC<sub>LR</sub> / Q
+MC<sub>LR</sub> = TC<
+
+
+Thinking on the Margin:
+In LR, firm maximizes profits and produces where P(=MR) = MC<sub>LR</sub>
+
+In LR, break-even point and shutdown point are the same where:
+P = Min. ATC<sub>LR</sub>
+  = Min. AVC<sub>LR</sub>
+
+What happens to output if we increase all factores of production proportionately?
+*constant* returns to scale
+proportional (%) increase in all inputs leads to same % increase in output
+double inputs => output doubles
+
+*increasing* returns to scale:
+proportional (%) increase in all inputs leadst to more than % increase in output
+double inputs => output more than doubles
+
+*decreasing* returns to scale
+proportional (%) increase in all inputs leadst to less than % increase in output
+double inputs => output less than doubles
+
+**Economies of Scale**
+A long run **cost** concept
+
+Diseconomies of scale
+1. Rising LR average costs with highher output
+2. Associated with decreasing returns to scale in production
+
+Economies of Scale
+1. Falling LR average costs with higher output
+2. Associated with increasing returns to scale in production
+
+**Minimium Efficient Scale**(p. 212): The smallest scale of production to achieve minimum ATC<sub>LR</sub>
+**Set-Up Costs**: Costs necessary to setup or start production but do not vary with production levels.
+**Economies of Scope**: Where ATC declines when different goods are produced
+
+
+## L19
+Read: Ch 9 & 10
+**Implicit Cost of Capital**
+**LR and SR Cost Curves at minimum of ATC<sub>LR</sub>**
+**Entry and Exit of Firms**
+**LR Market Equilibrium**
+**Impact of Demand Increase**
+**Impact of Demand Decrease**
+
+**Implicit Cost of Capital**:  opportunity cost of financial capital invested in firm
+
+**Total Economic Cost**: sum of opportunity cost of all inputs including implicit costs
+
+*Lower case q is for output of single firm*
+
+Produce where P = MC to maximise profits
+at q\*: P = min ATC<sub>LR</sub> break even point
+Profits = {P - ATC} x q = 0
+
+
+When P = minimum of ATC<sub>LR</sub>,
+Firm earns zero economic profits or "normal economic profits", i.e. revenues cover all economic costs and provides "normal" rate of return on financial/physical capital investments.
+
+What passes through the minimum of ATC<sub>LR</sub> are the ATC<sub>SR</sub> and MC<sub>SR</sub> curves for the level of K at the minimum efficient scale.
+
+Market or industry supply is the horizontal summation of individual firm supply curves.
+
+In the LR,
+1. Firms can alter K input
+2. at the market level, the number for firms can vary
+
+When will new firms enter an industry?
+
+When existing firms receive SR profits, i.e., when P > min of ATC<sub>LR</sub>
+
+In LR, new firms *enter*:
+- increase market supply
+- drives down market price
+
+When will existing firms exit an industry?
+
+When existing firms make SR losses, i.e., when P < min of ATC<sub>LR</sub>
+
+In LR, some firms *exit*:
+- decrease market supply
+- raise market price
+
+Industry is in LR equilibrium when firms have no incentive to enter or exit, i.e., P = min of ATC<sub>LR</sub>
+
+LR Equilibrium has two desirable features:
+1. ATC<sub>LR</sub> is minimized
+- Goods are produced at lowest costs whichi is also price consumers pay
+2. Capital is allocated efficiently
+
+SR & LR Impact of a Demand Increase (p. 231)
+1. Increase in D -> market price rise
+2. -> positive SR firm profits
+3. -> firms enter in LR
+4. -> increase in market supply
+5. -> entry stops when LR industry equilibrium reached
+
+Result in LR
+1. More firms in industry
+2. LR output > SR output
+3. Price back to min ATC<sub>LR</sub> and zero economic profits
+
+SR & LR Impact of a Demand Decrease (p. 233)
+
+1. Decrease in D -> Market price falls
+2. -> negative SR firm profits
+3. -> Firms exit in LR
+4. -> decrease in market supply
+5. -> exit stops when LR Industry Equilibrium reached
+
+GRAB THE LAST PART OF THIS 
+
+## L20
+
+**LR Industry Supply Curve**
+- Constant-Cost Industry
+- External Diseconomies of Scale
+- External Economies of Scale
+**Sources of Monopoly**
+**For Monopolist: MR < P, AR = P**
+
+**Constant-cost Industry**: LR Average costs remain unchanged as industry output rises
+
+***External* diseconomies of scale**: Factors *outside* the control of a firm that *raise* its costs as industry outpet increases.
+- as industry Q increases, cost of inputs increases
+- an increasing-cost industry
+
+***External** economies of scale**: Factors *outside* the control of a firm that *lower* its costs as industry output increases
+- as industry Q increases, cost of inputs decreases
+- a decreasing-cost industry
+
+**Monopoly**: A market with a single seller of a product with no close substitutes
+**Barriers to entry**: anything that prevents firms from entering a market
+
+Sources of Monopoly or 
+Why only one seller in certain markets?
+1. economies of scale
+**natural monopoly**: a market most cheaply served by a single firm
+depends on size of market
+
+2. exclusive access to important inputs or technology
+
+3. patents
+
+4. government licenses
+
+Monopolist maximises profits and produces where MR = MC
 

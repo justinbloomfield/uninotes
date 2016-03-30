@@ -70,7 +70,15 @@ profit = rev - exp
 
 **RULES FOR A TRANSACTION**
 1. Must have exchange which has occurred in the past
-2. Must be between company and external party
+2. Must be between company and external party:
 
 Recheck how to do the income statements (something about p and l)
 Allowance for DD = contra-asset
+
+## T5
+
+1. Adjusting journal entries is performed to implement accrual accounting by recoginising economic events that are not yet adequately accounted for by the standard transactional accounting system.
+2. a
+3. c
+4. a
+5. 

@@ -212,3 +212,11 @@ V(X+c)=V(X)
 V(X+Y)=V(X)+V(Y) (*if X and Y are independent*)
 V(X-Y) = V(X)+V(Y) (*if X and Y are indepent*)
 
+
+## L14
+
+**Linear Combinations of Random Variables**
+If Z=aX+bY, where a and b are constants, and X and Y are random variables, it can be shown that:
+E(aX + bY) = aE(X) + bE(Y)
+VJJ(aX + bY) = a|2|V(X) + b|2|V(Y) + 2*av*covo(X,Y)
+	= a|2|σ|2|?x?+b|2|σ|2|?y? + 2avpσ?x??y?
