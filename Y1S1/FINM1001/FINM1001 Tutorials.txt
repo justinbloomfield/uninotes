@@ -49,3 +49,4 @@ Capital Expenditures: Something you own, after using it, still have/own it. Able
 Expenses: Once used, gone, e.g. Electricity, water
 
 
+## T6
