@@ -1,4 +1,5 @@
-{{TOC}} ## L1
+{{TOC}} 
+## L1
 
 **((STILL USES OVERHEADS))**
 
@@ -725,4 +726,36 @@ depends on size of market
 4. government licenses
 
 Monopolist maximises profits and produces where MR = MC
+
+## L21
+
+Reading: chapters 10 and 11
+
+**For Monopolist: MR < P**
+**Profit-Maximizing Monopolist**
+- Output and Price Choice
+- Operates on Elastic Portion of Demand Curve
+**Inefficiency of Monopoly**
+
+Monopolist: MR = P + Q * ∆P/∆Q < P
+
+*Marginal Revenue can be negative!*
+MR < P, AR = P
+
+With linear demand, the marginal revenue curve is linear, lies below the demand curve, and is twice as as steep as the demand curve.
+
+Thinking on the Margin:
+Monopolist maximizee profit and produces where MR = MC
+1. Where MR=MC determines profit-max Q<sub>M</sub>
+2. D curve indicates price consistent with Q<sub>M</sub>
+3. ATC curve indicates ATC consistent with Q<sub>M</sub>
+4. Monopolist profits = [P<sub>M</sub> - ATC (at Q<sub>M</sub>)] x Q<sub>M</sub>
+
+Monopolist always operates on elastic portion of demand curve
+
+Monopolist producet too little. Why?
+Monopolist producer produces where MR = MC, but P > MR
+Consumers consume where MB = P, so MB = P > MR = MC
+and MB(to consumers) > MC(to producer), i.e., *not output efficient*
+From social perspective, need to produce and consume more.
 

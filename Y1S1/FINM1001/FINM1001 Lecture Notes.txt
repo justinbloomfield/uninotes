@@ -170,4 +170,43 @@ Week one stuff not on exam, not that that really matters that much. The maths st
 *Investors are risk averse*
 **Risk averse utility maximiser**
 
+## L7
+**Diversification**: a means of reducing risk faced by investors without sacrificing expexted return by combining assets that don't move perfectly together in a portfolio.
+
+Total risk decreases as the number of risky assets increases, decreases to average covariance
+Systematic risk always present
+- Economic factors
+- Influence at risky assets
+- Cannot diversify away
+
+The covariance in portfolio of n assets = n(n-1)/2
+**Correlation coefficient**: p<sub>xy</sub> = σ<sub>xy</sub>/σ<sub>x</sub>σ<sub>y</sub>
+
+**Expected Return of a Portfolio**: E(R<sub>p</sub>) = w<sub>1</sub>E(R<sub>1</sub>)+w<sub>2</sub>E(R<sub>2</sub>)
+Where:
+w<sub>1</sub> = Proportion invested in Asset 1
+w<sub>2</sub> = Proportion invested in Asset 2
+E(R<sub>1</sub>) = Expected Return on Asset 1
+E(R<sub>2</sub>) = Expected Return on Asset 2
+
+
+## L8
+
+Quiz  in Tutorials, for week 7 material
+It's "gonna be rushed", so prepare for it
+Practice doing more questions, that seems like the only way for you to improve because you're fucking retarded
+Redo exam??
+Workshop this week
+
+**The Capital Asset Pricing Model and the Required Rate of Return for Risk**
+
+E(RR) = r<sub>f</sub> + # units risk * risk premium
+
+
+Systematic Risk = avg. of all covariances
+
+E(r<sub>i</sub>) = r<sub>f</sub> + σ<sub>i,m</sub>[risk premium/risk]
+Grab the formulas from the ppt, and then write them down because they're shit in this form.
+
+*CAPM does not provide **any** compensation for diversifiable risk*
 

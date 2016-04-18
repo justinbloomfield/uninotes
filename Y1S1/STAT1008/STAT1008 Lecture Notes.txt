@@ -199,7 +199,9 @@ var(cbind(x,y)), want the ones that match, could just use cov(x,y)
 **Grab the formulae for the Rules for Expectations form the lecture slides**
 E(c) = c 
 E(cX) = cE(X)
-E(X-Y)= E(X)-E(Y)
+E(X-Y) = E(X)-E(Y)
+E(X+Y) = E(X)+E(Y)
+E(XY) = E(X)*E(Y) **only** if X and Y are independent
 
 **Variance**: Measures spread/dispersion of distribution
 σ<sup>2</sup> = E[(X-µ)<sup>2</sup>] 
@@ -218,5 +220,46 @@ V(X-Y) = V(X)+V(Y) (*if X and Y are indepent*)
 **Linear Combinations of Random Variables**
 If Z=aX+bY, where a and b are constants, and X and Y are random variables, it can be shown that:
 E(aX + bY) = aE(X) + bE(Y)
-VJJ(aX + bY) = a|2|V(X) + b|2|V(Y) + 2*av*covo(X,Y)
-	= a|2|σ|2|?x?+b|2|σ|2|?y? + 2avpσ?x??y?
+V(aX + bY) = a<sup>2<sup>V(X) + b<sup>2<sup>V(Y) + 2*av*cov(X,Y)
+	= a<sup>2</sup>σ<sup>2</sup><sub>x</sub>+b<sup>2</sup>σ<sup>2</sup><sub>y</sub> + 2avpσ<sub>x</sub><sub>y</sub>
+
+## L15
+**Frequentist Probabilities**: Probs. associated with r.v.s are ofen associated with relative frequencies. i.e. Estimate probabilites from frequencies.
+
+## L16
+
+**Univariate**: Distribution of a single variable
+**Bivariate**: Distribution of two variables together
+So, if X and Y are discrete random variables, then we say p(x,y) = P(X=x and Y=y) is the joint probability that X=x and Y=y
+
+**Marginal Probability Function**: In general, marginal distribution of X is given by p(x) = P(X=x) = ∑(all y) p(x,). E.g. P(X=1) = p(1,0) + p(1,1) + p(1,2)
+**Independence**: If random variables X and Y are independent, then P(X=x and Y=y) = P(X=x).P(Y=y)
+p(x,y) = p<sub>x</sub>(x).p<sub>x</sub>(y)
+**Covariance**: If E(X)=µ<sub>x</sub> and E(Y)=µ<sub>y</sub>, then the covariance between X and Y is given by :
+σ<sub>xy</sub> = cov(X,Y) = E[(X-µ<sub>x</sub>)(Y-µ<sub>y</sub>)]
+**Correlation Coefficient**: See book
+
+## L17
+**Combinations**: See book
+**Binomial Notation**: If X is a binomial random variable with n trials and p is the probability of success in each trial, then we write X~Bin(n,p)
+P(X=k) when X~Bin(n,p) means the probability that we will have k successes and (n-k) failures; we know how many ways we arrange those successes and failures...
+**Binomial Formula**: See book
+**Mean and Variance of a Binomial Distribution**:
+µ<sub>x</sub> = E(X) = np
+σ<sup>2</sup><sub>X</sub> = np(1-p)
+
+*Binomial tables in back of textbook are pretty useful*
+
+## L18
+**Normal Distribution**: X~N(µ,σ^2 )
+
+## L19
+**Uniform Distribution**: ƒ(x)=1/(b-a) 
+**Normal Distribution**: See book for pdf. Bell shaped, symmetric about µ, reaches highest point at x=µ, tends to zero as x->±∞. 
+- Area under curve = 1
+- Different means shift curve up and down x axis
+- Different variances cause the curve to become more peaked or squashed
+- Notation: X~N(µ,σ<sup>2</sup>)
+**Standard Normal Distribution**: Z~N(0,1)
+
+ 
