@@ -16,6 +16,7 @@ Referencing assignment -> also need to fill out assignment cover sheet
 Two assignments due March 23^rd and May 4^th - worth 15% each. *Late not acccepted*
 3 hour exam worth 65%. Allowed:
 - [ ] non-prg calc
+memes
 - [ ] dictionary
 - [ ] one A4 double-sided sheet
 Reference and writing exercise - 5%, due March 18^th
@@ -262,4 +263,12 @@ P(X=k) when X~Bin(n,p) means the probability that we will have k successes and (
 - Notation: X~N(µ,σ<sup>2</sup>)
 **Standard Normal Distribution**: Z~N(0,1)
 
- 
+## L?? (figure this out)
+
+**Central Limit Theorem**: Xbar -> N(µ, σ^2/n), (Xbar - µ)/(σ/√n)
+
+**Standard error of the mean**: σ/√n, just means spread
+
+For these problems, remember to check if it's a normal distribution or not. If you don't do thatm you in trouble.
+
+in R, use nfrow to get more than one graph on the same output buffer.
