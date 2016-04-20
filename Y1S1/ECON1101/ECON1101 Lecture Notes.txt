@@ -765,3 +765,28 @@ Read chapter 11
 Mean was 43, so we got one higher than average! Hooray!
 No multiple choice on final exam (O fuck (Exit Hamlet))
 Answer for ER question 2 relates to lecure 8, if you're wondering about it in the future.
+
+## L23
+Read ch. 11
+
+**Price Discrimination**
+1. First-Degree PD
+2. Second-Degree PD
+3. Third-Degree PD
+
+
+
+**Price Discrimination**: Different consumers pay different prices for same good
+
+Reasons for demand curve sloping down:
+1. people differ in their willingness-to-pay or maximum price a customer will pay to purchase one unit
+2. people may buy multiiple units but demand reflects declining marginal value for good
+**First-degree price discrimination**: selling each unit of output at a price equal to buyer's willingness-to-pay
+Demand curve is Marginal revenue curve, in this case
+With first-degree pd, monopolist output Q^d  is efficient (MB=MC and total surplus maximized) but there are equity concerns.
+
+Price discrimination or differences gives incentives for arbitrage
+**Second Degree price discrimination**: same price schedule offered to all buyers but they sort themselves through self-selection
+Monopolist knows there are diffesent types of consumers with different demand. But, for any individual conusmer, monopolist doesn't know what type he or she is. Quantity/price bundles allow cnsumers to sort/identify themselves
+**Third Degree price discrimination**: monopolist can identify separate groups of buyers of a good who differ in their demand for a good and charge different prices to these groups.
+This  maximises profits, by charging higher prices to less price-sensitive groups

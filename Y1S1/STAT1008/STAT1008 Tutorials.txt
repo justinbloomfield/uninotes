@@ -32,3 +32,10 @@ d. 1
 	
 	Need to find P(D|T)=P(D int. T)/P(T)
 	
+## T7
+Day we got assignment 1 back, 81%, which is slightly below average... sads fuck you asians
+Be sure to actually define variables properly
+For d, something or other, seems like I didn't do something right there. Other wise I wouldn't have lost 3 marks on it!
+For part 1a, it was all continuous, rounding in the data doesn't matter. That's pretty shit tbh.
+Nature, not data that's important.
+For scatter plots, should mention linearity
