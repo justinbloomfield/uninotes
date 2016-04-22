@@ -790,3 +790,54 @@ Price discrimination or differences gives incentives for arbitrage
 Monopolist knows there are diffesent types of consumers with different demand. But, for any individual conusmer, monopolist doesn't know what type he or she is. Quantity/price bundles allow cnsumers to sort/identify themselves
 **Third Degree price discrimination**: monopolist can identify separate groups of buyers of a good who differ in their demand for a good and charge different prices to these groups.
 This  maximises profits, by charging higher prices to less price-sensitive groups
+
+## L24
+
+Read ch. 11
+**Types of Market Structure**
+**Product Differentiation**
+**Monopolistic Competition**
+- *Defining Conditions*
+- *Short-Run Profits or Losses*
+- *Long-Run Equilibrium*
+**Monopolistic vs. Perfect Competition at LR Equilibrium**
+
+**Product Differentiation**: the effort by firms to produce goods that are slightly different from other types of goods.
+How are products differentiated?
+1. physical characteristics
+2. location
+3. time
+4. convenience
+
+Four conditions define a monopolistically competitive industry
+1. each firm produces a slighly differentiated product
+2. each firm faces a downward sloping demand curve
+3. free entry and exit
+4. many firms or differentiated product in industry
+MC firms can make **positive** profit if P* (AR) > ATC (at Q*), in SR
+In LR, new firms enter
+- consumers have more to choose from
+- Decrease in demand and MR for existing firms
+- Decrease in profits for existing firms
+
+MC firms cna make **negative** profit (losses)
+if P* (AR) < ATC (at Q*)
+
+In LR, firms exit
+- consumers have less to choose from
+- Increase in demand and MR for remaining firms
+- Increase in profits for remaining firms
+Long-run equilibrium when MC firms have no incentive to enter or exit (zero economic profits)
+
+**Note**: D curve is tangent to ATC curve and P* = ATC (at Q*)
+
+Two characteristics of LR equilibrium for MC industry
+1. P > MR just like moonopoly case due to downward-sloping demand
+2. P = ATC just like competitive case due to free entry and exit of firms
+Compared to perfect competition monopolistic competition leads to:
+1. Higher ATC -> output less than efficient scale
+2. P > MC -> inefficient output
+
+Is monopolistic competition bad? Hmm.
+cost: inefficient output
+benefit: product variety
