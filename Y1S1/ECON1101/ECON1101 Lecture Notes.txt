@@ -841,3 +841,28 @@ Compared to perfect competition monopolistic competition leads to:
 Is monopolistic competition bad? Hmm.
 cost: inefficient output
 benefit: product variety
+
+
+## L25
+Read ch. 11
+**Strategic Behaviour/Interaction**
+**Prisoners' Dilemma**
+**Incentives to Cooperate**
+
+Oligogoly markets have **few** competing firms. Each firm behaves strategically, i.e., recognize its actions have an effect on the actions of other firms
+Prisoners' Dilemma (not writing out the whole thing, just chucking it in here so that it's here if i need to google it for something or other)
+Player A will confess no matter what B's strategy is and oso too for B.
+"confess" is a dominant strategy.
+
+**dominant strategy**: a strategy that is the best regardless of the strategy of the other player(s)
+
+(A confess, B confess) is a pair of **Nash equilibrium strategies**, i.e., strategies which are best replies to one another. "Equilibrium" here since neither would choose an alternative strategy.
+Outcome is Pareto inefficient, i.e., both could be made better off if they both denied.
+- a coordination or cooperation problem
+- but not in their self-interest to cooperate
+
+Incentives to "cooperate": **repeated games**
+Suppose A and B are professional criminals who plan a seies of crimes, i.e., play the above game many, many times
+
+**Grim strategy**: "I will cooperate/deny until the other player/criminal defects from cooperating and confesses. Then I will always confess for all subsequent crimes."
+(A grim strategy, B grim strategy) are Nash equilibrium strategies (best replies to each other) and no one ever confesses. Now in their self-interest to "cooperate".
