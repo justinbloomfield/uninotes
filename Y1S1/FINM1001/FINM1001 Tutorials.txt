@@ -57,3 +57,10 @@ Expenses: Once used, gone, e.g. Electricity, water
 
 Do the rest of the questions, to practise with these formulae. This shit's easy, as long  as you can rememeber you raytarde.
 
+
+## T8
+
+1. *What is beta?* Beta is a measure of systematic risk in comparison to the market as a whole/Measure of stock's volatility in comparison to the market.
+
+3. The CAPM is a model for pricing a single security or a portfolio, taking into account risk and diversification? Expected return of a risky asset is equal to the return on a risk-free instrument plus a premium based on the riskiness of the asset realative to the market.
+

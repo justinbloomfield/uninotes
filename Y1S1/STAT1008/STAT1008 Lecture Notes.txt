@@ -272,3 +272,29 @@ P(X=k) when X~Bin(n,p) means the probability that we will have k successes and (
 For these problems, remember to check if it's a normal distribution or not. If you don't do thatm you in trouble.
 
 in R, use nfrow to get more than one graph on the same output buffer.
+
+## L??+1
+
+For central limit theorem, Xbar follows normal distribution with E(Xbar)=µ and var(Xbar)=σ^2/n
+
+This happens regardless of the shape of the original population
+
+**What size n?**
+If the distribution of X is normal, then for all n the sample mean will follow a normal distribution
+If the distribution of X is *very* not normal, then we will need a large n for us to see the normality of the distribution of the sample mean.
+In all cases, as n gets larger, the distribution of the mean gets more normal
+
+**Types of Estimators**
+**Point Estimate**: a single value or point, i.e. sample mean = 4 is a point estimate of the population mean, µ
+**Interval Estimate**: Draws inferences about a population by estimating a parameter using an interval (range). E.g. We are 95% confident that the unknown mean score lies between 56 and 78
+Want estimators to be *unbiased*. An unbiased estimator is consistent if the difference between the estimator and the parameter gets smaller as the sample gets larger.
+1.645 = 90%
+1.96  = 95%
+2.33  = 98%
+2.575 = 99%
+
+## L??+2
+
+This shit needed for the assignment
+Don't forget to write the formula for general confidence interval
+

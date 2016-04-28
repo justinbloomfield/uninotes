@@ -200,7 +200,7 @@ Workshop this week
 
 **The Capital Asset Pricing Model and the Required Rate of Return for Risk**
 
-E(RR) = r<sub>f</sub> + # units risk * risk premium
+E(R) = r<sub>f</sub> + # units risk * risk premium
 
 
 Systematic Risk = avg. of all covariances

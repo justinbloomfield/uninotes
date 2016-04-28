@@ -866,3 +866,67 @@ Suppose A and B are professional criminals who plan a seies of crimes, i.e., pla
 
 **Grim strategy**: "I will cooperate/deny until the other player/criminal defects from cooperating and confesses. Then I will always confess for all subsequent crimes."
 (A grim strategy, B grim strategy) are Nash equilibrium strategies (best replies to each other) and no one ever confesses. Now in their self-interest to "cooperate".
+
+
+## L26
+Read Chap. 13
+**Duopoly Example**
+**Comparison of Monopoly, Oligopoly, and Efficient/Competitive Outcomes**
+**Duopoly Prisoners'Dilemma**
+**Advertising Prisoners' Dilemma**
+A key feature of oligogoly: tension between cooperation and self-interest. As a group, best off cooperating and acting like a monopolist.
+**duopoly**: an oligopoly with two firms
+Efficient outcome: Max total surplus where MB = MC
+Monopoly outcome: Max profit where MR = MC
+Duopoly/oligopoly outcomes lie between monopoly and efficient/competitive outcomes
+When oligopoly fimrs decide on quantities as their strategy, as the number of firms increases:
+- Q(total oligopoly) -> Q(effic.)
+- P(oligopoly) -> P(effic)
+- P(total oligopoly) -> Profit(effic)
+i.e. approach perfectly competitive outcomes as more firms "compete"
+Produce a small output and charge P > MC
+But self-interest leads each firm not to cooperate.
+
+## L27
+
+Read chapters 16 and 14
+**Labour Demand ( L^D ) **
+**Labour Supply ( L^S ) **
+**Union-Nonunion Wage Differentials**
+
+For Labour Market, y-axis = wage rate, x-axis=labour. Labour supply curve = supply curve, labour demand = demand
+Labour demand is a derived demand.
+**marginal product of labour (MP<sub>L</sub>)**: additional output from additional (or last unit of) labour
+As Labour increases, MP<sub>L</sub> decreases, i.e. diminishing returns to labour
+**marginal revenue product of labour (MRP<sub>L</sub>)**: additional revenue form additonal (or last unit of) labour
+demand for labour:
+	employer thinks on the margin
+		MB = MC (for employer)
+		MRP<sub>L</sub> = w (wage rate)
+
+L^D is downward-sloping duse to diminishing MP<sub>L</sub>
+Input demand is linked to ouptup supply
+
+(Some stuff from L16, the changing formula thingies)
+
+which leads to MC = w/MP<sub>L</sub>
+
+Output supply: produce where P (=MR) = MC
+so P = w/MP<sub>L</sub>
+or P x MP<sub>L</sub> = w
+which is a the labour demand condition!
+Labour Supply ( L^S )
+
+Time allocation decision:
+allocate 24 hours in a day either in
+"labour"  market work
+"leisure" non-market work (housework, child care, schooling, etc.) play, sleep
+i.e. supply labour or demand leisure
+
+Wage rate is the price of labour or the opportunity cost of leisure or not working.
+
+What happens to L^S when wage rate increases?
+2 competing effects
+- substitution effect -> L^S increases
+- income effect -> L^S decreases
+
