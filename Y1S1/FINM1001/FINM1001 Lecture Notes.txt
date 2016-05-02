@@ -235,3 +235,26 @@ Margin accounts do some shit
 Two types of settlement: 
 1. Cash
 2. Physical delivery
+## L10
+
+**Arbitrage**
+
+If two assets probide identical payoffs, they must also have the same price. This is an idea we can use in the valuation of derivatives such as forwards, futures and options contracts.
+
+**Forwards and Futures Contracts (Part B)**
+
+A futures contract hast the same value as an otherwise identical forward contract.
+
+Both can be valued by recognizing the two following ideas:
+1. Their payoff can be replicated by taking positions in the spot market
+2. If there are two ways to get the same outcome, they must have the same price, otherwise an arbitrage opportunity exists and a positive risk-free profit can be made by simultaneously buying low and selling high
+
+*see book for valuation equations for forwards and futures contracts*
+**Short Selling**: The process of borrowing an asset from its owner at time 0, selling it and repurchasing it at a later date to return to the owner.
+
+**Options Contracts (Part A)**
+An **option** is a contract that gives the buyer the *right*, but *not* the obligation to buy (call option) or sell (put option) to the seller of the option. i.e. the buyer (holder) has a right to exercise, but the seller (writer) has to comply with the decision.
+Normally specifies :
+- The amount of the asset that may be bought or sold under the option contract
+- Whether the option is *American* (can be exercised at any time befor or on expiry) or *European* (can only be exercised at maturity).
+Holder will only decide to exercise when it benefits them (*in the money*, ITM)
