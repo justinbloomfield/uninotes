@@ -298,3 +298,52 @@ Want estimators to be *unbiased*. An unbiased estimator is consistent if the dif
 This shit needed for the assignment
 Don't forget to write the formula for general confidence interval
 
+
+## L??
+alpha = significance = P(type 1 error)
+beta  = 1 - power = P(type 2 error)
+Power = P(reject H<sub>0</sub>, when it is false)
+
+**Null Hypothesis**
+- Always about a population value (greek letter)
+- Always has an "="
+
+**Alternative Hypothesis**
+- Always about a population value (greek letter)
+- Has one of <, > or =/=
+- Looks like null, but "=" has been replaced
+
+
+For this example:
+H<sub>0</sub>: mu = 170
+H<sub>A</sub>: mu > 170
+Z should follow a standard normal distribution IF the true mu is equal to the one in our null hypothesis
+If the NH is true, then value should look like a value from Z distribution
+**Need to watch the lecture from before this one, which is lecture C from last week**
+
+**One Tailed vs Two Tailed tests**
+
+If the alt. hypothesisis < or >
+- this is a one tailed test
+- rejection region wil be in *either* upper *or* lower tail
+- P-value is the probability of getting a more extreme result
+
+If the alt. hypothesis is =/=
+- this is a two tailed test
+- rejection region needs to be split between both tails
+- P-value will include an absolute value - i.e. will be the probability of getting further away from the hypothesised mean on either side
+
+If alt. is <
+- Left tailed
+- Rejection region will be Z<-Z<sub>alpha</sub>
+- P-value will be P(Z<T.S)
+
+If alt. is >
+- Right tailed
+- RR will be Z>+Z<sub>alpha</sub>
+- P value will be P(Z>T.S)
+
+If alt. is =/=
+- Two tailed
+- RR wil be Z<-Z<sub>alpha/2</sub>, Z>+Z<sub>alpha/2</sub>
+- P-V will be P(Z>|T.S|) + P(Z<-|T.S|)

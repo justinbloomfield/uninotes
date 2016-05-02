@@ -210,3 +210,28 @@ Grab the formulas from the ppt, and then write them down because they're shit in
 
 *CAPM does not provide **any** compensation for diversifiable risk*
 
+
+## L9
+
+**Arbitrage: Forwards and Futures Contracts (Part A)**
+
+These contracts are, in the most basic form, insurance
+Forward and futures contracts belong to a larger class known as derivatives
+
+**Forward Contract**: contract made today for delivery of an asset at a pre-specified time in the future at a price agreed upon today
+Traded *over the counter*, "private", no middle man
+**Futures contract**: similar to a forward contract except for:
+- Futures contracts traded on organised exchanges with standardised terms
+- Intermediate gains or losses are recorded each day during the life of the futures contract, a feature known as *marking the market*. This feature is designed to reduce the risk faced by each party, with the manner in which this occurs made obvious in emxamples included later in lecture.
+
+**Standardisation of Futures Contracts**: In order to create liiquidity, futures contracts are standardized with respect to three characteristics:
+1. The type of asset underlying the contract, with futures contracts not available over every type of asset.
+2. The amount of a particular asset traded under 1 contract.
+3. The expiry date, or thetime when the contract ceases to exist (or when the asset is actually traded, if applicable). 
+
+Futures contracts have a "clearing house", which steps in should one of the parties go bankrupt
+
+Margin accounts do some shit
+Two types of settlement: 
+1. Cash
+2. Physical delivery
