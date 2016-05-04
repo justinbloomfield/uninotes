@@ -39,3 +39,25 @@ For d, something or other, seems like I didn't do something right there. Other w
 For part 1a, it was all continuous, rounding in the data doesn't matter. That's pretty shit tbh.
 Nature, not data that's important.
 For scatter plots, should mention linearity
+
+## T10
+Hypothesis Testing
+1. List both Null and Alt Hyp. (H<sub>0</sub>, H<sub>A</sub>), eg H<sub>0</sub> µ=80, p=0.5, H<sub>A</sub> µ>80
+2. Find Test Statistic (from Central Limit Theorem). Z or T
+3. Decision Rule. Rejection region (if in this region, reject H<sub>0</sub>) or p-value( P(Test Statistic is more extreme than step 2), if p-value < œalpha, reject H<sub>0</sub>)
+Q1 = proportion, n = 25, p-hat = 96%
+H<sub>0</sub>: p=80%
+H<sub>A</sub>: p>80%
+Should get TS = 2
+reject null hyp, as value is within rejection region
+
+Q2 = sigma known, mean
+alt hyp: µ =/= 20, two tailed/sided
+each tail is 5%, because 10% significance level
+
+Q3 = sigma unknown
+have to use 80 instead of 79, as 79 isn't in the T table (when you get to that you dip)
+
+mistake in question 3 part IV, assume sigma = 4 for "constant" (you'll figure it out, just use that sigma = 4)
+get approx. 27 for that bit.
+DON'T NEED TO REMEMBER THE FORMULAE HOLY SHIT BECAUSE WE GET A CHEAT SHEET THAT'S AMAZING AAAAAAAAAAAAAHHHHHHHHHH

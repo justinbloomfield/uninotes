@@ -39,9 +39,19 @@ Both consumers and producers bear the tax
 ## T7
 No 6 because memes
 
-For LR equilibrium, no incentive for firms to enter osrr exit, due to no +ve or -ve profits in the SR
+For LR equilibrium, no incentive for firms to enter or exit, due to no +ve or -ve profits in the SR
 
 Monopolists will charge where price is elastic, not inelastic
 MR = MC
 
+
+
+## T10
+
+AFC gets lower as Q increases
+Nash Equilibrium: neither firm has an incentive to change their strategy 
+NE can exist without a dominant strategy
+NE for this example is NE = (250,250)
+coop outcome is to both charge higher price, as this is a better payout than both charging low
+Both pricing low would result in Pareto Inefficiency
 

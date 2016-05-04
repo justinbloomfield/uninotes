@@ -930,3 +930,85 @@ What happens to L^S when wage rate increases?
 - substitution effect -> L^S increases
 - income effect -> L^S decreases
 
+## L28
+Read chapters 14 and 16
+
+**Demand for Physical Capital ( K^D )**
+**Implicit Rental Price**
+**Physical Capital and Financial Capital**
+**Present Discounted Value**
+
+Physical capital for an airline service: planes, trucks for baggage, terminals, shit like that
+
+Demand for capital is a derived demand.
+
+**marginal product of capital (MP<sub>K</sub>)**: additonal output from additional (or last unit of) capital
+as K increases, MP<sub>K</sub>, i.e. diminishing returns to capital
+
+**marginal revenue product of capital (MRP<sub>K</sub>)**: additional revenue from additonal (or last unit of) capital
+MRP<sub>K</sub> = P x MP<sub>K</sub>
+
+Demand for capital:
+Producer thinks on the margin
+MB = MC for firm
+MRP<sub>K</sub> = r (rental price)
+
+K^D is a downward-sloping due to diminishing MP<sub>K</sub>
+
+If a firm purchases capital, there is an *implicit* rental price
+Implicit cost of capital is the opportunity cost of financial capital invested in firm
+
+implicit rental rate = (dep cost/price of capital) + (interest cost/price of capital)
+
+implicit rental price = depreciation cost  + interest cost
+
+If interest rate increases: 
+- implicit rental rate increases
+- quantity of capital demanded decreases
+
+Via capital markets, firms obtain *financial* capital to buy *physical* capital
+Finance with:
+- equity: issue stocks or shares
+- debt: issue corporate bonds, take out bank loan
+
+return on shares = dividend + capital gain(loss)
+capital gain/loss: change in share price from purchase
+
+rate of return on stock: return on stock / share price
+
+Present Discounted Value (ch. 16 appendix)
+Present value from finance
+
+## L29
+Readings chapter 14
+
+**Risk vs Expected Return**
+**Efficient Market Hypothesis**
+**Individual Income Tax and Labour Market**
+**Tax Rated and Tax Revenues**
+Expected returns on financial assets vary with the amount of risk
+Risk-averse investors who take on more risk must be compensrated with a higher expected return
+**efficient market hypothesis**: theory that current stock price reflects all relevant information about current and future earnings prospcets
+*or* elimination of profit opportunities in financial markets as share prices adjust quickly to new information
+
+**Average and Marginal Tax Rate**
+
+**progressive tax**: as income rises, tax paid as a proportion of income rises, i.e., average tax rate increases
+**excise tax**: tax on a good or service
+
+P<sub>b</sub> = prive buyers pay
+P<sub>s</sub> = price sellers receive
+P<sub>b</sub> > P<sub>s</sub> due to tax
+
+Analogy for individual income tax
+w<sub>b</sub> = gross wage employers (buyers of labour) pay
+w<sub>s</sub> = after-tax wage workers (sellers of labour) receive
+w<sub>b</sub> > w<sub>s</sub> due to income tax
+Similar to unit excise tax (L15)
+Maginitude of tax impact depends on
+1. size of tax
+2. elasticities of L^S and L^d
+
+L15: Deadweigh loss of tax is bigger when tax t is larger
+as tax t increases, quantity of labour demanded decreases and larger DW loss triangle (more inefficient)
+

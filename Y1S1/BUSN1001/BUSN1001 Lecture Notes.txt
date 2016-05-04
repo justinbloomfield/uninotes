@@ -201,3 +201,14 @@ Check orginality report on Turnitin so that I don't get rekt
 Classification of cash flow transactions available in lecture slides
 Statement of cash flows excludes non-cash investing and financing activities, such as (slides)
 **3 Categories: Operating, Investing, Financing**
+
+## L8
+
+**Indirect method cash flow, Managing Cash and Internal Controls, Accounting for and Managing Inventory**
+
+Techniques to manage shit
+
+Chapters for M1 and M2 on Wattle
++CLICAD = Add on, Current Liabilities increases, Current Assets decreases.
+Don't examine 7.5 petty cash, 7.6 annual report disclosures
+Credit on bank statement = +ve, i.e. deposit/positive balance
