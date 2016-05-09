@@ -212,3 +212,56 @@ Chapters for M1 and M2 on Wattle
 +CLICAD = Add on, Current Liabilities increases, Current Assets decreases.
 Don't examine 7.5 petty cash, 7.6 annual report disclosures
 Credit on bank statement = +ve, i.e. deposit/positive balance
+
+## L9
+
+**Catching up on working capital**
+**Starting on Managerial Accounting**
+
+Exam (possibly) on Thursday 9/6/16, 9 am, 3 hours
+
+read chapters 10 (non-current assets) and chapter 12 (completing the balance sheet). 
+
+Inv control
+Two systems: perpetual, periodic
+Two cost flow assumptions: FIFO, weighted average (not LIFO)
+Valuation: Lower of cost or Net Realisable Value
+Perpetual: update for every purchase and sale
+Periodic: count inventory at end of period. COGS = beginning + purchases - ending
+
+Periodic: weighted average: total cost of goods available for sale for a period / total number units available for sale for a period
+
+NRV (market value) < cost because of:
+- obsolescence
+- lack of demand, falling prices
+- uncompetitive production costs
+- damage, product size or colour
+rule applied at item/product level (not total inventory)
+
+Levels of control follows "ABC" system
+Categ. A: high levels of control, high-value, low-volume items
+Categ. B: lower levels of recording wold apply to lesser-value, higher-volume items
+Categ. C: lowest levels of control and recording would apply to low-value, high-volume items
+
+Just In Time approach
+- Zero inventory *if possible*
+- Just In Time, order only when needed
+- Minimize inventory holding costs
+- Work with suppliers
+- **But** consider out-of-stock costs
+
+Accounts receivable (not examined), Which customers should receive credit?
+5 C's of credit
+Capital
+Capacity
+Collateral
+Conditions
+Character
+
+Pay within terms, but not early, not late ( for managing accounts payable)
+Policy on when to take discounts for early payment
+
+The Cash cycle is 
+The time from the payment of goods purchased for manufacture or resale to receipt of cash for final product or resale
+Improves with faster collection of recivables, faster inventory turnover, slower payment of payables
+For next: managerial accounting

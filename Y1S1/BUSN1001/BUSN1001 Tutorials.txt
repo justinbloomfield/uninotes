@@ -129,3 +129,26 @@ e.g. "Cash flows from omperation is positive in both years but it has decreased 
 practise doing all forms of statements this weekend, because you're shit at them
 T accounts useful for cash flows, so get practising these nigger
 Can take dividends straight from income statement, as there is no opening balance
+
+## T8
+1. Cash control: locked registers, proper accounting, person verification (i.e. signatures on checks), frequent cash deposits, segregation of duties, cheques should be endorsed with a stamp to prevent fraud
+b. Inventory control: security, check records against current stock, lock warehouse, only acessible to people responsisible for handling inventory, segregation of duties again
+c. Accounts Reveivable: subsidary ledgers for each debtor, different person in control of this than the one in control of the main control account, be on top of payments, make sure that your accounts receivable are paid on time.
+
+7.19: don't know how to do this shit
+
+7. b
+
+
+
+10.6 This can result in increased profits because these suppliers aren't providing what they are paid for. They are maintaining more inventory than they would should for the same price. This could perhaps be prevented by increased security and more rigorous checking. Cameras, guards, physical inspections, xrays.
+
+10.7 Could lock down shit when he arrives, view recent arrivals, subtract those from total inventory. It works by boosting the inventory of all the stores using only the inventory of one place. Multiple things actually is only one.
+
+Bank reconciliation: reconciling between bank statement and company record of cash at bank (ideally)
+Can differ because of:
+1. Time differences, records appearsing on company record but not on bank statement.
+2. Error, usually from the accountant at the company
+
+Template for BR on TB pg. 291
+Credits and debits are the reverse for each, i.e. Bank statement Dr. = Company's Cr.

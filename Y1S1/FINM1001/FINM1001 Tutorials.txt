@@ -64,3 +64,22 @@ Do the rest of the questions, to practise with these formulae. This shit's easy,
 
 3. The CAPM is a model for pricing a single security or a portfolio, taking into account risk and diversification? Expected return of a risky asset is equal to the return on a risk-free instrument plus a premium based on the riskiness of the asset realative to the market.
 
+
+## T9
+
+1. Forwards contracts are much less standardized than futures contracts, but are also more risky in the event of one party's bankruptcy
+extra stuff that i didn't know before that i should probs learn now to avoid being retarded:
+BOTH: agreement between the buyer (long) and seller (short) to trade an asset at an agreed price in the future (long = holder, short = writer)
+	tye of derivatives
+	
+DIFFERENCES: Forwards traded "over the counter", futures through a proper exchange
+Forwards = illiquid, futures = liquid, liquid meaning more exchanges
+2. Marking to market is keeping track of the changes in the price of the good contracted 
+every day during the life of futures contracts
+**Margin call**: amount to top up should the balance of the margin account fall below the limit
+
+Forwards and Futures profit diagrams are the same
+1 index = $25, if not stated otherwise
+
+6. Hedgers provide reason for the existence of the futures market and are the underlying strength of the futures market. 
+Speculators: not interested in the assets themselves, only in the profit. Give the market liquidity. Bear most of the risk, as they are in it for shits and giggles.
