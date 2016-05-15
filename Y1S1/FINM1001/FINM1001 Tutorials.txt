@@ -83,3 +83,7 @@ Forwards and Futures profit diagrams are the same
 
 6. Hedgers provide reason for the existence of the futures market and are the underlying strength of the futures market. 
 Speculators: not interested in the assets themselves, only in the profit. Give the market liquidity. Bear most of the risk, as they are in it for shits and giggles.
+
+## T10 
+(did most of this shit in the book)
+Options contracts are traded on both an exchange *or* over the counter.

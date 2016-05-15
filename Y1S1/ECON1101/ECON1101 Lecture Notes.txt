@@ -1012,3 +1012,87 @@ Maginitude of tax impact depends on
 L15: Deadweigh loss of tax is bigger when tax t is larger
 as tax t increases, quantity of labour demanded decreases and larger DW loss triangle (more inefficient)
 
+
+## L31
+read chapter 15
+
+**Externalities**
+- Negative Externalities
+- Positive Externalities
+
+**Internalizing the Externality**
+- Mergers
+- Pigouvian Taxes or Subsidies
+
+**externality**: impact of one agent's actions on the well-being of a bystander
+**negative externality**: an externality which has an adverse impact
+
+Market outcome where MB = Private MC
+Efficient outcomes where MB = Private MC + Marginal External Cost = Social MC
+Problem (for this example of the steel factory and the downrivery fishery) missing market for clean water
+
+**positive externality**: an externality which has a beneficial impact
+
+example of PE: repairs I make to my house (an eyesore) provide benefits to my neighbours
+For this house, would choose level of repair where MC = Private MB
+Efficient repair level where MC = Private MB + Marginal External Benefit = Social MB
+Problem: missing market for homerepairs by other homeowners
+Remedy: internalize the externality by: 
+1. mergers
+2. Pigouvian tax or subsidy
+
+## L32
+**Coase Theorem**
+
+**Simple Pollution Example**
+**Assignment of Progerty Rights**
+- Right to Pollute
+- Right to Clean Water
+**Discussion of Coase Theorem**
+- Significance
+- Limitations / Complications
+
+**Pigouvian emissions tax**: Levy unit tax on polluter equal to Marginal External cCost t the efficient output level
+
+Issues with tax:
+1. informational problem
+2. ignores **reciprocal nature** of externalities
+
+Othere remedies for externalities 
+1. command and control regulations
+2. tradable permits
+
+**Coase theorem**: When parties can bargain costlessly, they will bargain and achieve the efficient outcome, regardless of how property rights are assigned.
+**property rights**: legal rules describing what parties can do with their property
+
+Efficient outcome reached no matter who is arssigned property rights
+Distribution of income is affected, however
+Bargaining assumed to be costless
+
+**Limitations/Complications**
+Bargaining costs
+Large number of affected parties
+- raises bargaining cost
+- more severe free rider problem
+Asymmetric information as barrier to efficient bargaining
+
+## L33
+read chapter 15
+
+**Rival Goods and Excludable Goods**
+**Private Goods, Public Goods, and Common Resources**
+**Public Goods**
+- Efficient Provision
+- Market Failure
+
+A good is **rival** if consumption of that good makes less of that good available for another person
+A **nonrival** good is not rival
+A good is **excludable** if it is possible to prevent a person from using that good
+A good is **nonexcludable** if it is *not* possible to prevent a peron from using that good
+**Private goods** are both excludable and rival
+**Public goods** are neither excludable nor rival
+**Common resources** are rival but not excludable
+For private goods, market demand is the horizzontal summation of individual demand curves
+Efficient provisiont where MB = MC
+MB of public good = summ of MB to all consumers of that good
+determine by *vertical* summation of individual demand curves

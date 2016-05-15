@@ -46,7 +46,7 @@ MR = MC
 
 
 
-## T10
+## T9
 
 AFC gets lower as Q increases
 Nash Equilibrium: neither firm has an incentive to change their strategy 
@@ -55,3 +55,9 @@ NE for this example is NE = (250,250)
 coop outcome is to both charge higher price, as this is a better payout than both charging low
 Both pricing low would result in Pareto Inefficiency
 
+
+## T10
+1. No, as this covers only the depreciation cost, not the interest included in the implicit rental cost.
+2. Simple maths, not hard to do tbh. Not entirely sure why you skipped this one because that was a dumb idea. 
+You were basically right, so you should have gone with that answer! Talks about implicit rental price of capital
+3. to do with the efficient market hypothesis

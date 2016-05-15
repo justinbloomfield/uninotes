@@ -258,3 +258,19 @@ Normally specifies :
 - The amount of the asset that may be bought or sold under the option contract
 - Whether the option is *American* (can be exercised at any time befor or on expiry) or *European* (can only be exercised at maturity).
 Holder will only decide to exercise when it benefits them (*in the money*, ITM)
+
+## L11
+**Arbitrage: Options Contracts (Part B)**
+Profit (long position) = payoff (long position) - premium
+
+**Holder**:
+Call option profit(long) = max(S<sub>T</sub>-X,0) - c
+Put option profit(long) = max(X-S<sub>T</sub>,0) - p
+
+**Writer**:
+Call option profit(short) = min(X-S<sub>T</sub>,0) + c
+
+Check if asking for a payoff or a profit diagram'
+Label **everything** in the graphs
+Josef recommends to rearrange the formula (see book)
+Put option profit(short) = min(S<sub>T</sub>-X,0) + p

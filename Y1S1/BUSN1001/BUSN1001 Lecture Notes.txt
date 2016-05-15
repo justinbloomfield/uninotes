@@ -265,3 +265,43 @@ The Cash cycle is
 The time from the payment of goods purchased for manufacture or resale to receipt of cash for final product or resale
 Improves with faster collection of recivables, faster inventory turnover, slower payment of payables
 For next: managerial accounting
+
+## L10
+
+Target Profit = (Fixed Costs + profit) / Cost Margin
+
+**Full Product Costs**
+Need information about costs:
+- to control costs
+- to aid planning
+- to value inventories
+- to aid in setting selling prices
+- to ascertain the relative profitability of products
+
+**Full costing** is concerned with all costs involved with achieving some objectives
+**Full cost** is total amount of resources, usually measured in monetary terms, sacrificed to achieve a particular objective
+
+For full cost in a single service/product firm, add all of the cost of production and divide by the number of units produced
+For multi product/service operation, costs are split into two categories:
+1. direct costs
+2. indirect costs
+**Direct Cost**: a cost that can be traced easily and accurately to a cost object, e.g. the  cost of tyres for a car
+A **cost object** is an object for which costs are measured and assigned, like:
+- a product
+- a customer
+- a department
+- a project
+- an activity, e.g. setting up equipment
+
+**Indirect Cost**: a cost that cannod be traceed easily and accurately to a cost object, or is not economically feasible to do so, e.g. factory heating and lighting cost to a multi-product firm
+The full cost of a cost object is the fum of direct cost and a fair share of indirect costs
+
+Direct and indirect different to fixed and variable costs
+
+**Absorption costing system**
+Absorption rate = total overheads / level of activity
+Overhead rate = costs/ allocation base
+STAY AWAKE JUSTIN PLEASE NO FALLING RSLEPP
+
+**Activity Based Costing**
+

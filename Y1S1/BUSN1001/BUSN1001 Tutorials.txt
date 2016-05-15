@@ -152,3 +152,17 @@ Can differ because of:
 
 Template for BR on TB pg. 291
 Credits and debits are the reverse for each, i.e. Bank statement Dr. = Company's Cr.
+
+## T10
+1. Wrote off $250m, probably because the company couldn't pay. From Tessa: When yuo think they may have difficulty in meeting the obligation, like making provision for doubtful debts. So not writing off, but being careful with shit?
+2a. expected profit is approx $620k
+2b. It's 620k + the offer, not minus
+for the question that i couldn't do:
+For plan A, there is no obligation to pay back. The additional profit abialiable to exiting ordinary shareholders is higher. Less risky, as don't have to pay back.
+For plan B, advantages: interest expense is tax deductibleand profit(?). Still not bad for existing shareholders, but not as good as issuing shares. Disadvantages: no dilution of existing ordinary shareholders' ownership interest.
+2c. Nah m8, that's a huge chunk of profit gone. 
+2d. If declining the offer will have a some problems, 
+3a. profit of $476k
+3b. profit of $524k
+4. Should be subcontracted, as it brings down the total cost of production
+For 3b, if the school allocates fixer overhead cost to each of their product lines (but their overheads wouldn't change), bagpipes make a pisitive contribution to profit of 46,000. (Contribution margin = Sales price - variable cost. Even though there is still a loss, the contribution margin itself is still positive, so it is better to leave the bagpipes running.

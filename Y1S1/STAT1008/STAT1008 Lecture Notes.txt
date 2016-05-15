@@ -347,3 +347,15 @@ If alt. is =/=
 - Two tailed
 - RR wil be Z<-Z<sub>alpha/2</sub>, Z>+Z<sub>alpha/2</sub>
 - P-V will be P(Z>|T.S|) + P(Z<-|T.S|)
+
+Xbar - µ / (s/sqrt(n)) follows a t-distribution with n-1 *degrees of freedom*
+t-distribution
+
+## Lsomethingorother
+**Confidence intervals for µ when sigma is unknown** 
+
+Test statistic = (Xbar - µ)/(sample variance/sqrt(n))
+General form of CI the same, (i think?), but with t and s substituted in
+
+## Ltheoneaftertheonebefore
+
