@@ -359,3 +359,22 @@ General form of CI the same, (i think?), but with t and s substituted in
 
 ## Ltheoneaftertheonebefore
 
+
+## Lafter that one
+
+some formulae for something (you'll find out in the tutorial)
+paired samples apparently much easier to deal with - calculate differences, then perform one-sample test on these differences, i.e. have to samples, for each observation calculate X|d| = X|1| - X|2|
+then calculate Xbar|d| and s|d| (mean and standard deviation of differences)
+
+Procedure:
+1. Hypotheses
+2. Test Statistic
+3. Decision Rule
+4. Conclusion
+
+##LANOTHERONE
+
+Allowed 2 single sided pages of notes, so get your formulae on there
+Given tables, so don't need to write values
+So just formulae because they will be helpful
+
