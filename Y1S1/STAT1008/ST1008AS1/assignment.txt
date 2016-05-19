@@ -16,5 +16,6 @@
 
    c. The boxplots show that the ozone density was much higher in the months of July and August than in other months, both in mean and variance. The ozone densities in May, June and September are all very similar, with those in June covering a much smaller range than the other months. However, the lower quartiles of all months are much more similar than the upper quartiles. July had the smallest variance, and August the largest. 
 
-	d. 
+   d. This scatterplot shows the density of ozone increasing along with the increasing temperature. From this it can be concluded that ozone density and temperature are positively related, as both data sets have similar magnitudes and correlation.
+
 ADD MORE BREAKS TO THE HIST PLOT AND SAVE THAT IF POSSIBLE

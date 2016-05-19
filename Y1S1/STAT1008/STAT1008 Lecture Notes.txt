@@ -378,3 +378,7 @@ Allowed 2 single sided pages of notes, so get your formulae on there
 Given tables, so don't need to write values
 So just formulae because they will be helpful
 
+## Lidkwhat
+
+**Covariance**: measures the direction of linear relationship between two (continuous) variables. Can be positive or negative.
+
