@@ -61,3 +61,25 @@ have to use 80 instead of 79, as 79 isn't in the T table (when you get to that y
 mistake in question 3 part IV, assume sigma = 4 for "constant" (you'll figure it out, just use that sigma = 4)
 get approx. 27 for that bit.
 DON'T NEED TO REMEMBER THE FORMULAE HOLY SHIT BECAUSE WE GET A CHEAT SHEET THAT'S AMAZING AAAAAAAAAAAAAHHHHHHHHHH
+
+
+## T11
+
+There is a positive relationship between the variables, it's fairly close (mid-strength) to a fitted line
+Hypotheses are that true correlation is = 0 for null, and =/= for alt
+seems to be a positive relationship, although unclear if it's linear or not yet
+data are very spread out, not close to a fitted line, although they aren't completely chaotic
+
+## T12 
+
+SUMMARY OF COURSE
+
+1. Sampling techniques
+2. Examining data, (Xbar, sample variance, histogram)
+3. Probability plots, Probability Density Functions
+4. Binomial/Uniform/Normal distribution
+5. Central Limit Theorem, sampling distribution
+6. Confidence interval
+7. Hypothesis Testing
+8. Hypothesis Testing with two samples
+9. Regression

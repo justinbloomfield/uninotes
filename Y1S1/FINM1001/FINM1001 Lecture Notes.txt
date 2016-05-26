@@ -274,3 +274,43 @@ Check if asking for a payoff or a profit diagram'
 Label **everything** in the graphs
 Josef recommends to rearrange the formula (see book)
 Put option profit(short) = min(S<sub>T</sub>-X,0) + p
+
+## L12
+
+Exams are coming up very quickly, make sure to study PLEASE, or else yo'll get fucked up and it will all have benn a wste of time
+
+**Options, Forwards and Futures Contracts as Tools for Risk Management**
+again, each index worth $25, but 50 for SMP (american exchaneg====**
+Short in futures: payoff = F - S<sub>T</sub>, so
+- if spot price falls, gain 
+- if spot price risise, loss
+
+If you want to hedge with options, you would always want to be long as ist is in the long position that you get to choos whether or not to exercise the option contract
+For futures, forwards and options, always think in terms of buying and selling units of the **foreign** currency (i.e. think of the foreign currency as the underlying asset)
+**never** go short when hedging
+read the document about BAB on Wattle before the workshog on friday, which you **will** actually be attending
+
+## L13
+
+Extra exam consultations available, check on wattle for when these are. Should probs go to these...
+No workshop on friday, but still have tutorial
+no multiple choice questions on the exam
+*everything*  assessed
+go through the self study questions as extra practice
+5 questions, not equally valued or equally difficult, multiple parts
+10% theory, 90% calculation
+Q1 will be a valuation question, bonds **or** shares
+Q2 will be NPV question
+Q3 will be derivatives, (Futures/Forwards/Options)
+Q4 will be a hedging question
+Q5 will be very difficult (time value of money)
+first 4 questions, study = success
+check how to do dividends/anything really that has a break at some point (i.e. no dividends paid for two years, then resume paying)
+remember tha shares don't have an end date, so use perpetuities formula
+**grab the bank accepted bill formula from this weeks lecture slides**
+**also get how to do standard deviation in finance, so that you don't get fucked up**
+**cost of carry shit**
+both for physical assets and for stocks (it's the S0 stuff)
+
+
+**TOTALLY UNRELATED BUT VULTR IS LOOKING PRETTY COOL**

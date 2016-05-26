@@ -170,15 +170,19 @@ For 3b, if the school allocates fixer overhead cost to each of their product lin
 ## T11
 
 1a. Breakeven point is when the firm is neither making a profit or a loss, they are only covering their expenses
- b. They can always aim to operate above this point?
- c. The breakeven point should remain the same or increase (not sure about this), as the product remains at the same price
+ b. They can always aim to operate above this point? Helps with planning activity level of the company. "Determine activity level required to tcover all costs associated with the product, business, etc. Assess activity required to achieve profit targets beyond the braeak even point. Assess margin of safety, which provides an indication of risk involved. 
+ c. The breakeven point should increase, as lower prices lowers the contribution per unit, and this increases the number units of that must be sold to reach this point.
 
 2a. i think it's around 34091
  b. $375000
- c. idk what this 
+ c. idk what this. **Contribution = Sales - variable costs**
  d. 2272 extra units?
 
 3. idk 
-4. c
+4. d
 5. c
 6. 
+
+Tessa availablef from 10-12, and then another two hours in the afternoon next thursday  (check wattle 4Head)
+go to the revision tute on thursday as well, doing that stupid bank reconciliation thingy
+

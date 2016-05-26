@@ -305,3 +305,35 @@ STAY AWAKE JUSTIN PLEASE NO FALLING RSLEPP
 
 **Activity Based Costing**
 
+
+## L12
+
+**Capital Investment Decisions**
+PV = FV/(1+r)^n
+exam details next lecture, two practice exams on wattle so have a gander at those sooner rather than later because that would be bad going in with abosolutely now
+do the surveys
+
+Four methods to use:
+1. accounting rate of return
+2. payback period
+3. net present value
+4. internal rate of return
+
+**Accounting rate of return** = Average Net Profit After Tax / Average Investment
+**Average Investment** = (intial + residual)/2
+
+**Payback Period** = Initial Cash Outlays / Annual Net Cash Flows 
+
+## L13
+
+Important: income statements, balance sheets, cash flow statements
+Key terms: assets, liabilities, equity, revenue, expenses, income, profit
+GAAP, IFR, AASB
+accrual accounting, cash accounting
+accounting for: timing differences between revenue and cash receipt, expenses and cash payments, sales and bad debts
+Financial statemnt analysis not directly examinable, no assessment of ratios
+statement of cash flows in multiple choice questions, definitely direct method, possibly indirect method
+know the concept of activity based costing
+capital investment decisions
+don't need to calculate internal raeo of return on exam
+bring student card, hb pencil, ruler, eraser, calc, brain (optional)

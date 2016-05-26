@@ -1096,3 +1096,85 @@ For private goods, market demand is the horizzontal summation of individual dema
 Efficient provisiont where MB = MC
 MB of public good = summ of MB to all consumers of that good
 determine by *vertical* summation of individual demand curves
+
+## L34
+
+Read chapter 29 "International Traed", esp. pp. 738-752. See wattles coures page for hyperlink to ANU Library record
+Review lecture 3, absolute and comparative advantage
+
+**Common Resources**
+**Tragedy of the Commons**
+**Potential Solutions**
+**Other Examples**
+
+From last week's one: w<sub>s</sub> = post-tax/transfer change in total income (I) for each additional hour of work (H) = ∆I / ∆H
+w|s| = w|b| (1 - e), where e = **effective** "tax" rate
+
+**common resources**: goods that are rival but nonexcludable
+Linked to absence of **private** property assignment for a common property resource
+
+**Tragedy of the Commons**: overuse of common resources that creates undesirable outcomes for society
+anyone can graze sheep on common - nonexcludable
+As town grofs, more people and more shepp but given firexd amount of land, therefore grazing land per sheep decreases9
+Overgrazing occurs
+Consumption rivalry
+Land becomes barren and sheep raising collapses
+
+Efficient grazing where Social MC = MB
+Private MC =/= Social MC due to marginal external cost
+
+*Potential Solutions*
+1. Quantity Regulation
+Restrict the # of sheep grazing in total or per farmer
+
+2. Tax
+Apply a Pigouvian tax or access fee to common resource,i.e., internalize the externality
+
+3. Convert Common proprty resource to private property
+
+**Other examples**
+- overfishing in the ocean
+- use of clean air and water
+- congested (non-toll) roads
+- oil extraction by several companies or natiions from a common oilfield pool
+
+
+## L35
+
+## L36
+
+**World Production Possibilities Curve**
+**Wage Costs and Trade**
+**Reasons for Comparative Advantage**
+**Arguments for International Trade**
+**Intra-Industry Trade**
+
+Read ch. 9 pp. 191-199, see WATTLE for this shit
+
+A high productivity country can compete and pay higher wages
+Wage differneces only limited by labour productivity differences
+
+**Reasons for Comparative Advantage**
+
+1. Climate: impact on agricultural production, tourism services
+2. Natural Resources: oil from OPEC countries, gold mining in Australia, not Japan
+3. Technology/Know How/Human Capital. e.g. growth of Australian wine production and exports, Australia is a major manufacturer of high-speed ferries
+4. Capital-Labour Ratios: Capital abundant U.S. and Europe produces Boeing and Airbus planes (capital intensive production)
+
+Labour abundant China produce toys and clothing ( labour intensive production)
+
+**dynamic comparative advantage**: comparative advantage changes over time due to investment in physical and human capital and in technology
+
+**Economic Arguments for International Trade**
+
+1. voluntary exchange is mutually advantageous
+2. comparative advantage and specialisation
+3. exploit economies of scale
+4. benefits of increased competition
+
+**Intra-industry trade**: occurs when countries both import and export goods in the same industry
+Why?
+
+1. diversity of tastes
+2. economies of scale
+3. countered by transportation costs

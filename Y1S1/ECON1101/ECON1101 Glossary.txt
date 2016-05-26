@@ -39,3 +39,9 @@
 **Excise Tax**: Tax on a good or a service
 **Specific or unit tax**: a fixed dollar toax per unit of a good.
 **ad valorem Tax**: Tax levied as a fixed percentage of the value of good
+
+**Short Run**: Some inputs are variable, all others are fixed
+**Long Run**: All inputs variable
+**Fixed Costs**: Costs associated with fixed inputs, paid regardless of output level, sunk cost in SR
+**Variable Cost**: Costs associated with variable inputs, varies with output level
+

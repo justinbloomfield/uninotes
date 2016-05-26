@@ -1,5 +1,0 @@
-# STAT1008 TUTORIAL
-## T1
-
-### DEFINITIONS
-**Convenience Sampling**: Taking a sample from a population convenient to oneself. Bad (usually).

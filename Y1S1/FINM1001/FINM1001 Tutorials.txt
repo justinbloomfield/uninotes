@@ -87,3 +87,22 @@ Speculators: not interested in the assets themselves, only in the profit. Give t
 ## T10 
 (did most of this shit in the book)
 Options contracts are traded on both an exchange *or* over the counter.
+
+## T11
+
+Probs ALWAYS do the table thingy
+
+## T12
+
+1. Use options to lock in the exchange rate, to avoid it fluctuating unfavourably. Selling the Yen, so long put
+**never take short in options when trying to hedge, short are the ones who are obliged to fulfill some shit**
+call = buy, put = sell
+a
+Could use forwards to hedge, so would go short, as short futures is selling, but the disadvantage for this is that there is no backing out if it becomes more favourable to sell on the spot market than to stay with the contract.
+"trading at 92" means an 8% interest rate
+worry about interest rate increasing if you're a borrower, decrease if you're a borrower
+
+**EXAM SHIZZLE** 
+
+write fractions instead of long decimals, but then make sure final answers are to two decimal places, including percentages
+use variables to store answers, to save time fucking around
