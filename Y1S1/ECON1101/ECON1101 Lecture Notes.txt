@@ -1178,3 +1178,97 @@ Why?
 1. diversity of tastes
 2. economies of scale
 3. countered by transportation costs
+
+## L37
+
+**Market Equilibrium w/o Trade**
+**Welfare Impact on Exporting Country**
+**Welfare Impact on Importing Country**
+**Why Opposition to Trade?**
+
+Remember that **Consumer Surplus** = value to consumers - consumer expenditure
+and that **Producer Surplus** = producer revenues - producer costs
+
+**World Price**: price of a good determined by global market
+
+Australia is a **small economy** relative to the world market, i.e., Australian S and D for a good has little or no impact on world price. Australia is a price taker.
+
+If world price > domestic price (before trade), then export the good
+'
+if world price increases, domestic demand decreases and domestic supply increases
+
+**Exports** = domestic Q^S - domestic Q^D
+
+|--|--|--|--|--:|
+|| Before Trade | After Trade | Change |
+| Consumer Surplus | A + B | A | -B |
+| Producer Surplus | C | B + C + D | + B + D |
+| Total Surplus | A + B + C | A + B + C + D | + D |
+
+Domestic consumers pay more, consume less, and are worse off (lose B)
+Domestic producers charge more, produce more, and are better off (gain B + D)
+Total Surplus rises by D as producer gains outweigh consumer losses
+
+**Importing Country**
+
+If world price < domestic price (before trade), then import good
+Because other countries have a comparative advantage in production of that good
+
+If world price decreases, then domestic demand increases and domestic supply decreases
+imports = domestic Q^D - domestic Q^S
+
+|--|--|--|--|--:|
+|| Before Trade | After Trade | Change |
+| Consumer Surplus | A + B | A + B + D  | + B + D  |
+| Producer Surplus | B + C | C | -B |
+| Total Surplus | A + B + C | A + B + C + D | + D |
+
+Domestic consumers pay less, consume more, and are better off (gain B+D)
+Domestic producers charge less, produce less and are worse  off (lose B)
+Total surplus rises by D as consumer gains outweigh producer losses
+
+**Reasons for opposition to trade**
+1. gains large but dispersed among many, many consumers
+2. losses smaller but concentrated among smaller number of producers and their
+workers => leads to more concentrated and vociferous opposition
+
+
+## L38
+
+**FINAL EXAM**: 10 short questions, answer 2 of 3 long, multi-part questions.
+Similar in nature to tutorial questions, but probs harder i would imagine
+
+**Arguments for Trade Barriers**
+**Some Final "Lessons"**
+
+**Arguments for Trade Barrirs**
+1. **Thwart Cheap Foreign Labour**
+*Counter argument*: ignores gains from trade linked to a country's comparative advantage
+
+Foreign labour may be cheaper per unit of labour but not per unit of output, i.e., unit labour costs
+
+2. **Infant Industry Argument**
+Young or infant industries need to be protected until they can compete with more experienced producers
+*Counter*: Infant industries often never grow up if sheltered from competition
+
+3. **National Security Argument**
+Protect industries that produce strategic materials
+*Counter*: other means to achieve strategic objective (ex. stockpile material)
+
+4. **Retaliation Argument**
+Example: U.S. places tariff on Australian lamb, Australia threatens or retaliates by placing tariff on U.S. agricultural goods
+*Problem*: Harms AUS consumers, threatens a trade war or further retaliation
+
+5. **Redistribution Argument**
+For equity or politcal reasons, protect Australian workers in threatened industries
+*Counter*: use production subsidies, not tariffs or quotas
+*Long Run consideration*: why not retain workers in industries which can no longer compete?
+
+6. **Environmental or Labour Standard Argument**
+Restrict import from (usually poor) countries withe weak environmental and labour standards
+*Counter*: weak standards linked to economic poverty, trade helps economic development
+
+7. **Foreign Subsidies Argument**
+If foreign govt. subsidize their industry, so should we
+*Counter*: hy not simply enjoy the benefits (subsidy) provided by another country?
+AUS subsidy needs to be paid by AUS taxpayers
