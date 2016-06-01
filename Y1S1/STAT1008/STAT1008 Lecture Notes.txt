@@ -382,3 +382,13 @@ So just formulae because they will be helpful
 
 **Covariance**: measures the direction of linear relationship between two (continuous) variables. Can be positive or negative.
 
+Pattern in residual plot is a bad thing, because it means that independence is probably not retained
+
+**homoscedastic**: if variation is contsant (residuals show constant spread aoround 0)
+**heteroscedastic**: if variation is non-constant (resdiuals show varying spread around zero)
+
+**outlier**: observation unusually large compared to rest of data
+
+**Two types of confidence intervals**:
+- **prediction interval**: for a single observation of y
+- **confidence interval**: for the expected value of y
