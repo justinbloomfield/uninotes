@@ -186,3 +186,20 @@ For 3b, if the school allocates fixer overhead cost to each of their product lin
 Tessa availablef from 10-12, and then another two hours in the afternoon next thursday  (check wattle 4Head)
 go to the revision tute on thursday as well, doing that stupid bank reconciliation thingy
 
+
+
+## T12
+
+small propietary companies do not need to follow the GAAP, whereas lised pucbic companies have to tfoolow GAAP, AASB, IFRS
+Large proprietary companies: majority of large proprietary companies do not follow tfuull AASB  standards but logde special purpose finanical statments with ASIC
+
+**Preparation using the indirect method**
+Check the book
+
++ non-cash expenses
+- non-cash revenues
++ decrease in accounts receivable, inventory and prepayments
++ increase in accounts payable and acrued expenses
+- decrease in accounts payable and accrued expenses
+- increase in accounts receivabl, inventry and prepayments
+= cash flow from operating activities
