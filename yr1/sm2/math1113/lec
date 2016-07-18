@@ -1,0 +1,49 @@
+{{ TOC }}
+# MATH1113: Maths for Actuarials
+Tutes start week 3
+Enrolment opens this Thursday at 2pm
+Lecturers:Vigleik Angeltveit, Bryan Wang
+Taught by two niggaz
+Bryan doing most of the lectures before the midsem break, Vigleik most of them after
+Be sure to check WATTLE
+Book necessary i think??? Not sure, sure he'll mention it later
+Book is in course outline (obvs) so check that as well
+No calculator in exams (ripripripriprip)
+
+
+
+## L1
+
+**Functions**
+Ch. 2 in lecture notes
+A **function** is a rule that assigns to x e A an element f(x) e B
+The domain of f(x) B is: D(f) = { x | f(x) B defined}
+The range of f(x) B is: R(f) = {y | y=f(x), sane x}
+Ex : The domain of sinx is R = (-∞, ∞)
+The range is [-1,1]
+Define Sinx by Sinx = sinx for x e [-π/2, π/2]
+Then D(Sinx) = [-π/2,π/2]
+Regard sinx and Sinx as different functions
+
+If R(g) ≤ D(F) the *composite* fºg (o is a circle thingy)
+is defined as
+fºg(x) = f(g(x))
+Ex: f(x)=√(x), g(x) = e^x - 1. Then
+    R(g)=(-1,∞) ≤/≤ D(f) = [0, ∞)
+    So fºg B is not defined
+If we restrict the domain of g to [0, ∞), then R(g) = [0, ∞) and we can compose
+fºg(x) = √(e^x - 1), D(fºg) = [0, ∞)
+Usually restriction of D(g) goes without saying
+
+**Limits** 
+Ch. 3 in lecture notes
+If f(x) is defined for all x near a, excepts possibly at a, and we can guarantee that f(x) B is as close to L as we want by requiring that x B is sufficiently close but not equal to a then the lim<sub>x->a</sub>f(x)=L
+*Note*: We only care f(x), for close to a, not about f(a)
+Ex: f(x)=x^2, a=2
+    To gaurantee that f(x) B within 0.001 of 4, we can require that x B is within 0.0001 of 2.
+    1.9999^2 = 3.99960001
+    2.0001^2 = 4.00040001
+To prove that lim<sub>x->2</sub> f(x) = 4, we need to show that given e>0 there is a ∂ > 0 such that if |x-2|<∂ (and x ≠ 2), then |f(x)-4|<e
+Ex: f(x) = (1+(1/x^2))^(1/x^2)
+Then f(0) is not defined
+Claim that lim<sub>x->0</sub>f(x) = e = 2.718281828459045
