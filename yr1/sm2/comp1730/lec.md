@@ -26,5 +26,38 @@ Not much is happening lol. Lecturer runs Mint :(((((((((( i think he does at lea
 **Abstraction**: To use a function, we only need to know *what* it does, not *how*
 
 **Function suite**: sequence of statements within a function
--
+
+
+
+## L3
+
+**Variables, expressions and more functions**
+
+"\" works to continue a line on to the next one
+
+Expressions are built up of:
+- literals
+- variables
+- operators
+- function calls
+
+**Values and Types**
+
+Value types:
+- integers
+- floating points
+- strings
+- booleans
+- ...and others that come later
+
+Operators in Python:
++,-,*,/ - std
+
+\*\* - power
+// - floor
+% - remainder
+
+**Function**: a piece of the program that is given a name, and can be called by that name (think i already wrote that but yolo)
+
+**Variables**
 

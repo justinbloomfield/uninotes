@@ -51,3 +51,12 @@ Textbook probs necessary, check course outline for the full name.
 
 We have the actual lecturer today, amazing!
 
+**Introduction to the Great Depression**
+
+
+## L6
+
+Be sure to get all the shit from L5 this weekend brother
+
+Emergency Bankbing Act, March 6, 1933 - closed the banks under a national ‘banking holiday’ to help stabilise the crisis
+

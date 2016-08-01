@@ -17,8 +17,8 @@ No calculator in exams (ripripripriprip)
 **Functions**
 Ch. 2 in lecture notes
 A **function** is a rule that assigns to x e A an element f(x) e B
-The domain of f(x) B is: D(f) = { x | f(x) B defined}
-The range of f(x) B is: R(f) = {y | y=f(x), sane x}
+The domain of f(x) is: D(f) = { x | f(x) is defined}
+The range of f(x) is: R(f) = {y | y=f(x), sane x}
 Ex : The domain of sinx is R = (-∞, ∞)
 The range is [-1,1]
 Define Sinx by Sinx = sinx for x e [-π/2, π/2]
@@ -30,7 +30,7 @@ is defined as
 fºg(x) = f(g(x))
 Ex: f(x)=√(x), g(x) = e^x - 1. Then
     R(g)=(-1,∞) ≤/≤ D(f) = [0, ∞)
-    So fºg B is not defined
+    So fºg is not defined
 If we restrict the domain of g to [0, ∞), then R(g) = [0, ∞) and we can compose
 fºg(x) = √(e^x - 1), D(fºg) = [0, ∞)
 Usually restriction of D(g) goes without saying
