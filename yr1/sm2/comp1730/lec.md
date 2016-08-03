@@ -61,3 +61,6 @@ Operators in Python:
 
 **Variables**
 
+## L7
+
+**while** statement

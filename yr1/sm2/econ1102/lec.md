@@ -58,5 +58,30 @@ We have the actual lecturer today, amazing!
 
 Be sure to get all the shit from L5 this weekend brother
 
-Emergency Bankbing Act, March 6, 1933 - closed the banks under a national ‘banking holiday’ to help stabilise the crisis
+Emergency Banking Act, March 6, 1933 - closed the banks under a national ‘banking holiday’ to help stabilise the crisis
 
+## L7
+
+**National Income and Product Accounting**
+
+National income accounting provides a systematic method of  aggregating the production of diverse goods into a single measure of overall economic activity as traded in and/or valued by market exchanges 
+Conceptually based on circular flow model
+Production function also basic concept behind national income accounts
+Y = f (K, L, La)  
+Y (output) dependent on K (amount of capital), L (Land) and La (Labour) used
+NIA conceptually measure the total economy:
+- as a machine in which inputs are transformed thorough various processes to yield outputs
+- a flow of output being recycled through consumption and investment spending and factor payments
+
+**GDP**: is the market value of the final goods and services produced in an economy over a certain period
+
+PRODUCTION = EXPENDITURE = INCOME
+- Expenditure measure of GDP counts the total purchases in the economy
+- Income measure of GDP counts all the income earned in the economy
+- Production measure of GDP counts the number of goods produced in the economy
+
+Y = C + I + G + NX
+C (Consumption), I (Investment), G (Government), NX (Net Exports)
+
+NX = Merchandise exports - Imports
+Negative NX is a “leakage” from a domestic enomy because some economic expenditure is in effect flowing out of the country into the rest of the world

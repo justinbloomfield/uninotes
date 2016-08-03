@@ -94,3 +94,35 @@ IRR of the incremental cash flows that would result from replacing one project w
 - the other ones that apply to the normal IRR still apply to this one as well
 - NPV still much better to use if possible
 
+## L3
+
+**Capital Budgeting**
+
+**Methods of comparing projects with different lives**:
+- Equivalent annual value method
+- Constant chain o replacement in perpetuity method
+- lowest common multiple method
+
+((EAV Formula already in my book!!!!!!!! Extra practise available )
+
+in the extra shit folder on wattle so make sure to do that
+
+**Project Selection with Resource Constraints**
+- May not actually be able to accept all NPV positive projects available
+- Can be assessed using a Profitability Index
+- Firm has to select the best combination of available projects given the resources available
+
+Profitability Index assumes that:
+1. The set of project taken will exhaust all resources completely
+2. There is only a single relevant resource constraint that can be considered by the index at any one time
+
+**Incremental Earnings**: Sales - COGS - General Expenses - R&D - DEP = EBIT (earnings before Interest and Tax)
+EBIT - Income Tax = Unlevered Net Income
+
+Rent is usually pre-paid
+
+**Cannibalization**: when sales of a new product displace sales of an existing product
+This and cost of rent *should* be included in the decision making process
+
+**Sunk Costs**: costs that have been or will be paid regardless of the decision whether or not the investment is undertaken. *Not to be included in the decision making*
+
