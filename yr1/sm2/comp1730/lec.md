@@ -64,3 +64,21 @@ Operators in Python:
 ## L7
 
 **while** statement
+
+## L8
+
+**Floating point numbers**
+
+We do have a lecture tomorrow! Stuff about the assignment we have next week
+**Sequential encoding system**: represents each item by a sequence of symbols; the order ofa symbol in the thing *is* important
+Remember that binary is a *base 2* system
+
+**FP Representation**: x = ±m x b^e
+consists of three components:
+- the sign (+ or -)
+- the significand (m)
+- the exponent (e)
+Number is *normalised* if 1≤m<b
+Zero not representable as a normalised number
+Floats can represent infinity (1/ 1e-320)
+When adding FP, the absolute rounding erros is porportional tothe magnitude of the largetst number that is rounded
