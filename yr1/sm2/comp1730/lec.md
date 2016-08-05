@@ -61,11 +61,11 @@ Operators in Python:
 
 **Variables**
 
-## L7
+## L6
 
 **while** statement
 
-## L8
+## L7
 
 **Floating point numbers**
 
@@ -78,7 +78,14 @@ consists of three components:
 - the sign (+ or -)
 - the significand (m)
 - the exponent (e)
-Number is *normalised* if 1≤m<b
+Number is *normalised* if 1≤m</b\>
 Zero not representable as a normalised number
 Floats can represent infinity (1/ 1e-320)
 When adding FP, the absolute rounding erros is porportional tothe magnitude of the largetst number that is rounded
+
+
+## L8
+
+Course Reps on wattle page
+Need to bring student ID to assignment next week
+Make sure to name the functions as they are described, otherwise the testing program won't find them and then you'll be shitted

@@ -24,15 +24,3 @@ First step: write down all of the opening balances (from the end of the month be
 Comprehensive income: profit, loss and gain
 financial perf: income
 financial posi: balance
-
-
-Ideally bank record should = company record of cash at bank
-Some records are not appearing on the bank statement, but they have been recorded in the company's, e.g. outstanding deposit
-Records on bank statement but not on company's record, e.g. direct credit/debit interest
-Errors on either bank statement or company's record
-check for differences
-reconcile these differences
-chek page 2-- for bank reconciliation table thingy 
-Remember that a Bank Statement Dr is a Company Cr - banks consider the funds to be a liability
-Add receipts enterd on company records but **not** on bank statement to ending balance per bank statement
-Subtract decrease entered on company records but **not** reported on Bank Statement
