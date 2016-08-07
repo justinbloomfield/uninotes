@@ -85,3 +85,19 @@ C (Consumption), I (Investment), G (Government), NX (Net Exports)
 
 NX = Merchandise exports - Imports
 Negative NX is a “leakage” from a domestic enomy because some economic expenditure is in effect flowing out of the country into the rest of the world
+
+## L8
+
+**Income Approach to GDP**: Measures sum of all income earned in the economy
+**Production Approach to GDP**: 
+- Amount each producer contributes to GDP is called *value added*
+- Value add = revenue gen. by each producer - value of intermediate products
+- *Primary producer + Intermediate producer = final producer*
+
+**Gross Domestic Product (GDP)**: total value of all final goods and services produced in an economy in a one-year period (produced within borders)
+**Gross National Product (GNP)**: aggregate final outpt of citizens and businesses of an economy in one year. GNP = GDP + net foreign factor income
+**Net Foreign Factor Income**: income from foreign domestic factor sources minus foreign factor income earned domestically
+
+
+
+
