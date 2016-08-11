@@ -89,3 +89,33 @@ When adding FP, the absolute rounding erros is porportional tothe magnitude of t
 Course Reps on wattle page
 Need to bring student ID to assignment next week
 Make sure to name the functions as they are described, otherwise the testing program won't find them and then you'll be shitted
+
+## L9
+
+**Sequence Data Types; NumPy arrays; Indexing, Length and Slicing**
+**Sequence**: contains zero or more values
+Each item in a sequence has a position, or index, ranging from 0 to n-1
+Some built-in sequence types:
+- Strings: only text
+- List: can contain a mix of arbitrary types
+- Tuples: like lists, but immutable
+
+NumPy and SciPy are not part of the Python standard library, but are basically essential for scientific/engineering applications
+
+They provide:
+- an n-dimensional array data type (ndarray)
+- fast math operations on arrays/matrices
+- linear algebra, Fourier transform, random number generation, etc.
+
+**ndarray**: all values in the array must be of the same type, typically numbers
+
+linspace, evenly spaces some shit for you
+
+*note*: can do import x as y, so that you can referrence y instead of x. Sort of aliasing.
+
+len(sequence) returns length of sequence
+negative indexing is a thing, allowing you to count backwards. End is -1, 2nd last entry is -2, etc.
+
+NO LECTURE ON FRIDAY
+
+Can perform maths on NumPy arrays, perform operations element-wise on the array

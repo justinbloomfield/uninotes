@@ -1,5 +1,6 @@
 {{ TOC }}
 
+
 # ECON1102
 
 Lecturer: Cameron Gordon
@@ -67,7 +68,7 @@ Emergency Banking Act, March 6, 1933 - closed the banks under a national ‘bank
 National income accounting provides a systematic method of  aggregating the production of diverse goods into a single measure of overall economic activity as traded in and/or valued by market exchanges 
 Conceptually based on circular flow model
 Production function also basic concept behind national income accounts
-Y = f (K, L, La)  
+Y = f (K, L, La)
 Y (output) dependent on K (amount of capital), L (Land) and La (Labour) used
 NIA conceptually measure the total economy:
 - as a machine in which inputs are transformed thorough various processes to yield outputs
@@ -80,11 +81,11 @@ PRODUCTION = EXPENDITURE = INCOME
 - Income measure of GDP counts all the income earned in the economy
 - Production measure of GDP counts the number of goods produced in the economy
 
-Y = C + I + G + NX
+GDP = C + I + G + NX
 C (Consumption), I (Investment), G (Government), NX (Net Exports)
 
 NX = Merchandise exports - Imports
-Negative NX is a “leakage” from a domestic enomy because some economic expenditure is in effect flowing out of the country into the rest of the world
+Negative NX is a “leakage” from a domestic economy because some economic expenditure is in effect flowing out of the country into the rest of the world
 
 ## L8
 
@@ -98,6 +99,37 @@ Negative NX is a “leakage” from a domestic enomy because some economic expen
 **Gross National Product (GNP)**: aggregate final outpt of citizens and businesses of an economy in one year. GNP = GDP + net foreign factor income
 **Net Foreign Factor Income**: income from foreign domestic factor sources minus foreign factor income earned domestically
 
+**Wealth Accounts**: Represent a balance sheet of an economy's assets and liablilities and is a *stock* of collect flows measured at a point in time
+**Real Wealth**: the value of the productive capactiry of the assets of an economy measured by the goods and services it can produce now and in the future
+**Nominal Wealth**: the value of those assets measured at current market prices
+
+Only goods and services that are transacted through markets are included in GDP, i.e. must be market value assigned to it through the market. 
+Does not include:
+- Changes in environmental conditions
+- a measure of the health of a nations people
+- underground/"black market" shizzle
+Only includes activity thatn can be identified in the fom of a recognised exchaneg transaction, usually market-based
 
 
+## L9
 
+"Rule of 70": Doubling of gdp is some shit like 70/g
+
+
+## L10
+
+Showed a whole bunch of models, not sure if we need to know those or not
+
+**Net Payoff**: a way of rummarizing the key relationships: real output per hour (Y/L) and capital per hour (K/L), with technology determining the shape of the curve
+
+Workers become more productive with more capital *only up to a point*
+
+Some countries are more efficient at using capital and labour for some reaons:
+1. human capital
+2. Technology
+3. Institutions
+4. Exogenous shocks
+
+**Human Capital**: Stock of ckills that individuals accumulate to make them more productive, analogous to physical capital. Improved through education, health,
+**Institutions** refers to property rights, rule of lar, government systems, organisational form, contract enforcement, etc.
+**Exogenous Shocks**: war, famine, plague and death, or stuff like drastic changes in oil prices, 

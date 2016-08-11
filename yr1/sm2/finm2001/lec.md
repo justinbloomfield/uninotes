@@ -69,7 +69,7 @@ Unless told otherwise, assume the NWC is fully recovered unless otherwise stated
 **IRR**: discount rate that causes a project's NPV to equal 0
 k = rrr
 if IRR > k, accept
-if IRR < k, reject
+if IRR <\\> k, reject
 if IRR = k, indiff
 
 When doing manually, have to do trial and error. Pick something reasonable, like 3% or 8%.
@@ -93,6 +93,8 @@ IRR of the incremental cash flows that would result from replacing one project w
 - multiple may exist
 - the other ones that apply to the normal IRR still apply to this one as well
 - NPV still much better to use if possible
+- mulitple may exist
+
 
 ## L3
 
@@ -126,3 +128,37 @@ This and cost of rent *should* be included in the decision making process
 
 **Sunk Costs**: costs that have been or will be paid regardless of the decision whether or not the investment is undertaken. *Not to be included in the decision making*
 
+
+## L4
+
+**Leasing**
+
+Chapter 25 in buku
+
+**Lease**: contract between twow parties, the Lessee and the Lessor. Lessee: party lble for periodic payments in exchange for the right to use the asset. Lessor: entitled to the lease payments in exchange for lending the asset
+a
+- Involve little or no upfront payment
+- At the end of the contract term, the lease specifies who will retain ownership of the asset and at what terms. Typically, the lessee has the option to purchase the asset at a predetermined value or the market price
+- Also specifies cancellation provisions, possibility of extensions, responsibility for maintenance, etc.
+
+**Types of Leases**
+*Sales-type Lease*: A type of lease in which the lessor is the manufacturer of the asset (e.g. photocopier from Xerox)
+*Direct Lease*: Lessor is not the manufacturer, often an independent company that specializes in purchasing assets and leasing them to customers
+*Sales and Lease-back*: Describes a type of lease in which a firm already owns an asset it would prefer to lease. Firm sells asset, gets cash, leases back from the new owner and makes lease payments. Useful for firms facing a funding shortfall or firms that are asset rich but cash poor.
+*Leveraged Lease*: Lessor borrows from a bank or other lender to obtain the initial capital to purchase an asset, using the lease payments to pay back the bank loan.
+
+In order to value a lease, we need to consider the residual value of the asset. Residual value is the asset's market value at the end of the lease
+
+**Lease payments are made at the beginning of each period, i.e. payment starts at time 0, *annuity due***
+
+**PV(Lease Payments) = Purchase Price - PV(Residual Value)**
+
+*Fair Market Value Lease*: Gives the lessee the option to purchase the asset at it's fair market value at the termination of the lease
+*$1 Out Lease (Or Finance Lease)*: Get the asset at nominal cost of $1. Basically purchasing over time
+*Fixed Price Lease*: Lessee has the option to purchase the asset at the end of the lease for a fixed price that is set upfront in the lease contract (this is a long call!). Lease payments oft. higher to compensate for this option.
+*Fair Market Value Cap*: lessee can purcase the asset at the minimum of its fair market value and a fixed price or 'cap'
+*Operating Lease*: Lease in which the lessor receives the depreciation deduction associated with the ownership of the asset
+*Finance Lease*: Lessee receives the depreciation deductions for tax purposes and can also deduct the interest portion of the lease payments as an interest expense
+
+
+When calculating incremental cash flows, use Lease - Buy

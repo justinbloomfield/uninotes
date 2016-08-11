@@ -32,3 +32,22 @@ DEFINE, EXPLAIN, APPLY
 
 REAL SECTOR = actual production
 FINANCIAL SECTOR = prices of shit
+
+## T3
+
+a. GDP = C + I + G + NX= 5600 billion. SHIT NOT COUNTED: Transfer Payments, NFI.
+b. Net exports = 200 billion
+
+2. a. no, transactions, no productions even though there is profit. Not in the real economy
+   b. no, resale. Reallocation of resources 
+   c. yes, as it is contributing to the economy. Hiring and shit
+   d. yes, if new, no if not
+   e. no, that's part of an 'underground' market
+   f. no, household production
+3. 100,000
+
+4. apparently no, guess because as pe
+
+5. a. 34, 24 using (1.03)^n = 2, growth rate is 70/g so 23.33333333333
+   b. 13, 9 using (1.03)^n = 2, 8.75
+   c. GDP per Labour is going to go up, because of birth rate
