@@ -133,3 +133,49 @@ Some countries are more efficient at using capital and labour for some reaons:
 **Human Capital**: Stock of ckills that individuals accumulate to make them more productive, analogous to physical capital. Improved through education, health,
 **Institutions** refers to property rights, rule of lar, government systems, organisational form, contract enforcement, etc.
 **Exogenous Shocks**: war, famine, plague and death, or stuff like drastic changes in oil prices, 
+
+## L11
+
+**Economies of Scale**
+
+Increasing returns to scale: Average cost of production falls as production increases
+Decreasing returns to scale: Average cost of production rises as production increases
+
+Productivity is never the sole cause of GDP growth.
+
+**Innovation and something or other**
+- Innovation by itself does not necessarily lead to new growth and productivity
+- A new product may not meet a clear need or desire in which case it will go nowhere economically and may even represent a waste of economic resources
+- Some innovations may impose significat costs on society
+
+**Creative destruction and entrepreneurship**
+- Innovation and enrepreneurship is risky because its outcomes are higly unceratin. Such activities may not have a tangible outcome.
+(THERES MORE OF THIS)
+
+
+Per capita GDP ≠ Standard of living
+
+## WEEK 5 L1
+
+**Labour and Unemployment**
+
+**Labour Demand Curve**: Derived from the firm's profit maximization objective in which firms hire forkers until the Marginal Product of Labour equals the wage rate. This curve slopes downwards becaue of the diminishing marginal product of labour and beause output and input markets are perfectly competitive, i.e. as we add more workers and hol all else equal, each additional worker produces less
+
+**Labour Supply Curve**: Describes the entire supply of labour as probeded by the whol labour force. Slopes upfard because the opportunity cost of leisure and the reward for working is higer.
+
+An increase in income tax reduces labour supply and employment declines and wages increase
+Government subsidies of Australian automakers are withdrawn, in the short term labour demand falls, employments falls and wages fall
+Government regulation imposing a floor on wages: creates an excess supply of labour
+
+**Discouraged Workers**: People without jobs whho give up looking for work
+**Participation Rate**: number of people who are either emplover or are actively looking for work
+**Labour Force**: Those able and willing to look for work
+
+Unemployment Rate: Unemployed / Labour Force
+Labour Force: Employed + Unemployed
+Participation Rate: Labour force / Population
+
+**Problems with mearsuing the unemployment rate**
+1. Number of discouraged workers increases during a recession; therefore the official unemployment rate appears lowew than it would otherwise be.
+2. Under-employed workers: people who work part-time but would like to work more hours
+3. People who clain to be unemployed but are not can lead to the unemployment rate being over-stated. 

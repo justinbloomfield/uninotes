@@ -51,3 +51,15 @@ b. Net exports = 200 billion
 5. a. 34, 24 using (1.03)^n = 2, growth rate is 70/g so 23.33333333333
    b. 13, 9 using (1.03)^n = 2, 8.75
    c. GDP per Labour is going to go up, because of birth rate
+
+## T4
+
+1. a. No, not likely GDP increased, as children would not contribute to the GDP. Even in the longer run, there will be an excess supply of labour, as more surviving children does not mean there is more capital for them to work with. Not sure though: One hand less people dying, increase in health, therefore higher population -> increase in labour force. For Y/L, Y decreases, L increases, as children are not in the labour force. So my answer was pretty okay, just need to add this other maths stuff into it to help make it better.
+   b. Yes, as less childhood deaths and reduced occurence of diseases generally contributes to a higher standard of living. Productivity increased due to better SoL, Y/L increases. Demonstrates that SoL ≠ more productivity
+2. a. False, shows effect of increasing K/L
+   b. False, Shows effect of increasing technology, which is independent of diminishing returns
+   c. True, yay!
+3. Diminishing returns implies a ceiling on economic growth. To increase growth in long run, need to increase A on "total factor productivity" (TFP). Technology, Human Capital, Institutions 
+4. Decreased demand for Australian resources from China, decreased investment in mining sector, decreased I (Australian Investment) because mining sector is a large contributor to Australian GDP, decreased Y, decreased econ. growth. Gdp Growth Rate = Yt/Yt(Yt-1) - 1
+
+Some function from the lectures: Y = AK^alpha L^(1-alpha)
