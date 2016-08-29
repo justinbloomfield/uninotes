@@ -1,4 +1,4 @@
-{{ TOC }}
+{{TOC}}
 # MATH1113: Maths for Actuarials
 Tutes start week 3
 Enrolment opens this Thursday at 2pm

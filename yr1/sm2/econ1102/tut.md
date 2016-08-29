@@ -63,3 +63,44 @@ b. Net exports = 200 billion
 4. Decreased demand for Australian resources from China, decreased investment in mining sector, decreased I (Australian Investment) because mining sector is a large contributor to Australian GDP, decreased Y, decreased econ. growth. Gdp Growth Rate = Yt/Yt(Yt-1) - 1
 
 Some function from the lectures: Y = AK^alpha L^(1-alpha)
+
+## T5
+**Really gotta watch those two lectures bruh**
+CPI Biases:
+- new goods bias
+- quality
+- substitution
+- outlet substitution
+
+**Core Inflation**: CPI - (food + energy prices)
+**GDP Deflator**: (Nominal GDP / Real GDP) * 100 
+**CPI Inflation**: (CPI Current - CPI Previous)/(CPI Previous) * 100
+
+1. i. cpi decrease, understating because quality not reflected properly (hope this'll make sense later on), substitution bias. *Understating b/c substitution bias**. Core excludes food prices, therefore no change. Prices decreased -> GDP Def decreased
+ii. if *not* in basket, then it's a new product -> underestimating, assume paying less when actually paying more. No change in Core Inflation, as all components remain the same. GDP Deflator: No change, as no change in price.
+iii. Potentially no bias, because quality increase and price decrease, No change. Prices decrease, Def decrease
+iv. New outlet cheaper goods, outlet bias because Aldi is cheaper but alternalive prices are used. Core doesn't change because no change in CPI. GDP Def goes down 
+ 
+Types of Unemployment:
+1. Structural (skills unsuited to available jobs)
+2. Cyclical (recession = job loss)
+3. Seasonal (due to change in events, not restricted to weather seasons)
+4. Frictional (Takes time to find employment.)
+
+2.a. Structural
+  b. Cyclical
+  c. Frictional 
+  d. Seasonal
+
+Reminder that labour force is employed + unemployed in labour force
+3.a. Something like 4.7%
+  b. Something like 4.07%
+
+
+4. LFPR = LF / Working Age Population. 3 or 4 in LF, 3/5 = 60%, 4/5 = 80%
+   b. 2/3 or 3/4 : 66.67%, 75%
+
+5. a. 112.3 million
+   b. 66.25%, 
+   c.
+   d. Unemploymen went up, or Labour Force down. For graph, use Labour Market, Y = Wages, X = Labour. Comparative Static = explain transition

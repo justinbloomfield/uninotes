@@ -1,4 +1,4 @@
-{{ TOC }}
+{{TOC}}
 
 # FINM2001
 
@@ -162,3 +162,114 @@ In order to value a lease, we need to consider the residual value of the asset. 
 
 
 When calculating incremental cash flows, use Lease - Buy
+
+## L5
+
+**Equity and Debt Financing**
+quiz on this shit next week
+
+Firms can get funds from Retained Earnings, Equity, and Debt
+
+**Equity**: Limited liabiliyt, ownership, residual claim (ranked last in distributions of dividendst and funds from liquidation), non-redeemable (firm, can't force shareholders to sell back their shares).
+
+**Convertible Preferrence Stock**: Preferred stock that gives the owner an option to convert it into common stock at a future date.
+
+**Equity Financing for Private Companies**
+- Initial capital that is required to start a business is uaually provided by the entrepreneur or their immediate family/friends
+- Often a private company mus seek outside sources that can provide additional capital for growth - private equity 
+
+**Angel Investors**
+- Individual investors who buy equity in small private firms - often the first significant source of outside funding for a start up
+
+**Venture Capital Firm**: A limited partnership that specializes in raising money to invest in the private equity of early-stage, high-risk, high-potential firms who lack funding for growth
+Charge a fee for this, usually 20% of any positive return. Usually charge a 2% annual management fee
+
+**Institutional Investors**:Pension funds, hedge funds, mutual funds, insurance companies, endowments and foundations
+
+**Corporate Investors** are another potential contributor
+
+**Initial Public Offering (IPO)**: The process of selling stock to the public for the first time - a common exit strategy that allows a private investor to realize gains
+
+**Ad and Disad of going Public**:
+*Disad*:
+- Equity holders become more widely dispersed
+- more difficult to monitor management
+- loss of power and control for the intial owners
+- firm must satisfy all of the requirements of public companies
+*Advantages*:
+- Greater liquidity
+- Better access to more capital
+
+
+**Underwriter**: an investment banking firm that manages a security issuance and designs its structure. A group of underwriters who jointly underwrite is called a syndicate **Underwriting Spread**: profit for the underwriter, usually around 7%
+**Primary Offering**: 
+
+**Types of IPOs**
+1. Best Efforts: for smaller IPOs, a situation in which the underwriter does not quarantee that the stock will be sold, but instead tries to sell the stock for the best possible price. Little risk for the underwriter, performing largely a marketing role for the firms's shares.
+2. Firm Commitment: most common. An agreement between an underwriter and an issuing firm in which the underwriter guarantees that it will sell all of the stock at the offer price. Done by purchasing shares themselves if demand is too low.
+3. Auction IPO: Underwriter takes bids from investors and then sets the price that clears the market
+
+Two ways to value a company:
+- Compute present value of all future cash flows
+- Estimate the value by examining comparables (recent IPOs) of similar size and nature
+Underwriters apply both methods in valuing IPOS, but if the two differ greatly, the use of comparables is preferred.
+
+**IPO Puzzles**:
+1. Underpricing: Generally, underwriters set the issue price so that the average first-day return is positive. Underwriters benefit from underpricing as it allows them to manage their risk. 
+2. Number of IPO issues is highly cyclical:. When times are good, market flooded with new issues. Dries up quickly when times are bad.
+3. Costs of an IPO are very high. 
+4. Long run performance is poor. 
+
+**Seasoned Equity Offering (SEO)**: When an already pulbic company offers new shares for sale to riase additional equity
+Two Types:
+1. Cash (by far most common)
+2. Rights Offer: firm offers the new shares only to existing shareholders
+
+**Debt**
+
+A firm may choose to issue debt to raise finances. Two types: *Public Debt* and *Private Debt*.
+
+**Public Debt**
+- Traded on an exchange
+- Types of corporate debt:
+	- Notes (<10 yr maturity, unsec)
+	- Debentures (>10 yr maturity, unsec)
+	- Mortgage bonds (secured by property)
+	- Asset-backed bonds (secured by firm's asset)
+- Secured debtholders rank above unsecured debtholders in a distribution
+
+**Private Debt**
+- Debt that is not publicly traded
+- Term loans - loans that last for a specific term
+- Private placements - bonds traded within small groups of investors. Less reulatory requiremns (potentially faster and cheaper to issue debt). Less liquid than public debt markets.
+
+**Bond Covenants (for Lender)**
+- Restrictive  clauses in a bond contract that protect lenders by limiting the issuers from undercutting their ability to repay
+
+**Repayment Provisions (for Borrower)**
+- A bond issure typically repays its bonds by making coupon and princitpal payments as specified in the bond contract.
+
+- *Callable Bonds*: bonds that contain a call provision that allows the issuer to repurchase 
+
+## W6
+### Capital Structure 1 (M & M Theory)
+Mid-sem exam stuff available on Wattle
+3 questions, multiple parts, 90% calc, 10% theory. All questions seen before, uses textbook to help out, as well as going through all previously seen questions and actually pay attention to what’s happening this time
+
+Q1 - Week 5 material - lec, tut, wrk. Could potentially ask shit like “explain a fair value thingamabob”
+
+Q2 - IRR. Know everything about it lmao, probs the hardest (he said)
+
+Q3 - NPV/Leasing question. Probs have to compare between outright purchasing and borrowing to buy it.
+
+**Capital Structure**: The relative mixe of debt, equity and other securities that a firm has outstanding.
+Mix will affect a company’s level of risk, the return it will need to generate from it’s investments and even the characteristics of the investments the firm can undertake
+
+**Unlevered Firm**: Firm with no debt, unlevered equity = equity in an unlevered firm
+
+*Leverage increases the risk of equity even when there is no risk that the firm will default*
+
+E + D = U = A
+
+**Weighted Average Cost of Capital**: Used to discount Free Cash Flows
+

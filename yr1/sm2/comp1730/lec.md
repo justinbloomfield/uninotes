@@ -119,3 +119,48 @@ negative indexing is a thing, allowing you to count backwards. End is -1, 2nd la
 NO LECTURE ON FRIDAY
 
 Can perform maths on NumPy arrays, perform operations element-wise on the array
+
+
+## W5L2
+
+**Functions and Namespaces**
+
+**Functions (Recap)**
+
+Why use functions?
+- *Abstraction*: To use a function, we only need to know *what* it does, not *how*.
+- Readability
+- Divide and conquer - break a complex problem into simpler problems
+- A function is a logical unit of testing
+- Reuse: Write once, use many times (and by many).
+
+**Namespaces**
+
+Assignment associates a (variable) name with a reference to a value (object). This association is stored in a *namespace*
+Whenever a function is caleed, a new *local namespace* is created
+Assignments to variables (including parameters) during execution of the function are done in the local namespace
+The Local namespace disappears when the function ends
+
+**Scope**: the set of program statements over which a variable exists (i.e. can be referred to). Because there are several namespaces, there can be *different variables with the same name in different scopes*.
+
+**Local Assignment Rule**
+Python considers a variable that is assigned *anywhere* in the function suite to be a local variable* (this includes parameters)
+When a non-local variable is evaluated, only the local namespace is checked
+The rule considers only *variable assignment*
+
+**Modifying is not assignment!!!!!!!!!!!!!**
+
+When a function is called, its parameters are assigned *references* to the argument values
+
+**Recursion**
+
+A recursive function is often described as "a function that calls itself"
+Function calls form a *stack*: when the n^th function call ends, execution returns to where the call was made in the (n-1)th function suite
+The function suite must have a branching statemnt, such that a recursive call does not always take place ("base case"): otherwise recursion never ends
+
+**Guidelines for good functions**:
+- Within a function, access only local variables
+- Use parameters for all inputs to the function
+- Parameter default values make this easy
+- Use multiple return (a tuple) for all function outputs, **unless the specific purpose of the function is to send output elsewhere**
+- Don't modify mutable argument values, **unless the specific purpose of the function is to do that**

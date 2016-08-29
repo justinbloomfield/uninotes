@@ -1,12 +1,12 @@
-{{ TOC }}
+{{TOC}}
 
 
 # ECON1102
 
 Lecturer: Cameron Gordon
 cameron.gordon@anu.edu.au, HT: j.cross@anu.edu.au
-
-## L1
+## W1
+### L1
 
 Tutorials start week 2, registration open from 7pm tonight
 2 assignments: 5%
@@ -14,7 +14,7 @@ Mid-sem Exam: 30%, 50% redeemable
 Final Exam: 60%
 Textbook probs necessary, check course outline for the full name.
 
-## L2
+### L2
 
 **Macroeconomics**: 
 - Emphasis on the 'A' for the aggregate economy.
@@ -40,7 +40,7 @@ Textbook probs necessary, check course outline for the full name.
 **Fallacy Of Composition**: sum of the parts always equal to the whole, which is WRONG
 
 
-## L3
+### L3
 
 **Technical Efficiency**: Macimum output for minimum input
 **National Income Accounting**: Government's methodology for keeping track of measures of aggregate economic activity
@@ -48,20 +48,21 @@ Textbook probs necessary, check course outline for the full name.
 **Circular Flow Model**
 - Start by assuming a *close economy* (operates in a state of autarky) (*open economy*: economy which trades with other economies)
 
-## L4
+## W2
+### L1
 
 We have the actual lecturer today, amazing!
 
 **Introduction to the Great Depression**
 
 
-## L6
+### L2
 
 Be sure to get all the shit from L5 this weekend brother
 
 Emergency Banking Act, March 6, 1933 - closed the banks under a national ‘banking holiday’ to help stabilise the crisis
 
-## L7
+### L3
 
 **National Income and Product Accounting**
 
@@ -86,8 +87,8 @@ C (Consumption), I (Investment), G (Government), NX (Net Exports)
 
 NX = Merchandise exports - Imports
 Negative NX is a “leakage” from a domestic economy because some economic expenditure is in effect flowing out of the country into the rest of the world
-
-## L8
+## W3
+### L1
 
 **Income Approach to GDP**: Measures sum of all income earned in the economy
 **Production Approach to GDP**: 
@@ -111,12 +112,12 @@ Does not include:
 Only includes activity thatn can be identified in the fom of a recognised exchaneg transaction, usually market-based
 
 
-## L9
+### L3
 
 "Rule of 70": Doubling of gdp is some shit like 70/g
 
-
-## L10
+## W4
+### L1
 
 Showed a whole bunch of models, not sure if we need to know those or not
 
@@ -134,7 +135,7 @@ Some countries are more efficient at using capital and labour for some reaons:
 **Institutions** refers to property rights, rule of lar, government systems, organisational form, contract enforcement, etc.
 **Exogenous Shocks**: war, famine, plague and death, or stuff like drastic changes in oil prices, 
 
-## L11
+### L2
 
 **Economies of Scale**
 
@@ -155,7 +156,8 @@ Productivity is never the sole cause of GDP growth.
 
 Per capita GDP ≠ Standard of living
 
-## WEEK 5 L1
+## WEEK 5
+### L1
 
 **Labour and Unemployment**
 
@@ -179,3 +181,71 @@ Participation Rate: Labour force / Population
 1. Number of discouraged workers increases during a recession; therefore the official unemployment rate appears lowew than it would otherwise be.
 2. Under-employed workers: people who work part-time but would like to work more hours
 3. People who clain to be unemployed but are not can lead to the unemployment rate being over-stated. 
+
+### L2
+
+Educational attainment is associated with less long-term unemployment
+Workers may not get the job they desire in the field they desire or at the pay they desire
+Job creation and destruction is a normal part of any economy
+
+**Natural Rate of Unemployment**: The unemployment rate that exists when the economy is operating at potential GDP
+**Non-accelerating Inflation Rate of Unemployment (NAIRU)**: The level of unemployment below which th erete of inflation will rise
+
+**Four types of unemployment**:
+1. Cyclical unemployment: unemployment caused by a business cycle contraction
+2. Frictional Unemployment: Short-term unemployment arising from the process of matching workers with jobs, e.g. uni finishers, school leavers
+3. Seasonal Unemployment: Unemployment due to factors such as weather, variations in tourism and other calendar-related events
+4. Structural Unemployment: Unemployment arising from a persistent mismatch between the skills and characteristics of workers and the requirements of jobs
+
+
+### L3
+
+Actual unemployent = frictional + structural + cyclical  
+Natural = frictional + structural
+
+**Cost of unemployment**:
+- Loss of GDP (through lower L) and opportunity cost of ‘slack’ human capital
+- Loss or deterioration of human capital
+- Retraining costs
+- Financial costs to the government (e.g. unemployment benefits, loss of tax revenue)
+
+**Costs to the individual**:
+- Loss of income
+- Loss of skills
+- Retraining costs
+- Social costs: family issues, mental health, crime, etc.
+
+
+
+## W6 - INFLATION
+### L1
+
+There is a distinction between the **Real Economy**, which refers to the economy of the physical world, where physical goods and services are produced and consumed and the **financial/monetary economy**, which refers to the *money economy*,
+
+Financial Markets allow consumers and trade off future and present consumption and production against one another. Helps market expand more than it would otherwise.
+
+Financial Markets allow those with funds to communicate with those in need of funds.
+
+**I = Y - C - G** — investment is a *residual* left over after private individuals and the public sector spends its share of output (Y).
+
+**Dissaving**: Negative saving. Spending more than is available to them in the economy.
+
+**Inflation**: A general rise in the price level
+Nominal GDP = Real GDP \* Price Level
+
+### L2
+
+Inflation causes redistributions of wealth and income that have no particular economic merit and which are driven purely by changes in money prices (including interest rates) in the short-run
+
+Debtors benefit from lower rates, savers are worse off.
+
+INflation can cause tax distortions, ‘bracket creep’ is a classic example. People in lower categories are being pushed upwards by inflation.
+
+**Real interest rate**: Equal to the marginal product of capital and is paid in goods
+
+**Nominal interest rate**: rate on a savings account and is paid in dollars
+
+**Fisher Equation**: ***i = r + π***
+, where i = nr, r = rr, π = rate of inflation
+
+Interest determines the ‘price’ of money
