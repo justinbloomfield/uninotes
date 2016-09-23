@@ -1,6 +1,8 @@
 {{ TOC }}
 
-# ECON1102 TUTORIALS
+┌─────────────────────┐
+│# ECON1102 TUTORIALS │
+└─────────────────────┘
 
 Jamie Cross, j.cross@anu.edu.au
 Consult all weekdays 11-1, tuesday 11-12, ARNDT1002 (first on the left upstairs)
@@ -103,4 +105,16 @@ Reminder that labour force is employed + unemployed in labour force
 5. a. 112.3 million
    b. 66.25%, 
    c.
-   d. Unemploymen went up, or Labour Force down. For graph, use Labour Market, Y = Wages, X = Labour. Comparative Static = explain transition
+   d. Unemployment went up, or Labour Force down. For graph, use Labour Market, Y = Wages, X = Labour. Comparative Static = explain transition
+
+## T7
+
+1. book
+2. book
+3. Large unplanned inventories -> decrease in production until inventories down to desired level. This at start of recession is bad, means less contribution to economy -> decrease in income. Also an increase in cyclical unemployment. Both of these things make the recession worse. Could do this with a diagram, but who wants that?
+4. Decrease consumption, as wealth has gone down (value of assets goes down, less wealth -> less spending)
+5. a. $1.2 trillion
+   b. $0.9t
+   c. increase in MPC -> increase in C, decrease in MPC -> decrease in C
+   d. Higher the MPC the larger the fiscal mutliplier
+6. 

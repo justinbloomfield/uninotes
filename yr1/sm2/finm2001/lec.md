@@ -14,7 +14,7 @@ Text Book: check Wattle, make sure to grab it at some point
 Been used for a long time, so check for second hand, or just an online copy
 Tutes available tomorrow at 1pm
 
-## L1
+### L1
 
 4 Types of Firms:
 - Sole proprietor (private: one owner)
@@ -39,7 +39,7 @@ Firms exist to create value *over and above* that which it's owners can create b
 Required Rate of Return = real risk-free rate + expected inflation + risk premiums
 
 
-## L2
+### L2
 
 **Investment Decisions (NPV, IRR and more!) **
 Chapter 7 for reading (when you get the book you fucking slug)
@@ -81,7 +81,7 @@ When IRR Rule does not apply:
 - multiple IRR
 
 
-## W1
+### W1
 
 Reminder that we have a quiz next tutorial, not fun, on the stuff from this weekend so get ready to do that shit you nerd. Also don’t forget you have your maths assignment to do too.
 
@@ -96,7 +96,7 @@ IRR of the incremental cash flows that would result from replacing one project w
 - mulitple may exist
 
 
-## L3
+### L3
 
 **Capital Budgeting**
 
@@ -129,7 +129,7 @@ This and cost of rent *should* be included in the decision making process
 **Sunk Costs**: costs that have been or will be paid regardless of the decision whether or not the investment is undertaken. *Not to be included in the decision making*
 
 
-## L4
+### L4
 
 **Leasing**
 
@@ -163,7 +163,7 @@ In order to value a lease, we need to consider the residual value of the asset. 
 
 When calculating incremental cash flows, use Lease - Buy
 
-## L5
+### L5
 
 **Equity and Debt Financing**
 quiz on this shit next week
@@ -252,7 +252,7 @@ A firm may choose to issue debt to raise finances. Two types: *Public Debt* and 
 - *Callable Bonds*: bonds that contain a call provision that allows the issuer to repurchase 
 
 ## W6
-### Capital Structure 1 (M & M Theory)
+### Capital Structure I (M & M Theory)
 Mid-sem exam stuff available on Wattle
 3 questions, multiple parts, 90% calc, 10% theory. All questions seen before, uses textbook to help out, as well as going through all previously seen questions and actually pay attention to what’s happening this time
 
@@ -272,4 +272,68 @@ Mix will affect a company’s level of risk, the return it will need to generate
 E + D = U = A
 
 **Weighted Average Cost of Capital**: Used to discount Free Cash Flows
+
+## W7
+### Capital Structure I (M&M Theory, and Optimal Capital Structure *with Taxes*)
+
+**The Interest Tax Deduction**
+Corporations pay taxes on their profits after interest payments are deducted, Thus interest expense reduces the amount of corporate taxes. Creates an incentive to use debt because reduces tax.
+
+**M&M Proposition 1 with Taxes**
+*Total value of the levered firm exceeds the value of the firm without leverage due to the present value of the tax savings from debt*
+V^L = V^U + PV(Interest Tax Shield)
+
+PV(Intest Tax Shield): get from lecture slides
+
+**Weighted Average Cost of Capital with Taxes**: r<sub>wacc</sub> from lecture notes
+**M&M Proposition II (With Taxes)**: again, from slides to book 
+
+The value of the interest tax shield can be found by comparing the balue of the levered firm, V^L, to the unlevered value, V^U
+  - unlevered value is calculated by discounting free cash flows at the firm's unlevered cost of capital, the pretax WACC
+  - levered value is calculated by discounting free cash flows at the firm's levered cost of capital, the after-tax WACC
+
+When firms raise new capital from investors, they do so primarily by issuing debt. 
+More common for companies to buy back shares than to issue shares, because debt is cheaper than equity (due to taxes)
+
+Most investment and growth is supported by internally generated funds
+
+Use of debt varies by industry
+Firms in growth industries (e.g. biotech and other high technology) carry very little debt, while airlines, automakers, utilities, and financial firms have high leverage.
+
+**Limits to the Tax Benefit of Debt**
+To receive the full tax benefits of leverage, a firm need not use 100% debt financing, but the firm does need to have positive taxable earnings to offset against:
+  - a firm can only recieve a tax benefit if it is paying taxes in the first place
+  - this constraint may limit the amount of debt needed as a tax shield - *no profit, no tax*
+No corporate tax benefit arises from incurring interest payments that regularly exceed EBIT
+
+## W8
+### Capital Structure II (Financial Distress, Agency Costs & Trade-off Theory)
+
+**Mid-sem stuff**:
+1. undersubscribed = can get all shares
+   oversubscribed = for 30 to 1, shares you can get are (num you want)/30. Shit like that
+
+**Financial Distress**: When a firm has difficulty meeting its debt obligations, if a firm is unable to rectify its financial stress -> default
+**Default**: WHen a firm fails to make the required interest or principarl payments on its debt, or violates a debt covenant. After the firm defaults, debtholders are given certain rights to the assets of the firm and may even take legal ownership of the firm's assets through bankruptcy - this is the worst case scenario. *This does not apply to all-equity financed firms as equity is **not contractual***
+
+The U.S. bankruptcy code was created so that creditors are treated fairly and hte value of the assets is not needlessly destroyed.
+
+Three types of bankruptcy in Australia:
+1. Receivership
+2. Voluntary Administration
+3. Winding up
+**not examinable\^\^** 
+
+Bankruptcy process is complex, time-consuming and costly
+Direct costs of bankruptcy reduce the value of the assets that the firm's investors will ultimately receive
+
+Firms may avoid filing for bankruptcy by first negotiating directly with their creditors - this is referred to as a *workout*
+
+V^L = V^U + PV(Interest Tax Shield) - PV(Financial Distress Costs) ( **Trade-off Theory**)
+
+Trade-off theory states that firms should increase their leverage unitl it reaches the level for which the firm value is maximised
+
+**Agency Costs**: Costs that arise when there are conflicts of interest between the firm's stakeholders
+
+iValue of levered firm = Trade-off theory - PV(Agency Costs of debt) + PV(Agency Benefits of Debt)
 

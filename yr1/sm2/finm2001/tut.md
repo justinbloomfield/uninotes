@@ -14,3 +14,6 @@ Two types of incremental revenues:
 - Direct
 - Indirect
 
+## T7
+can use general quadratic formula to solve IRR to save time apparently (providing it's an x^2, and that x = 1/(1+rate))
+
