@@ -375,3 +375,21 @@ Variables that shift the AD curve:
 - changes in foreign variables in outside economies
 
 **Long-run AS curve**: a curve thatt shows the relationship in hte long run between the price levle and the quantity of real GDP supplied. Shows that in the LR increases in the price level do anot affect the leevel of real GDP
+
+### L2
+
+**Short-run AS curve**: upward sloping shows that (in the short run) firms will produce more in response to higher prices. This is because generally the prices of inputs tend to rise more slowly that the prices of the final products. 
+**Menu Costs**: costs to firms of changing prices
+
+Three theories behind the positive relationship between inflation (or price level) and output:
+1. money illusion - 'misreading' inflation as higher or lower than it actually is
+2. sticky wages ("Keynesian") - wages may take more time to adjust than prices (e.g. because of contracts), and social conventions such as perceptions of fairness, which are slow to adjust
+3. sticky prices ("New Keynesian") - for some goods there may be long-term contracts with purchasers or complex pricing schemes that take time to be adjusted
+
+Changes in the price level are depicted in movements up or down a stationary short-run aggregate supply curve.
+
+Exogenous shocks cause the SRAS curve to shift
+
+Variables that shift *both* the SR and LR aggregate supply curves:
+1. increases in the labour force and/or in the capital stock and/or in resources
+2. Technological change
