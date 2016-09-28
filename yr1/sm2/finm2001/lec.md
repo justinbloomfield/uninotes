@@ -337,3 +337,34 @@ Trade-off theory states that firms should increase their leverage unitl it reach
 
 iValue of levered firm = Trade-off theory - PV(Agency Costs of debt) + PV(Agency Benefits of Debt)
 
+## W9
+### Payout Policy (Dividends & Taxes)
+
+**Payout Policy**: The way a firm chosses between the alternative ways to distribute free cash flow to equity holders (e.g. dividends and share repurchases). Like capital structure, a firms payout policy depends on market imperfections
+
+A firms dividend policy is decided by its Board of Directors
+**Declaration Date**: The date on which the board of directors authorizes the payment of a dividend
+**Record Date**: when a firm pays a dividend only shareholders on record on this date receive the dividend
+**Ex-Dividend Date**: A date, two business days prior to a dividend's record date, *on or after* which anyone buying the stock will *not* be eligible fo the dividend
+**Payable Date (Distribution Date)**: A date, generally within a month after the record date, on which a firm provides dividend proceeds to its registered stockholders
+
+Companies that pay dividends usually do so in cash and in a regular manner - quarterly or semi-annualy. However, firms can also pay:
+- Special dividends: A one-time dividend payment a firm makes, which is usually much larger than a regular dividend
+- Stock Split (Stock Dividend): When a company issues a dividend in shares of stock rather than cash to its shareholders.
+
+**Share repurchases** can take the form of an open market repurchase, a tender offer or a targeted repurchase
+**Open market repurchase**: repurchasing shares by buying shares in the open market just like any other investor. By far the most common form of repurchase.
+**Tender offer**: offer by the company to buy back shares at a fixed price, usually above market value to motivate shareholders to sell. If there is not enough interest, the company will cancel the offer.
+**Dutch Auction**: the firm lists different prices at which it is prepared to buy shares, and shareholders in turn indicate how many shares they are willing to sell at each price. The firm then pays the lowest price at which it can buy back its desired number of shares. Very rare.
+**Targeted Repurchase**: purchasing shares directly from a specific (major) shareholder. 
+
+**Greenmail**: if a major shareholder is threatening to takeover the firm and remove its current management.
+
+In perfect capital markets, holding the investment policy of a firm fixed, the firm's choice of dividend policy is irrelevant and does not affect the initial share price.
+
+When the tax rate on dividends is greater than the tax rate on capital gains, it is undesirable for a firm to raise funds to pay a dividend
+
+When tax rate on dividends is greater than the tax rate on capital gains, shareholders will pay lower taxes if a firm uses share repurchases rather than dividends
+
+**Clientele Effect**: When the dividend policy of a firm reflects the tax prefexence of its investor clientele.
+

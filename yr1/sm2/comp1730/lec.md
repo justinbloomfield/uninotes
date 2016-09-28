@@ -362,3 +362,69 @@ Several ways to implement ADTs in python:
 - Function interface
 - Using (nested) sequences, and other built-in types (`dict`,`set`)
 - Defining classes (more later in the course)
+
+## W9
+### L1
+**Types Of Errors**:
+- Syntax errors: evident as soon as you try to run the code
+- Runtime errors: arise when the code runs (and maybe only under certain conditions)
+  - Applying a function or operator to the wrong value, or wrong type of value
+  - Indexing past the beginning/end of a list
+  - and many more
+- Semantic errors: runss without error, but does the wrong thing (e.g. returns the wrong answer)
+
+**Exceptions**: a control mechanism for handling runtime errors
+An exception is *raised* when the error occurs
+The exception moves up the call chain until it is *caught* by a *handler*
+If no handler catches the exception, it moves all the way up to the Python interpreter, which prints an error (and quits, if in script mode)
+Python allows the programmer to both raise and catch exceptions
+
+**Exception names**:
+- `TypeError`, `ValueError` (incorrect type of value for operation)
+- `NameError`, `UnboundLocalError`, `AttributeError` (variable or function name not defined)
+- `IndexError` (invalid sequence index)
+- `KeyError` (key not in dictionary)
+- `ZeroDivisionError`
+
+**Assertions**
+- `assert(conditon, "fail message")`
+  - evaluates `condition` (of type `bool`)
+  - if the value is not `True`, raises an `AssertionError` with the (optional) message
+  - Else, continues to next statment
+Assertions are used to check the programmer's assumtions (including correct use of functions)
+Function's docstring states assumptions; assertions can check them
+
+Why assert? 
+- "Fail fast": it is usually better for a function to raise an exception as soon as a violation of an assumption is detected
+- Provide specific error information - "average of emtpy sequence is undefined" is more explanatory than `ZeroDivisionError`
+- It is *always* better to raise an exception than return an incorrect (garbage) result
+- Semantic errors are the hardest to find!
+
+**The `raise` statement**
+- `raise *ExceptionName*(...)`
+- Raises the named exception. Exception arguments depend on exception type
+- Can be used to raise any runtime error
+- Typically used with programmer-defined exception types
+
+**Catching Exceptions**
+**Exception Handling**
+`try:
+	*suite*
+except *ExceptionName*:
+	*error-handling suite*`
+- Execute suite
+- If no exception arises, skig `*error-handling suite*` and continue as normal
+- If the named exception arises from executing `*suite*` immediately execute `*error-handling suite*`, then continue as normal
+- If any other error occurs, fail as normal
+`number = None
+while number is None:
+	try:
+		ans = input("Enter PIN:")
+		number = int(ans)
+	except ValueError:
+		print("That’s not a number!")
+		number = None`
+
+Never catch an exception unless there is a sensible way to handle it
+If a function does not raise an exception, it's return value (or side effect) should be correct
+
