@@ -428,3 +428,25 @@ while number is None:
 Never catch an exception unless there is a sensible way to handle it
 If a function does not raise an exception, it's return value (or side effect) should be correct
 
+### L2
+**Modules**
+Every python file is a module
+A module is a *sequence of statments*
+Every module has a name
+
+When you run the python shell in 'script mode', the file you're executeing becomes the "main module".
+  - Its name becomes `__main__`
+  - Its namespace is the global namespace
+Every loaded module becomes a separate (permanent) namespace
+
+When executing `import *modname*`, the python interpreter:
+- Checks if `*modname*` is already loaded
+- if not, it:
+  - finds the module file
+  - executes the file in a new namespace
+  - stores the module object in the system dictionary of loaded modules
+- and then associates `*modname*` with the module object in the current namespace
+
+`sys.modules` is the dictionary of all loaded modules
+`dir(*module*)` returns a list of names defined in `*module*`'s namespace
+`dir()` list the current (global) namespace

@@ -393,3 +393,89 @@ Exogenous shocks cause the SRAS curve to shift
 Variables that shift *both* the SR and LR aggregate supply curves:
 1. increases in the labour force and/or in the capital stock and/or in resources
 2. Technological change
+
+### L3
+**Supply Shock**: an unexpected even that causes the short-run ASC to shift left
+**Stagflation**: a combination of inflation and recession, usually resulting from a supply shock)
+Short run effect of a supply shock: SRAS curve shifts left, real gdp falls and the price level rises
+Adjustment back to potential GDP in the long run: SRAS curve shifts right (which may take several years)
+
+AD-AS dynamics do show two possible causes of inflation caused by shocks:
+1. Cost-push inflation is what we have just illustrated: a rise in costs due to a supply shock and an inward shift of AS.
+2. demand-pull inflation is what we illustrated earlier: an increase in AD and an outward shift in AD.
+
+## W9
+### L1
+
+**Say's Law**: Supply creates its own demand
+
+### L2
+
+**Keynes Departure Points**:
+1. The importance of total demand (consumption): Say's Law does not necessarily always hold
+2. The role of time: short-run versus long-run adjustment
+3. The psychology of consumers and investors (especially, but not exclusively, regarding expectations)
+These are some of the core ways in which Keynes created a general theory of the overall economy that contained the neoclassical model but went beyond it. This was the birth of a separate "macroeconomics"
+
+**Effective Demand**:
+Say's Law held that Supply created its own Demand
+In effect markets were producer drivend and consumption simply followed production
+This made an obvious kind of logical sense since obviously there had to be something to consume
+But Keynes argued that consumers had minds of their own and that there could be (though not necessarily would be) divergences of demand from supply
+Keynes referred to this as "Effective Demand" and claimed that there could be times of persistent mismatches between AD and AS in some cases
+He argued the Great Depression was one of these times
+
+**The Importance of Consumption**
+Keynes saw that there had to be production in the first instance to have any kind of economy, but he also saw that production could outrun consumption on a mass scale and that this could lead to total disequilibrium that might not right itself
+
+**The Role of Time**
+The time for an economy to adjust may be so long that markets may never recover. Reald people do die and have immediate needs and may not be able to wait the time needed for economic adjustment, even though it may remain a theoretical possibility. 
+
+**The Psychology of Consumers and Investors**
+Neoclassical theorists rarely spoke of human psychology
+Time is important not just for physical reasons, but for psychological ones as well
+In particular, expectations are key
+The future is unpredictable and people, especially consumers and investors, must make decisons based on what they expect to happen
+
+**Investment and Consumption Functions**
+Keynes introduced the idea that decisions to invest and consume were also affected by the subjective perceptions of consumers and investors
+
+**The Marginal Efficiency of Capital according to Keynes**
+Keynes defined the MEC in the General Theory as: "the rate of discount which would make the present value of the series of annuities given by the returns expected from the capital asset during its life just equal to its price"
+i.e. when making investments, business people look at the real supply price of that investment and compare that to discounted financial cash flows that an investment is expected to return over its life
+Roughly speaking, if an investor is confident that they will get back more in financial return than real resource cost, the investment will be made
+
+**Quotes from the General Theory**
+
+
+
+
+## W10
+** The Financial Sector and Monetary Policy**
+### L1
+
+The functions of money:
+1. Medium of exchange - conduct transactions more effeciently than bartering
+2. Unit of account  - basically means that a clear and easy-to0use benchmark is provided against which to measuere all prices and transactions against
+3. Store of value - money can, in abstract, 'hold' the value of resources reliably and across time
+4. Standard of deferred payment - facilitating economic transactions across time, i.e. borrowing and lending
+
+5 criteria that make something suitable to be a medium of exchange:
+1. the good must be *acceptable* to most people
+2. It should be of a *standardised quality*
+3. It should be *durable*
+4. It should be *valuable* relative to its weight so that it can be easily transported
+5. It should be easily *transportable*
+
+One of the prime advantages of money in a modern economy is that it is "liquid", that is money can be immediately tendered and received for transactions between buyers and sellers for real goods and services
+The degree of liqudity is a basis for measuring the money supply of a given country or currency area
+
+**Credit**: loans, advances and bills provided to the private non-bank sector by all financial intermediairies. *Credit is not a form of money*
+
+Once we have money we lay the basis of a financial system. 
+
+A basic financial intermeiation service is **commercial banking**, i.e. a business where an entity first accepts money from savers, then lends out that borrowed money in the form of bank loans.
+
+**Financial leverage**: the use of financial debt
+Commercial banking is fundamentally a leveraged business because banks borrow money to then make more money.
+The difference that the intermidiary is paying to get its money and the interest rate that it charges others to whom it lends this borrowed money is called the **spread**
