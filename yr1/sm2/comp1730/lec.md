@@ -450,3 +450,107 @@ When executing `import *modname*`, the python interpreter:
 `sys.modules` is the dictionary of all loaded modules
 `dir(*module*)` returns a list of names defined in `*module*`'s namespace
 `dir()` list the current (global) namespace
+
+## W10
+### L1
+**Introduction to Classes**
+
+**Classes and Objects**
+In python, every value (number, string, list, dictionary, etc) is an *object*
+Every object has a type
+  - We say the object is an *instance* of the type
+In python, every type is a *class*
+By defining a class, you add a new type to the language
+
+Example:
+
+`class Student:
+	''' Simple student class '''
+	def __init__(self, first='', last='', unum=0):
+		self.first_name = first
+		self.last_name = last
+		self.u_unumber = unum
+
+	def __str__(self):
+		return (self.last_name + ', ' + \
+			self.first_name + \
+			' (' + str(self.u_number) + ') ')
+
+	# end class Student`
+
+
+Class v. Instance: A class is a template for creating a certain type of objects; they are *instances* of the class.
+
+**Creating an Object**
+To make a new object, call a function with the same name as the class:
+	`a_dict = dict()
+	 a_student = Student()
+	 a_student = Student('Jane', 'Doe', 1234567)
+	 an_int = int()`
+The instance-creator function  is known as the class' *constructor*
+  - Constructor arguments depend on the class
+  - typically used to initialise the new object
+
+**Attributes**
+Objects are used to store information in a structured way
+Every object has its own namespace
+  - Names defined in the objects namespace are called *(instance) attributes*
+Access object attributes with dot notation:
+`>>> a_student.last_name
+'Doe'
+ >>> a_student.year
+ AttributeError:  ...`
+Programmer-defined classes are *mutable*
+ `>>> a_student.last_name = 'Smith'`
+Attributes can be created by assignment:
+`>>> a_student.year = 1
+ >>> dir(a_student)`
+A newly created object has no attributes (except for some internal to python, such as `__class__`, which stores a reference to it's class)
+A class *initialiser* (`__init__` method) can be defined to ensure instances of the class have right attributes.
+
+**Defining a class**
+
+`class *ClassName:
+	...suite...*`
+The `*suite*` is executed when the class is defined
+The class has its own namespace
+  - Names (functions and variables) defined in the class namespace are caled *(class attributes)*
+  - The functions defined in the class namespace are also known as its *methods*
+
+**Methods**
+Methods are functions defined in a class
+A method is always called on an object
+	`an_object.method_name(...*args*...)`
+The acted-on object is always, implicitly an argument to the method, bound to the first parameter (usually name `self`)
+
+**The class initialiser**
+The `__init__` method is called every time a new instance of the class is created
+Arguments are the new object (`self`), followed by arguments to the class' constructor:
+	`new_instance = MyClass(5)`
+results in 
+	`MyClass.__init__(new_instance, 5)`
+`__init__` must not return a value
+Every class should define `__init__`, to ensure objects have the right attributes for the class
+
+**Methods vs. Functions**
+Methods *are* functions
+  - Defined in a class' namespace
+  - Called with a different syntax
+Ordinary (globally defined) functions can take objects of any type (including programmer-defined) as arguments and use or modify them
+Defining methods instead of functions helps reduce "namespace clutter"
+  - Different classes can have different methods with the same name
+
+`def get_student_name(student):
+	return student.first_name + ' ' \
+	+ student.last_name`
+vs.
+
+`class Student:
+	.
+	.
+	.
+	def get_name(self):
+		return self.first_name + ' ' \
+		+ self.last_name`
+### L2
+**Attribute resolution**

@@ -84,3 +84,9 @@ Ex: f(x) = (x + 2)÷(√(x^2 _ 5) for x large positive we have:
 Suppose f(x) ≤ g(x) ≤ h(x) for all x sufficiently close to a and lim<sub>x->a</sub>f(x) = L and lim<sub>x->a</sub>h(x) = L. Then lim<sub>x->a</sub>g(x) = L as well
 
 Ex: g(x) = xsin(1/x) for x ≠ 0
+
+
+## W10
+### L3
+see how this works out, write down important shit that isn't just the board notes
+
