@@ -554,3 +554,14 @@ vs.
 		+ self.last_name`
 ### L2
 **Attribute resolution**
+
+An object knows what class it is an instance of.
+To resolve `an_object.name`:
+1. First, see if `*name*` is defined in the object
+2. If not, see if `*name*` is defined in the objects class (`*an_object.__class__*`)
+3. If not, check the class' superclass, recursively
+4. Else, generate an AttributeError
+
+Applies to methods as well
+
+**Polymorphism**

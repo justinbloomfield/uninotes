@@ -479,3 +479,27 @@ A basic financial intermeiation service is **commercial banking**, i.e. a busine
 **Financial leverage**: the use of financial debt
 Commercial banking is fundamentally a leveraged business because banks borrow money to then make more money.
 The difference that the intermidiary is paying to get its money and the interest rate that it charges others to whom it lends this borrowed money is called the **spread**
+
+When banks take deposits, they do not 'own' the money - they have borrowed it. They make money by keeping some of the deposits as a buffer for those who wish to withdraw their money, and lend out the rest. This leveraging of money increases the money supply in the economy, a process called **money creation**
+
+**Simple Deposit Multiplier**: 1/Reserve Ratio
+The real world deposit multiplier is masmaller than the simple deposit multiplier because:
+- banks may hold excess reserves
+- people do not deposit all of their money. Households and firms keep roughly constant the amount htey hold in currency relative to the value of their savings account balances
+
+A **Central Bank** is an institution  that is responsible for managing a country's money supply and usually its banking system as well. 
+The **Reserve Bank of Australia (RBA)** is the central bank of Australia and has three major roles:
+1. to maintaint the financial integrity and stability of the Australian financial system.
+2. To implement monetary policy
+3. To intervene, as needed, in forgeign exchange (FX) markets.
+
+**Monetary Policy**: The actions taken by the Reserve Bank of Australia to manage interest rates in the pursuit of macroeconomic goals.
+
+**Quantity Theory of Money**: M x V = P x Y
+  - M = money supply
+  - V = velocity of money
+  - P = price level
+  - Y = real GDP
+
+**Velocity of Money**: the average number of times each dollar in the money supply is used to purchase goods and services which are included in GDP. **V = (P x Y)/M**
+
