@@ -368,7 +368,7 @@ When tax rate on dividends is greater than the tax rate on capital gains, shareh
 
 **Clientele Effect**: When the dividend policy of a firm reflects the tax prefexence of its investor clientele.
 
-## L10
+### L10
 **Payout Policy (Dividends and Signalling)**
 
 Companies can use dividends to signal the future prospects of the firm
