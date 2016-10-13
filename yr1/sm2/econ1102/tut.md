@@ -118,3 +118,15 @@ Reminder that labour force is employed + unemployed in labour force
    c. increase in MPC -> increase in C, decrease in MPC -> decrease in C
    d. Higher the MPC the larger the fiscal mutliplier
 6. 
+## T10
+
+1. a. $20k, 20% reserve ratio. Gross money creation = deposits /  reserve ratio. $100000
+   b. $100000 - $20000 = $80000 (max)
+   c. assumptions: a.) sufficient demand for loans, b.) sufficient supply of funds (bank **only** holds reserve ratio
+2. Open market operations (OMOs) = "cleaning" liquidity shortages/surpluses
+   * If excess liquidty, RBA takes money and gives bonds in return (taking money out of system to restore equilibrium)
+   * If other banks have a shortage of liquidity, RBA buys bonds and gives money to the other banks
+3. a. 6 + 0 = gp + 3, ergo gp = 3%, b. gp = 4%
+5. Effect on MD . a. Shift MD down b. Movement MD up c. Shift MD up
+6. Buying of private assets using public funds. Why? a.) increase liquidity in financial system b.) restore confidence in the financial system c.) artificial demand for assets -> increases their return
+  b. Has it worked? No clear solution

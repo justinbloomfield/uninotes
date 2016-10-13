@@ -455,16 +455,26 @@ Roughly speaking, if an investor is confident that they will get back more in fi
 ### L1
 
 The functions of money:
+
 1. Medium of exchange - conduct transactions more effeciently than bartering
+
 2. Unit of account  - basically means that a clear and easy-to0use benchmark is provided against which to measuere all prices and transactions against
+
 3. Store of value - money can, in abstract, 'hold' the value of resources reliably and across time
+
 4. Standard of deferred payment - facilitating economic transactions across time, i.e. borrowing and lending
 
+
 5 criteria that make something suitable to be a medium of exchange:
+
 1. the good must be *acceptable* to most people
+
 2. It should be of a *standardised quality*
+
 3. It should be *durable*
+
 4. It should be *valuable* relative to its weight so that it can be easily transported
+
 5. It should be easily *transportable*
 
 One of the prime advantages of money in a modern economy is that it is "liquid", that is money can be immediately tendered and received for transactions between buyers and sellers for real goods and services
@@ -484,16 +494,29 @@ When banks take deposits, they do not 'own' the money - they have borrowed it. T
 
 **Simple Deposit Multiplier**: 1/Reserve Ratio
 The real world deposit multiplier is masmaller than the simple deposit multiplier because:
+
 - banks may hold excess reserves
+
 - people do not deposit all of their money. Households and firms keep roughly constant the amount htey hold in currency relative to the value of their savings account balances
 
 A **Central Bank** is an institution  that is responsible for managing a country's money supply and usually its banking system as well. 
 The **Reserve Bank of Australia (RBA)** is the central bank of Australia and has three major roles:
+
 1. to maintaint the financial integrity and stability of the Australian financial system.
+
 2. To implement monetary policy
+
 3. To intervene, as needed, in forgeign exchange (FX) markets.
 
 **Monetary Policy**: The actions taken by the Reserve Bank of Australia to manage interest rates in the pursuit of macroeconomic goals.
+
+The legislated goals of monetary policy:
+
+- Full employment of the labour force
+
+- Stability of the Australian currency
+
+- Economoic prosperity and welfare fo the people of Australia
 
 **Quantity Theory of Money**: M x V = P x Y
   - M = money supply
@@ -503,3 +526,9 @@ The **Reserve Bank of Australia (RBA)** is the central bank of Australia and has
 
 **Velocity of Money**: the average number of times each dollar in the money supply is used to purchase goods and services which are included in GDP. **V = (P x Y)/M**
 
+Broadly, the RBA seeks to have:
+
+1. low and stable price inflation
+2. sufficient financial system liquidity (not too much or too little)
+3. a calibrated foreign exchange raet 9 a dollar not too high or too low relative to other currencies)
+4. overall financial system integrity, including in financial institutions

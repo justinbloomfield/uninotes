@@ -410,3 +410,19 @@ Share repurchases can also be used as a signal of firm value and future prospect
 **Stock Dividends and Splits**: an alternative to cash dividends. With a stock dividend, a firm does not pay out any cash to shareholders. As a result, the total market value of the firm's equity is unchanged. Only thing that's different is the number of shares outstanding. Stock price falls because same equity over larger number of shares. Stock dividends of 50% and above are referred to as stock splits.
 Typical motivation for a stock split is to keep the share price in a range thought to be attractive to small investors. If the share price rises "too high", becomes difficult for small investors to invest in the stock since suck investors often invest in the stock since suck investors often invest in lots of 100 shares.
 
+## W11
+### L11
+**Cost of Capital and WACC**
+
+Total risk = systematic risk + firm-specific risk
+'E' is the most important term in the CAPM
+**Asset cost of capital**: Expected return requirde by investors overall to hold the firm's underlying assets
+**Comparables**
+If no prior data
+1. look for a comparable firm in the that has the same (or closely comparable) risk
+2. If the comparable firm is unlevered, use the firm’s cost of equity as the cost of capital for your project 
+3. If the firm is levered, you must incorporate the cost of debt also (as the cost of equity alone will be too high)
+
+
+
+
