@@ -335,5 +335,5 @@ Trade-off theory states that firms should increase their leverage unitl it reach
 
 **Agency Costs**: Costs that arise when there are conflicts of interest between the firm's stakeholders
 
-iValue of levered firm = Trade-off theory - PV(Agency Costs of debt) + PV(Agency Benefits of Debt)
+Value of levered firm = Trade-off theory - PV(Agency Costs of debt) + PV(Agency Benefits of Debt)
 
