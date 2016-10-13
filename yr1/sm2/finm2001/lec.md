@@ -337,3 +337,92 @@ Trade-off theory states that firms should increase their leverage unitl it reach
 
 Value of levered firm = Trade-off theory - PV(Agency Costs of debt) + PV(Agency Benefits of Debt)
 
+## W9
+### Payout Policy (Dividends & Taxes)
+
+**Payout Policy**: The way a firm chosses between the alternative ways to distribute free cash flow to equity holders (e.g. dividends and share repurchases). Like capital structure, a firms payout policy depends on market imperfections
+
+A firms dividend policy is decided by its Board of Directors
+**Declaration Date**: The date on which the board of directors authorizes the payment of a dividend
+**Record Date**: when a firm pays a dividend only shareholders on record on this date receive the dividend
+**Ex-Dividend Date**: A date, two business days prior to a dividend's record date, *on or after* which anyone buying the stock will *not* be eligible fo the dividend
+**Payable Date (Distribution Date)**: A date, generally within a month after the record date, on which a firm provides dividend proceeds to its registered stockholders
+
+Companies that pay dividends usually do so in cash and in a regular manner - quarterly or semi-annualy. However, firms can also pay:
+- Special dividends: A one-time dividend payment a firm makes, which is usually much larger than a regular dividend
+- Stock Split (Stock Dividend): When a company issues a dividend in shares of stock rather than cash to its shareholders.
+
+**Share repurchases** can take the form of an open market repurchase, a tender offer or a targeted repurchase
+**Open market repurchase**: repurchasing shares by buying shares in the open market just like any other investor. By far the most common form of repurchase.
+**Tender offer**: offer by the company to buy back shares at a fixed price, usually above market value to motivate shareholders to sell. If there is not enough interest, the company will cancel the offer.
+**Dutch Auction**: the firm lists different prices at which it is prepared to buy shares, and shareholders in turn indicate how many shares they are willing to sell at each price. The firm then pays the lowest price at which it can buy back its desired number of shares. Very rare.
+**Targeted Repurchase**: purchasing shares directly from a specific (major) shareholder. 
+
+**Greenmail**: if a major shareholder is threatening to takeover the firm and remove its current management.
+
+In perfect capital markets, holding the investment policy of a firm fixed, the firm's choice of dividend policy is irrelevant and does not affect the initial share price.
+
+When the tax rate on dividends is greater than the tax rate on capital gains, it is undesirable for a firm to raise funds to pay a dividend
+
+When tax rate on dividends is greater than the tax rate on capital gains, shareholders will pay lower taxes if a firm uses share repurchases rather than dividends
+
+**Clientele Effect**: When the dividend policy of a firm reflects the tax prefexence of its investor clientele.
+
+### L10
+**Payout Policy (Dividends and Signalling)**
+
+Companies can use dividends to signal the future prospects of the firm
+
+If a firm has already taken all positive-NPV projects, any additional projects it takes on are zero or negative-NPV projects.
+  * Rather than waste excess cash on -ve NPV projects, a firm can retain the cash or use the cash to purchase fiancial assets
+
+With market imperfections, there is a tradeoff to saving cash: retaining cash can reduce the costs of raising capital in the future, ***but*** it can also increase taxes
+Corporate taxes make it costly for firms to retain excess cash
+  * Cash is equivalent to negative leverage, so the tax advantage of leverage implies a tax disadvantage to holding cash
+
+Despite tax disadvantages of hoarding cash on the balance sheet, firms retain cash balances to cover potential future cash shortfalls
+  * If there is a reasonable chance that future earnings will be insufficient to fund future +ve NPV investment opportunities
+
+When firms have excessive cash reserves, managers may use the funds inefficiently by paying excessive executive perks, over-paying for acquisitions, empire building, etc
+Firms should choose to retain as much cash as it needs to help future growth opportunities and to avoid financial distress costs. Beyond that, cash should be paid out to shareholders.
+
+Costs of holding cash:
+- Taxes
+- Agency (wasteful behaviour)
+
+Benefits:
+- Avoid financial distress
+- Avoid accessing external capital markets in the future (costly)
+
+**Dividend Smoothing**: The practice of maintaining relatively constant dividends
+
+The last market imperfection of interest is **assymetric information**, where managers know more about the firm than the shareholders
+
+**Dividend Signalling Hypothesis**: the idea that dividend changes reflect managers' views about a firm's future earning prospects
+  - The firm's dividend choice will contain information regarding managements's expectations of future earnings if the firm smooths dividends.
+  - If management increases dividends this period, they are signaling that the dividend will remain at the higher level in the future (vice versa)
+
+A dividend increase may also signal a lack of investment opportunities
+Conversely, a firm might cut its dividend to exploit new +ve NPV projects
+
+Share repurchases can also be used as a signal of firm value and future prospects. This is a credible signal that the shares are underpriced, because if they are overpriced a share repurchase is costly to the firm
+
+**Stock Dividends and Splits**: an alternative to cash dividends. With a stock dividend, a firm does not pay out any cash to shareholders. As a result, the total market value of the firm's equity is unchanged. Only thing that's different is the number of shares outstanding. Stock price falls because same equity over larger number of shares. Stock dividends of 50% and above are referred to as stock splits.
+Typical motivation for a stock split is to keep the share price in a range thought to be attractive to small investors. If the share price rises "too high", becomes difficult for small investors to invest in the stock since suck investors often invest in the stock since suck investors often invest in lots of 100 shares.
+
+## W11
+### L11
+**Cost of Capital and WACC**
+
+Total risk = systematic risk + firm-specific risk
+'E' is the most important term in the CAPM
+**Asset cost of capital**: Expected return requirde by investors overall to hold the firm's underlying assets
+**Comparables**
+If no prior data
+1. look for a comparable firm in the that has the same (or closely comparable) risk
+2. If the comparable firm is unlevered, use the firm’s cost of equity as the cost of capital for your project 
+3. If the firm is levered, you must incorporate the cost of debt also (as the cost of equity alone will be too high)
+
+
+
+
