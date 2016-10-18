@@ -532,3 +532,62 @@ Broadly, the RBA seeks to have:
 2. sufficient financial system liquidity (not too much or too little)
 3. a calibrated foreign exchange raet 9 a dollar not too high or too low relative to other currencies)
 4. overall financial system integrity, including in financial institutions
+
+**Interest rate, liquidity and money markets**
+The RBA (and, again, any central bank) try to influence three key financial variables to achive the goals of monetary policy:
+1. market interest rate
+2. liquidity in the economy
+3. money market equilibirum, i.e. the dynamics of supply and deamnd for money
+These are, of course, inter-related
+
+The RBA uses 'levers' to achieve it's tactical goals and effect the broader strategic goals of monetary policy. These include:
+- **Cash rate**: interest rate on loans (in the overnight money market). Set directly by the RBA.
+- **Open market operations (OMOs)**: The RBA purchasing or selling financial instruments, such as bonds.
+- **Money supply management**: The RBA has a strong influence over the money supply more directly.
+
+**Supply and demand for money**
+
+The **money demand curve** is downward sloping to show the inverse reationship between the interest rate on financial assets and the quantity of money demanded.
+The **interest rate on financial assets** is the oppportunity cost of holding money.
+  - Low interest rates reduce the opportunity cost of holding money, high rates increase OC
+  
+The two most important variables that shift the money curve are:
+1. Real GDP. Basically the greater income is, the greater the demand for money.
+2. The price level. As (nominal) prices increase you need more (nominal) cash to make any given purchase.
+
+Money supply is also a bit unique because money is not desired in and of itself, and money is supplied largely 'monopolistically' by the monetary authority.
+So the RBA (and any central bank) is the primary driver behing money supply.
+
+**Repurchase Agreement**: The RBA offers to buy (or sell) Commonwealt Government Securities and other eligible financial instruments from banks or other authorised financial dealers, provided the same banks or dealers are prepared to repurchase (or resell) them at a future date, often in a few days' time, at a price agreed at the outside. "Repos" are the major way the RBA conducts OMO nowadays.
+
+## W11
+### L1
+**Macroeconomic Policy: Piscal Polica and Government Budget Constraints**
+Fiscal Policy vs Monetary Policy:
+* MP seeks to influence AD through interest raets in terms of short-run business cycle management (i.e. indirectly)
+* FP involves government spending (G) and taxation (T) policies which influence AD directly. 
+* In australia, fiscal policies for the year are usually announced in May, with the  presentation of the budget
+
+We can think of fiscal policy as AD management, with spending and taxing as policy instruments to act on: **Y = C + I + G + NX**
+That is, as short-run GDP consists of C, I, G and NX, govt. macro policy seeks to attain "optimal" short-run GDP, with stable prices, by influencing these components 
+It's important to remember that government expenditure includes government purchases plus all other federal government spending. 
+
+**Automatic Stabilisers**: Government spending and taxes that automatically increase along with the business cycle
+**Discretionary Fiscal Policy**: When the government is taking actions to change spending or taxes to achieve its economic objectives.
+**Expansionary Fiscal Policy**: Involves increasing discretionary government purchase and/ror decreasing taxes in order to increase aggregate demand. Goal is to shift the AD curve further to the right than it would have without the policy.
+An increase in government purchases will increase aggregate demand *directly*. A reduction in taxes has an *indirect* effect on aggregate demand through the effect on disposable income.
+
+**Contractionary Fiscal Policy**: Involves decreasing government purchases and/or increasing taxes in order to reduce the increase in aggregate demand. A decrease in govt. purchases or an increase in taxes will reduce the rate of increase in aggregate dmenad, to reduce the inflation rate. An appropriate policy for when the economy is above full-employment equilibrium and the inflation rate is high
+
+**Multiplier Effect**: The process by which an increase in autonomous expenditure leads to a larger increase in real GDP.
+**Government purchases multiplier = (change in equilibrium real GDP)/(change in government purchases)**
+Tax changes also have a multiplier effect
+**Tax multiplier = (change in equilbrium real GDP)/(change in taxes)
+
+**Intertemporal Budget Constraint**: a measure of government fiscal constraint over time 
+
+The amount the government can borrow is limited by:
+- The amount it can credibly be expected to pay back
+- Partly on how large the economy's GDP is
+
+**Tax Wedge**: the difference between the pre-tax and post-tax return to economic activity
