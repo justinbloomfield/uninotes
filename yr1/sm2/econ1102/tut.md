@@ -124,9 +124,27 @@ Reminder that labour force is employed + unemployed in labour force
    b. $100000 - $20000 = $80000 (max)
    c. assumptions: a.) sufficient demand for loans, b.) sufficient supply of funds (bank **only** holds reserve ratio
 2. Open market operations (OMOs) = "cleaning" liquidity shortages/surpluses
-   * If excess liquidty, RBA takes money and gives bonds in return (taking money out of system to restore equilibrium)
+   * If excess liquidity, RBA takes money and gives bonds in return (taking money out of system to restore equilibrium)
    * If other banks have a shortage of liquidity, RBA buys bonds and gives money to the other banks
 3. a. 6 + 0 = gp + 3, ergo gp = 3%, b. gp = 4%
 5. Effect on MD . a. Shift MD down b. Movement MD up c. Shift MD up
 6. Buying of private assets using public funds. Why? a.) increase liquidity in financial system b.) restore confidence in the financial system c.) artificial demand for assets -> increases their return
   b. Has it worked? No clear solution
+
+## T11
+Discretionary = changes in G or T, at a federal level
+1. a. i) discretionary, if there is a macroeconomic objective ii) contractionary
+   b. i) yes, if there's an objective (such as reducing unemployment) ii) expansionary
+   c. i) "" ii) expansionary
+   d. i) "" ii) expansionary
+   e. i) no, state government ii) expansionary
+   f. i) maybes ii) expansionary
+   g. i) ye ii) ((first and second round effects)) first: won't change, second: expect expansionary effects, as people have to get a job
+   h. i) not discretionary, automatic stabiliser ii) expansionary
+
+3b. i) information lag -govt. doesn't know the true LRAS or effect of policy until the next period (always backward looking with respect to info)
+    ii) implementation lags - takes time for F.P to filter through and have an impact
+4. immediate, therefore not discretionary
+5. Still moving into deficit because of interest payments
+7. Bhutan would have a better credit rating due to higher GDP growth.
+8. Decreases in C, I and NX, no real clear answer

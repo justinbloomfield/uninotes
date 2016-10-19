@@ -591,3 +591,23 @@ The amount the government can borrow is limited by:
 - Partly on how large the economy's GDP is
 
 **Tax Wedge**: the difference between the pre-tax and post-tax return to economic activity
+
+## W12
+**Open Economy Macroeconomics**
+### L1
+**Open Economy**: an economy that has interactions in trade or finance with other economies
+**Closed Economy**: an economy that has **no** interactions in trade or finance with other economies
+
+Openness has three distinct dimensions:
+1. Openness in goods markets
+2. Openness in financial markets
+3. Openness in factor markets
+
+**Balance of payments**: the record of a country's international trade, borrowing, lending capital and investment flows with other countries. Two majoir accounts: curent account and hte capital account
+
+**Current Account**: records *current*, or short-term, flows of funds into and out of the country. The **balance of trade goods and services* is the difference between the value of the goods and **FINISH THIS**
+
+**Net Primary Income**: income received by Australian residents from investments in other countries minus income paid overseas on investments in AUstralia by residents of other countries
+**Net Secondary Income**: the difference between transfers made to residents of other countries and tranfers reived by Australian residents from other countries, including overseas aid, pensions nad migrants' funds.
+**Capital Account**: patr fo the balcne of payments that records migrants' asset transfers, debt forgiveness nad sale and purchases of non-produced, non-financial assets
+**Financial Account**: the part of the balance of payments that records purchases of physical and financial assets a country has made abroad and foreign purchases of physical and financial assets in the country

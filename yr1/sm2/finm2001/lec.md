@@ -423,6 +423,14 @@ If no prior data
 2. If the comparable firm is unlevered, use the firm’s cost of equity as the cost of capital for your project 
 3. If the firm is levered, you must incorporate the cost of debt also (as the cost of equity alone will be too high)
 
+## W12
+### L12
 
+Be sure to grab the formulae from this shit
+When debt levels are set according to a fixed schedule, we can discount the pre-determined interest tax shield *using the debt cost of capital*
+
+WACC method - easiest for fixed devt-to-value ratio over investment life
+APV method - for alternative leverage policies (constant interest coverage or pre-determined debt)
+FTE method - generally used only in complicated settings where firm's capital structure or interest tax shield are difficult to determine
 
 
