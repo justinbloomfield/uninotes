@@ -605,9 +605,19 @@ Openness has three distinct dimensions:
 
 **Balance of payments**: the record of a country's international trade, borrowing, lending capital and investment flows with other countries. Two majoir accounts: curent account and hte capital account
 
-**Current Account**: records *current*, or short-term, flows of funds into and out of the country. The **balance of trade goods and services* is the difference between the value of the goods and **FINISH THIS**
+**Current Account**: records *current*, or short-term, flows of funds into and out of the country. The **balance of trade goods and services** is the difference between the value of the goods and services a country exports, and the value of the goods and services a country imports. 
 
 **Net Primary Income**: income received by Australian residents from investments in other countries minus income paid overseas on investments in AUstralia by residents of other countries
 **Net Secondary Income**: the difference between transfers made to residents of other countries and tranfers reived by Australian residents from other countries, including overseas aid, pensions nad migrants' funds.
 **Capital Account**: part of the balance of payments that records migrants' asset transfers, debt forgiveness and sale and purchases of non-produced, non-financial assets
 **Financial Account**: the part of the balance of payments that records purchases of physical and financial assets a country has made abroad and foreign purchases of physical and financial assets in the country
+
+**The balance of payments is always zero**
+
+**Balance of Trade**: whether the current account balance is in deficit, surplus or a net zero.
+
+**Nominal exchange rate**: value of one country's currency in terms of another country's currency.
+**Real exchange rate**: the price of domestic goods and service in terms of foreign goods and services. **RER = NER * (domestic price level/foreign price level)**
+
+**Currency appreciation**: occurs when the market value of a currency rises relative to another currency
+**Currency depreciation**: occurs when the market value of a currency falls relative to another currency
