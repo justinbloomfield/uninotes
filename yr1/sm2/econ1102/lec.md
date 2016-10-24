@@ -621,3 +621,19 @@ Openness has three distinct dimensions:
 
 **Currency appreciation**: occurs when the market value of a currency rises relative to another currency
 **Currency depreciation**: occurs when the market value of a currency falls relative to another currency
+
+**Effects of exchange rate *appreciation***: 
+- Revenue in Australian dollars falls for exporters whose goods are traded in $US.
+- Exports of goods and services fall for those whose price is determined in Australia, as are now more expensive for overseas buyers
+- Imports become cheaper
+- Net exports fall, ceterus paribus, reducing the rate of increase of aggregrate demand and real GDP
+
+**Effects of exchange rate *depreciation***
+- Revenue rises in Australian dollars for exporters who trade with $US
+- Exports of goods and services increase for those whose price is determined in Australia, as are now cheaper for overseas buyers
+- Imports become more expensive
+- Net imports increase, ceterus paribus, incerasing rate of increase of aggregrate demand and real GDP
+
+**Gross National Income (GNI)**: equal to GDP (C+I+G+NX) plus net income received by non-residents. Measures the total income that a country has for income and saving
+`
+**Net Foreign Debt**: the difference between the amount lent to other countries and the amount borrowed from other countries.
