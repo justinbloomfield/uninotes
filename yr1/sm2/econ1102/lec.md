@@ -609,5 +609,5 @@ Openness has three distinct dimensions:
 
 **Net Primary Income**: income received by Australian residents from investments in other countries minus income paid overseas on investments in AUstralia by residents of other countries
 **Net Secondary Income**: the difference between transfers made to residents of other countries and tranfers reived by Australian residents from other countries, including overseas aid, pensions nad migrants' funds.
-**Capital Account**: patr fo the balcne of payments that records migrants' asset transfers, debt forgiveness nad sale and purchases of non-produced, non-financial assets
+**Capital Account**: part of the balance of payments that records migrants' asset transfers, debt forgiveness and sale and purchases of non-produced, non-financial assets
 **Financial Account**: the part of the balance of payments that records purchases of physical and financial assets a country has made abroad and foreign purchases of physical and financial assets in the country
