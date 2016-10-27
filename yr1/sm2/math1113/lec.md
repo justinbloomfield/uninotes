@@ -89,4 +89,3 @@ Ex: g(x) = xsin(1/x) for x ≠ 0
 ## W10
 ### L3
 see how this works out, write down important shit that isn't just the board notes
-

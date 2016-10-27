@@ -433,4 +433,25 @@ WACC method - easiest for fixed devt-to-value ratio over investment life
 APV method - for alternative leverage policies (constant interest coverage or pre-determined debt)
 FTE method - generally used only in complicated settings where firm's capital structure or interest tax shield are difficult to determine
 
-
+## 13
+### L13
+fuckfuckfuckfuckfuckfuckfuckfuckfuck
+**Revision Shit**
+Maybe use this presentation so that you can see what you need to know, make sure you've got it
+*Exam shit*: 
+- closed book (suppose that's okay, just make sure you know your shit)
+- 4 questions, multiple parts
+- 2 & 3 easier 
+- 1 & 4 more difficult
+- 65% calculation, 35% theory
+- do tutorials, workshop, lecture notes, extra practise questions
+- no surprises, all material that we've seen before
+Q1. optimal capital structure
+Q2. capital budgeting - WACC/APV method
+Q3. payout policay and leasing theory
+Q4. investment decisions - long NPV question
+- No FTE
+- No lease calculation
+- Only straight line depreciation
+- no arbitrage questions
+If you don't understand what to do for the pactise exam questions wathc this lecture again as he goes through the stuff (explanation might help, is what i mean)

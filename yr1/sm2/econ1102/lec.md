@@ -637,3 +637,25 @@ Openness has three distinct dimensions:
 **Gross National Income (GNI)**: equal to GDP (C+I+G+NX) plus net income received by non-residents. Measures the total income that a country has for income and saving
 `
 **Net Foreign Debt**: the difference between the amount lent to other countries and the amount borrowed from other countries.
+
+## W13
+### L1
+**Exam shit**: 
+- Section 1: Multiple choice, 20 questions, grouped under following headings:
+  - Unemployment (dealing with issuse of measurement of unemployment and laso the meaning of overall employment levels in the short-run model)
+  - National income accounting (no complex calculations but testing an understanding of what is included in the accounts and methods of calculating GDP)
+  - Economic growth and the Solow-Swan model (a few simple simple questions on what drives economic growth according to the model)
+  - Macroeconomic schools of thought (a few very general questions; know about monetarism, and the basic assumptions of the classical/neoclassical shcool v Keynes and Keynesian school of thought. Keynes' thinking on investment is something to review in particular)
+  - Aggregrate expenditure model (know the basic of the various 'functions' - e.g. consumption, etc.)
+  - Loanable funds and money market models (know the basics of these two models and what they mean)
+- Section 2: True or False - then explain, 4 questions.
+  - Know about Minsky and his hypothesis; multiplier effects; policy issues surrounding the control of the exchange rate (this is an open economy topic); and the general economic opinions around whether fiscal policy is effective or not
+- Section 3: Short answer questions, 6 of them (this sections is wort 60%)
+  - Know what diagram to use and how to use it for depicting monetary policy
+  - General ideas about inflation
+  - Money creation
+  - BoP and related issues (although no calculations needed)
+  - *Review material about the Rudd stimulus package and the general material on the Great Depression, especially in the US*
+  - **VERY MUCH MAKE SURE YOU KNOW HOW TO DEPICT SITUATIONS USING THE AD-AS MODEL**
+
+**The Causes and Cures of Business Cycles: a course wrap up**
