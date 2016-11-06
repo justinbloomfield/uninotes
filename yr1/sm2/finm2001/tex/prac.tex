@@ -1,13 +1,6 @@
 \documentclass{report}
 \setlength{\parindent}{0pt}
 \begin{document}
-\section{WACC}
-\label{sec:wacc}
- Weighted Average Cost of Capital\\
-\textbf{Pre-Tax WACC:} $\frac{E}{E+R}r_e+\frac{D}{E+D}r_d$
-
-\textbf{After-Tax WACC:} $\frac{E}{E+R}r_e+\frac{D}{E+D}r_d*(1-\tau)$
-\newpage
 \section{Investment Decisions}
 \label{sec:invdec}
 
@@ -116,7 +109,7 @@ $PV(\mbox{Lease Payments}) = \mbox{Purchase Price} - PV(\mbox{Residual Value})$
 
 just theory shit, not super duper important, but know the main concepts
 
-\section{Capital Structure }
+\section{Capital Structure}
 \label{sec:capital-structure-1}
 
 \section{Capital Structure with Taxes}
@@ -136,7 +129,66 @@ Cum dividend: $P_{cum}=\mbox{Current Dividend} + PV(\mbox{Future Dividends})$
 
 Effective dividend tax rate: $\tau_d^*=(\frac{\tau_d-\tau_g}{1-\tau_g})$
 
- 
+\newpage
+\section{Cost of Capital and WACC}
+\label{sec:cost-capital-wacc}
+
+\textbf{Pre-Tax WACC\footnote{Also known as Asset CoC}:} $r_u=\frac{E}{E+R}r_e+\frac{D}{E+D}r_d$
+
+\textbf{After-Tax WACC:} $r_{wacc}=\frac{E}{E+R}r_e+\frac{D}{E+D}r_d*(1-\tau)$
+
+\vspace*{1\baselineskip}
+To estimate $r_e$, use the CAPM: $E(R_i)=r_f+\beta_i[E(R_m)-r_f]$
+
+\vspace*{1\baselineskip}
+Net Debt = Debt - Excess Cash and Cash Equivalents (short-term investments)\footnote{ Firms with more cash than debt are negatively leveraged, giving a -D}
+
+Cost of debt = $\frac{\mbox{interest expense}}{\mbox{interest-bearing debt}}$
+
+Risk Premium = $E[R_{mkt}]-r_f$
+
+\vspace*{1\baselineskip}
+Total risk: measured by \textit{volatility}
+
+Market risk: measured by \textit{beta}
+
+\vspace*{1\baselineskip}
+
+\subsection{WACC Method}
+\label{sec:wacc-method}
+
+\textbf{Using the WACC to value a project:} \[ V_0^L= \frac{FCF_1}{(1+r_{wacc})} + \frac{FCF_2}{(1+r_{wacc})^2} + ... + \frac{FCF_n}{(1+r_{wacc})^n} + L \]
+
+Summary of the WACC method:
+\begin{enumerate}
+\item Determine the free cash flows of the investment
+\item Compute the WACC, including tax benefit of leverage
+\item Compute the value of the investment, including the tax benefit of leverage, by discounting the free cash flow of the investment using the after-tax WACC
+\end{enumerate}
+
+\subsection{APV Method}
+\label{sec:apv-method}
+
+Uses the \textbf{pre-tax WACC}
+
+\[ APV = V^U + PV{(\mbox{Interest Tax Shield})}\]
+
+Interest paid in year $t = r_d * D_{t-1}$
+
+\vspace*{1\baselineskip}
+Summary of the APV Method:
+\begin{enumerate}
+\item Determine the investment's value without leverage
+\item Determine the present value of the interest tax shield
+  \begin{enumerate}
+  \item Determine the expected interest tax shield
+  \item Discount the interest tax shield at the pre-tax WACC
+  \end{enumerate}
+\item Add the unlevered value to the presten value of the interest tax shield to determine the value of the investment with leverage \end{enumerate}
+
+\section{Extensions of Capital Budgeting}
+\label{sec:extens-capit-budg}
+
 \end{document}
 
 %%% Local Variables:
