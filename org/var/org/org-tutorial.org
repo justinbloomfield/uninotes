@@ -1,0 +1,43 @@
+#+STARTUP: latexpreview
+#+OPTIONS: toc:nil
+* Tasks
+** DONE Start new org file for tutorial
+   CLOSED: [2016-11-10 Thu 20:27]
+** DONE don't be gay
+   CLOSED: [2016-11-10 Thu 20:33]
+   memes cum poo hahaha
+** DONE Write introduction
+   CLOSED: [2016-11-10 Thu 21:37]
+** TODO Finish document 
+SCHEDULED: <2016-11-11 Fri 23:00>
+
+* Introduction
+
+  Org-mode is a personal information management and outlining toolr for Emacs. This document is intended to give the reader a feel for org-mode and to teach basic operations.
+
+** Installation
+** Obtaining org-mode
+
+   You can download org-mode from the [[http://reddit.com/r/mechanicalkeyboards][home page]]
+   [[file:~/.df/emacs/.emacs.d/custom/evil-init.el::"oa"%20'org-agenda][evil-init.el]]
+** Configuration
+* The basics
+** Creating a new file
+** Simple task list
+** Using headlinest to structure a document
+** Links to other places
+** Adding notes to a task
+** Scheduling an appointment
+** Using the agenda
+* Lists
+** PENIS
+   
+Reasons bad:
+1. Jews
+2. Jews
+   + jews
+- JEWS: :: fuck em
+* LaTeX shit
+\begin{math}
+\frac{wangadoodle}{doodlepoodle_{\omega}}
+\end{math}

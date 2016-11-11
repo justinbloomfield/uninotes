@@ -1,0 +1,6 @@
+* TODO finish the year 
+  SCHEDULED: <2016-11-15 Tue 13:00>
+* DONE sleep nerd 
+  CLOSED: [2016-11-11 Fri 01:22] SCHEDULED: <2016-11-11 Fri 01:00>
+* TODO MATH1113 exam haha kill me.  
+  SCHEDULED: <2016-11-15 Tue 08:30>
