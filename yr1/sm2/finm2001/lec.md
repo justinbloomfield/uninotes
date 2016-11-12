@@ -469,4 +469,4 @@ Q4. investment decisions - long NPV question
 
 - no arbitrage questions
 
-If you don't understand what to do for the pactise exam questions wathc this lecture again as he goes through the stuff (explanation might help, is what i mean)
+If you don't understand what to do for the pactise exam questions watch this lecture again as he goes through the stuff (explanation might help, is what i mean)

@@ -41,3 +41,10 @@ Reasons bad:
 \begin{math}
 \frac{wangadoodle}{doodlepoodle_{\omega}}
 \end{math}
+* Tables
+|   |   |   |   |   |
+|---+---+---+---+---|
+|   |   |   |   |   |
+|---+---+---+---+---|
+|   |   |   |   |   |
+
