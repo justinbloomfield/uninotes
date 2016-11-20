@@ -12,6 +12,7 @@
 SCHEDULED: <2016-11-11 Fri 23:00>
 
 * Introduction
+  $\sum_i^6 \mbox{cum}$
 
   Org-mode is a personal information management and outlining toolr for Emacs. This document is intended to give the reader a feel for org-mode and to teach basic operations.
 
