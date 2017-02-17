@@ -1,0 +1,112 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016 CRUX version 3.2) (preloaded format=pdflatex 2016.10.30)  8 NOV 2016 01:02
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**\input prac.tex
+(./prac.tex (/usr/share/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./prac.aux)
+\openout1 = `prac.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+ [1
+
+{/usr/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 31.
+
+(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+
+Overfull \hbox (26.29176pt too wide) in paragraph at lines 32--35
+[]\OT1/cmr/m/n/10 Constant chain of re-place-ment in per-pe-tu-ity method. $\OM
+L/cmm/m/it/10 NPV[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 NPV[]\OT1/cmr/m/n/10 [[]
+]$
+ []
+
+[2]
+Overfull \hbox (0.26703pt too wide) in paragraph at lines 76--77
+[]\OT1/cmr/m/n/10 the \OT1/cmr/m/it/10 lessor \OT1/cmr/m/n/10 re-ceives the de-
+pre-ci-a-tion de-
+ []
+
+[3] [4]
+Overfull \hbox (10.13795pt too wide) in paragraph at lines 120--120
+[]\OT1/cmr/bx/n/14.4 Capital Struc-ture (Fi-nan-cial Dis-tress, Agency
+ []
+
+
+Overfull \hbox (43.03139pt too wide) in paragraph at lines 125--126
+[]\OT1/cmr/bx/n/10 Trade-Off The-ory: $\OML/cmm/m/it/10 V[] \OT1/cmr/m/n/10 = \
+OML/cmm/m/it/10 V[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 PV\OT1/cmr/m/n/10 ([]) \
+OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 PV\OT1/cmr/m/n/10 ([])$ 
+ []
+
+[5]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 138.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 138.
+ [6] [7] (./prac.aux) ) 
+Here is how much of TeX's memory you used:
+ 279 strings out of 493014
+ 3132 string characters out of 6139285
+ 58601 words of memory out of 5000000
+ 3894 multiletter control sequences out of 15000+600000
+ 7686 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,8n,19p,389b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.
+pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
+pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmti10.pfb>
+Output written on prac.pdf (7 pages, 194300 bytes).
+PDF statistics:
+ 92 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

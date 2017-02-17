@@ -1,0 +1,16 @@
+* TODO Shopping
+  SCHEDULED: <2016-11-20 Sun 15:00>
+  :PROPERTIES:
+  :ID:       93369620-bc3e-46a5-a46f-8e19ee7fcde2
+  :END:
+  - [ ] Milk
+  - [ ] Chocolate Chips
+  - [ ] Eggs
+  - [ ] Couscous
+  - [ ] Beef/lamb
+  - [ ] 400g tomatoes
+  - [ ] Broccoli
+  - [ ] Peas?
+  - [ ] Biscuits/chocolate
+  
+

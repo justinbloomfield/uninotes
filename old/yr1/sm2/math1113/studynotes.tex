@@ -1,0 +1,222 @@
+% Created 2016-11-12 Sat 16:14
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\author{Justin Bloomfield}
+\date{\today}
+\title{studynotes}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs 25.1.1 (Org mode 8.2.10)}}
+\begin{document}
+
+\maketitle
+\section{Notes}
+\label{sec-1}
+\subsection{Calculus}
+\label{sec-1-1}
+\subsubsection{W8}
+\label{sec-1-1-1}
+\begin{enumerate}
+\item Integration of Rational Functions, Section 9.5
+\label{sec-1-1-1-1}
+for shit in the form of $f(x)=\frac{g(x)}{h(x)}$
+\begin{enumerate}
+\item If the numerator is a higher degree function than the denominator, must use long division
+\begin{itemize}
+\item $\square$ Add example to cheat sheet
+\end{itemize}
+\item Use partial fractions to separate function
+\begin{itemize}
+\item Factorise denominator first, to split
+\item do the other stuff you need to do (shouldn't need an example for this)
+\end{itemize}
+\item Integrate as normal
+\end{enumerate}
+\item Improper Integrals, Section 9.6
+\label{sec-1-1-1-2}
+An integral is \textbf{improper} if it is unbounded at an end point, or if an endpoint is infinite.
+\begin{itemize}
+\item $\square$ Add example to cheat sheet (be sure to include the limits)
+\end{itemize}
+\item Taylor Polynomials, Sections 10.1-10.2
+\label{sec-1-1-1-3}
+\textbf{Lagrange's Remainder Theorem}
+$En(x)= \frac{f^{(n+1)}(x_{0})}{(n+1)!}(x-a)^{n+1}$
+Used for determining the error in the approximation
+
+\textbf{Taylor Polynomials}
+$\sum^{n}_{i=0}\frac{f^{(i)}(a)}{i!}(x-a)^{i}$
+
+\begin{itemize}
+\item $\square$ Defs example for this one
+\end{itemize}
+\end{enumerate}
+\subsubsection{W9}
+\label{sec-1-1-2}
+\begin{enumerate}
+\item Taylor Series, Sections 10.3-10.5
+\label{sec-1-1-2-1}
+The \textbf{Taylor Series} of $f$ about $a$ is the infinite sum:
+$\sum^{\infty}_{i=0}\frac{f^{(i)}(a)}{i!}(x-a)^{i}$ 
+
+I don't have a fucking clue how to do these, so do make sure to 
+\begin{itemize}
+\item $\square$ include an example
+\end{itemize}
+\end{enumerate}
+\subsubsection{W10}
+\label{sec-1-1-3}
+\begin{enumerate}
+\item Differential Equations, Section 11.1-11.5
+\label{sec-1-1-3-1}
+\textbf{Ordinary}: single variable
+An \textbf{ODE} is \uline{separable} if it can be written in the form:
+$f(y)\frac{dy}{dx}=g(x)$
+Solve by "multiplying by dx" and integrating:
+$\int{f(y)dy}=\int{g(x)dx}$
+
+\textbf{First Order Linear DEs}
+$y'+p(x)y=q(x)$
+if $q(x)=0$, this is separable, and solvable using:
+$y=e^{-P(x)}\int{e^{P(x)}q(x)dx}$, where $p'(x)=p(x)$
+
+\begin{itemize}
+\item $\square$ example of something similar the salt water one, or practise several of them
+\end{itemize}
+\item Functions of Several Variables, Section 12.1
+\label{sec-1-1-3-2}
+just graphs of shit, hopefully not important LUL
+\end{enumerate}
+\subsubsection{W11}
+\label{sec-1-1-4}
+\begin{enumerate}
+\item Domains and Subsets of R$^{\text{n}}$, Section 12.2
+\label{sec-1-1-4-1}
+IDEK FUCK ME DADDY
+\item Limits and Continuity, Section 13.1
+\label{sec-1-1-4-2}
+\item Partial Derivatives, Section 13.1
+\label{sec-1-1-4-3}
+$\frac{\delta f}{\delta x}=f_{1}=D_{1}f$
+for $\frac{\delta f}{\delta x}$, differentiate for x, treat y as a constant, opposite for y
+for the more complicated shit, $\frac{\delta^{2} f}{\delta x \delta y} = \frac{\delta f}{\delta y}(\frac{\delta f}{\delta x})$ and such like
+Theorem of $\frac{\delta^{2} f}{\delta x \delta y}(a,b)=\frac{\delta^{2} f}{\delta y \delta x}(a,b)$. If this isn't working, check continuity of function
+\item Linear Approximation, Section 13.2
+\label{sec-1-1-4-4}
+$f(x+ \Delta x, y+\Delta y) \approx f(x,y)+\frac{\delta f}{\delta x}(x,y)\Delta x + \frac{\delta f}{\delta y}(x,y)\Delta y$
+the \emph{differential} of f(x,y) at (a,b) is
+$df(a,b)=\frac{\delta f}{\delta x}(a,b)dx+\frac{\delta f}{\delta y}(a,b)dy$
+\begin{itemize}
+\item $\square$ example?
+\end{itemize}
+\item Differentiability, Section 13.3
+\label{sec-1-1-4-5}
+hand write this formula, fuck putting that in \LaTeX{}
+f differentiable at (a,b) => f continuous at (a,b)
+\item The Chain Rule, Section 13.4
+\label{sec-1-1-4-6}
+hand write this as well, it's gay to write but doesn't seem too hard to use, maybe an example but probs not as long as I've practiced some of them
+\end{enumerate}
+\subsubsection{W12}
+\label{sec-1-1-5}
+\begin{enumerate}
+\item Gradients and Directional Derivatives, Section 13.5
+\label{sec-1-1-5-1}
+$\frac{\delta f}{\delta x}$ measures RoC in x-direction
+$\frac{\delta f}{\delta y}$ measures RoC in y-direction
+The \emph{gradient} of f is:
+$\nabla f = \frac{\delta f}{\delta x}\vec{i} + \frac{\delta f}{\delta y}\vec{j} (+\frac{\delta f}{\delta z}\vec{k})$
+looooot of shit for this one, make sure to practise
+\item Extrema and Optimisation, Section 13.6
+\label{sec-1-1-5-2}
+Critical points:
+\begin{description}
+\item[{Stationary point}] where $\nabla f(a,b)=0$
+\item[{Singular point}] where $\nabla f(a,b)$ does not exist
+\item[{Boundary point}] where (a,b) is on the boundary of the domain of f
+\end{description}
+Local min/max can only occur at critical points
+\texttt{there is a lot more than this, make sure to get the important parts}
+\item Multivariable Integration, Sections 14.1-14.2
+\label{sec-1-1-5-3}
+\end{enumerate}
+\subsubsection{W13}
+\label{sec-1-1-6}
+\begin{enumerate}
+\item More Multivariable Integration, Sections 14.3-14.5
+\label{sec-1-1-6-1}
+\end{enumerate}
+\subsection{Algebra}
+\label{sec-1-2}
+\subsubsection{W8}
+\label{sec-1-2-1}
+\begin{enumerate}
+\item Complex Numbers, Lay App. B, Adams App. 1
+\label{sec-1-2-1-1}
+\item Invertibale Matrices, Lay 2.2-2.3
+\label{sec-1-2-1-2}
+\end{enumerate}
+\subsubsection{W9}
+\label{sec-1-2-2}
+\begin{enumerate}
+\item Determinants, Lay 3.1-3.2
+\label{sec-1-2-2-1}
+\end{enumerate}
+\subsubsection{W10}
+\label{sec-1-2-3}
+\begin{enumerate}
+\item More Determinants, Lay 3.2-3.3
+\label{sec-1-2-3-1}
+\end{enumerate}
+\subsubsection{W11}
+\label{sec-1-2-4}
+\begin{enumerate}
+\item Eigenvectors and Eigenvalues, Lay 5.1-5.2
+\label{sec-1-2-4-1}
+\item Diagonalisation, Lay 5.3
+\label{sec-1-2-4-2}
+\item Eigenvectors and Linear Transformations, Lay 5.4 (\emph{unfinished})
+\label{sec-1-2-4-3}
+\end{enumerate}
+\subsubsection{W12}
+\label{sec-1-2-5}
+\begin{enumerate}
+\item Eigenvectors and Linear Transformations, rest of Lay 5.4
+\label{sec-1-2-5-1}
+\item Applications to Differential Equations, Lay 5.7 (\emph{unfinished})
+\label{sec-1-2-5-2}
+\item Complex Eigenvalues, Lay 5.5 (\emph{unfinished})
+\label{sec-1-2-5-3}
+\end{enumerate}
+\subsubsection{W13}
+\label{sec-1-2-6}
+\begin{enumerate}
+\item More Complex Eigenvalues, Factoring as A=PCP$^{\text{-1}}$, rest of Lay 5.5
+\label{sec-1-2-6-1}
+\item Discrete and Continuous Dynamical System, Lay 5.6-5.7
+\label{sec-1-2-6-2}
+\end{enumerate}
+\section{TODOstuff}
+\label{sec-2}
+\subsection{{\bfseries\sffamily TODO} Include examples noted in \^{}}
+\label{sec-2-1}
+\subsection{{\bfseries\sffamily TODO} Be sure of how to compute the various spaces and their bases of a matrix}
+\label{sec-2-2}
+% Emacs 25.1.1 (Org mode 8.2.10)
+\end{document}

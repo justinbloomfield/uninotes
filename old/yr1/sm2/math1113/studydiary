@@ -1,0 +1,55 @@
+; CALC STUDY DIARY
+Week 8:
+- Integration of rational functions (9.5 in lecture notes).
+- Improper integrals (9.6 in lecture notes).
+- Taylor polynomials (10.1 -- 10.2 in lecture notes).
+
+Week 9:
+- Taylor series (10.3 -- 10.5 in lecture notes).
+
+Week 10:
+- Differential equations (11.1 -- 11.5 in lecture notes)
+- Functions of several variables (12.1 in lecture notes)
+
+Week 11:
+- Domains and subsets of R^n (12.2 in lecture notes)
+- Limits and continuity (12.3 in lecture notes)
+- Partial derivatives (13.1 in lecture notes)
+- Linear approximation (13.2 in lecture notes)
+- Differentiability (13.3 in lecture notes)
+- The chain rule (13.4 in lecture notes)
+
+Week 12:
+- Gradients and directional derivatives (13.5 in lecture notes)
+- Extrema and optimisation (13.6 in lecture notes)
+- Multivariable integration (14.1 -- 14.2 in lecture notes)
+
+Week 13:
+- More multivariable integration (14.3 -- 14.5 in lecture notes)
+
+; ALGEBRA STUDY DIARY
+Week 8:
+- Complex numbers (Appendix B in Lay, or Appendix 1 in Adams).
+- Invertible matrices (2.2 and 2.3 in Lay).
+
+Week 9:
+- Determinants (3.1 and part of 3.2 in Lay).
+
+Week 10:
+- More determinants (the rest of 3.2 and 3.3 in Lay)
+
+Week 11:
+- Eigenvectors and eigenvalues (5.1 -- 5.2 in Lay)
+- Diagonalisation (5.3 in Lay)
+- Eigenvectors and linear transformations (5.4 in Lay, unfinished)
+
+Week 12:
+- Eigenvectors and linear transformations (rest of 5.4 in Lay)
+- Applications to differential equations (5.7 in Lay, unfinished)
+- Complex eigenvalues (5.5 in Lay, unfinished)
+
+Week 13:
+- More complex eigenvalues, factoring as A=PCP^(-1) (rest of 5.5 in Lay)
+- Discrete and continuous dynamical systems (5.6 and 5.7 in Lay)
+
+Note that we didn't cover the last part of Section 5.7 in Lay about continuous dynamical systems with complex eigenvalues.

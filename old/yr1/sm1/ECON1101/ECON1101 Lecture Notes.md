@@ -1,0 +1,1274 @@
+{{TOC}} 
+## L1
+
+**((STILL USES OVERHEADS))**
+
+Read ch. 1 & 2 of textbook
+use dedicated course address with ANU student email, micro1.anu@gmail.com
+Tutorial questions posted on WATTLE by Friday, same one week delay
+
+Final exam 60%, all covered material
+Mid-sem exam 25%, first half I assume…
+Tutorial quizzes 15%, best 5 of 7
+***Micro*economics**: Studies the behaviour of individual firms and households or specific markets
+***Macro*economics**: focuses on the whole economy, not individual markets.
+**Positive analysis**: descriptive statements of cause and effect, e.g. lower wages for low wage workers will lead to an increase in demand for those workers
+**Normative analysis**: statements that embody value judgements,
+ e.g. the government *should* lower wager for the poor.
+ Simple models with simplifying assumptions are used
+ Rationality and maximising behaviour are assumed.
+ Judge a model by it’s predictive power.
+ Is a theory of irrational behaviour more desirable?
+ 
+ 
+ 
+## L2 
+Read pp.4-13 for tomorrow
+If a lecture is missed, and the recording fucked up, contact someone else in the class
+**Scarcity and Choices, Some Key Economic Ideas, and Lines, Slopes and Curves**
+- Weighing the Benefits and Costs
+- Opportunity Cost
+- Thinking on the Margin
+- People Respond to Incentives
+
+Heart of Economics considers:
+- Resources are finite (*scarce*)
+- Wants are unlimited
+- Choices must be made
+
+**Implication of Scarcity**: Having more of one good thing usually means having less of another - tradeoff notion
+
+**Rational Decision Making**: If the benefits > costs of an action, then pursue the action
+
+Opportunity cost of any choice is the value of the next *best* alternative foregone.
+
+Rational to take an action if the marginal benefit exceeds the marginal cost
+
+## L3
+Read ch. 1,2 and 3 if the book is here
+**Gains from Trade, Production Possibilities Curve**
+- Voluntary exchange
+- Absolute and comparative advantage
+- Inefficient outcomes
+- Efficient outcomes
+- Impossible outcomes
+
+Markets next week (chapter 3)
+# You got some reading to do boiiiiii 1 2 3
+Homer: 10 pencils, Virgil: 2 pads of paper, Homer swaps five pencils for 1 pad of paper, both now have 5 pencils and 1 pad of paper
+Voluntary exchange is mutially advantageous
+No change in total quantity of goods available. Simply a reallocation of goods.
+Martha and Ruth each own old houses which need man repairs.
+Martha more productive in cooking, Martha more productive in house repairs.
+**Absolute advantage**: where a person or country is more efficent or productive in producing a good compared to another person or country.
+**Comparative advantage**: where a person or country can produce on good more efficently relative to another good (lower opportunity cost) compared to another person or country.
+In this scenario, Martha has an absolute advantage
+
+|Opportunity Cost| Martha | | Ruth |
+|--|--|--|-:|
+|OC of 1 meal | 1/2 Repair | < | 1 repair |  
+|OC of 1 repair | 2 meals | > | 1 meal | 
+
+
+
+Martha has a comparative advantage over Ruth in cooking while Ruth has a comparative advantage over Martha in home repair.
+Trade can benefit both.
+Ruth offers to make 1 for Martha. Martha makes 1 less repair but sepnds more time cooking and offers 1.5 meals to Ruth.
+
+| 24hr Day | Martha | Ruth | Total|
+|--|--|--|-:|
+|**No Trade** | | | |
+| Repairs Produced and Consumed| 11 | 6 | 17|
+| Meals Produced and Consumed | 2 | 2 | 4 |
+| **With Trade** |
+| Repairs Produced | 10 | 7 | 17 |
+|Meals Produced | 4 | 1 | 5 |
+| |
+| Repairs Traded | +1 received | -1 given | |
+| Meals Traded | -1 1/2 given | + 1 1/2 received | |
+| Repairs consumed | 11 | 6 | 17 |
+| Meals consumed | 2 1/2 | 2 1/2 | 5 |
+
+Here, total output (meals) has increased. No more or less inputs used but inputs (Martha and Ruth’s time) have been reallocated across outputs. Both are better off!
+Why does Ruth sell a repair and byu meals while Martha sells meals and buys a repair.
+Compare OC of item across individuals:  
+Each sells the good where she is lowest OC producer and has comparative advantage in producing and buys the good where she is *not* the lowest OC producer nor has comparative advantage in producing.
+
+| Movies | PCs | OC |
+|--|--|-:|
+| 0 | 25000 |  0|
+| 100 | 24000 | -1000|
+| 200 | 22000 |-2000|
+| 300 | 18000 |-4000|
+| 400 | 13000 |-5000|
+| 500 | 0 | -13000|
+
+graph : pc y axis, movies x axis, downward slope. Shows Production Possibilities Curve (PPC). Shows maximum combinations of two goods that are possible, given the economy’s resources and level of technology.
+Outcomes within the curve are inefficient, outcomes along the curve are efficient. Outcomes above/beyond the PPC are impossible.
+What is impossible today may be possible tomorrow.
+
+## L4
+Finish reading Ch. 3
+**Demand Schedule and Demand Curve**
+- Law of Demand
+- Movements Along Demand Curve
+**Demand Schedule**: a table of prices (P) and quantity demanded (Q^0) for a good at different prices, all things being equal (*ceteris paribus*)
+
+| Price per Egg (c) | Quantity Demanded (million) | 
+|--|-:|
+| 10 | 25 | 
+| 20 | 20 | 
+| 30 | 15 |
+| 40 | 10 |
+| 50 | 5 | 
+
+
+**Law of Demand**: P ⇑ = Q^0 ⇑
+**Demand Curve**: Graph indicating quantity demanded at different prices
+A change in the price of the good itself eads to a movement *along* the demand curve
+Other non-price factors are said to *shift* the demand (D) curve.
+Increase in Demand = shift D curve to the right
+Decrease in Demand = Shift D curve to the left
+Could be cause by:
+- A change in tastes/preferences/information
+- A change in income - for any price. If income⇑ -> D⇑ (normal goods. Demand *decreases* for inferior goods if income increases.
+
+**Change in Prices of Closely Related Goods**
+- substitute goods (e.g. X and Y): goods that substitute for each other. When the price of X rises (falls), the D for Y increases (decreases).
+- complementary goods (e.g. X and Y). Goods which are usually consumed or used togther. WHen the price of X rises (falls), D for Y decreases (increases).
+
+**Change in Number of Consumers or Population**
+
+**Change in Consumer’s Expectations of the Future**
+
+## L5
+ch. 3 74-79
+**Supply Schedule and Supply Curve**
+- Law of Supply
+- Movements Along Supply Curve
+
+**Market Equilibrium**
+- Excess Demand and Excess Supply
+- Price Adjustment
+
+**TUTORIAL QUESTIONS**
+1. Review the key terms and recent course material
+2. Write down relevant information provided in question.
+3. Clarify what needs to be explained or examined
+4. Relate points 2 and 3 t o the material covered in the course.
+5. If you make no progress, take a break and come back to the problem later.
+
+**Quantity Demanded**: The amount of a good that buyers are willing to buy. 
+**Quantity Supplied**: The amount of a good thatsellers are willing and able to supply
+**Supply Schedule**: A table of prices (P) and quantity supplied (Q^s), for a good at different prices, *ceteris paribus*
+**Law of Supply**: P⇑ = Q^s ⇑
+**Supply Curve**: Graph indicating quantity supplied at diferent prices.
+
+A change in the price of the good itself leads to a movement *along* the supply curve.
+Other non-price factors are said to *shift* the supply (S) curve
+Increase in supply ⇋ shift S curve to the right
+Decrease in supply ⇋ shift S curve to the left
+**Some of the Other Factors**
+**Change in Tech**: Anything that changes quantity of output for a given amount of inputs.
+**Change in Prices of Inputs**
+**Change in Number of Firms in Market**  
+**Change in Expectations of Future Price**
+**Change in Govt Taxer, Subsidies and Regulations**
+
+**Excess Demand** or **Shortage** occurs when Q^D > Q^S >- P rises.
+**Excess Supply** or **Surplus** occurs when Q^D < Q^S -> P falls.
+
+No change: Q^D = Q^S
+
+
+## L6
+### Read ch. 4 for next week
+**Prices Allocate Resources or Rationing by Price**
+**Change in Market Equilibrium**:
+- Using Supply and Demand Curves
+- Finding the New Market Equilibrium
+**Price Controls**:
+- Price Ceiling
+- Price Floor
+**Equilibrium**: Q^S = Q^D
+
+Given scarcity and choice, a society mus decide:
+1. *What* goods are produced and how much
+2. *How* these goods are produced
+3. *For whom* are they produced for.
+
+Figure out what the fuck marginal cost and marginal benefits are
+
+**Using Supply and Demand Analysis**:
+- Consider market impact of discovery that chemical compounds in egg whites may reduce baldness. Demand up, supply curve doesn’t change, equilibrium would change, consumers would settle for higher prices. 
+- Consider market impact if Australian Workers’ Union negotiates higher wages for agricultural workers. Demand curve won’t change, supply curve shifts to the left, new market equilibrium, higher price but less demand because of higher input costs (higher wages) 
+
+*How do you solve for the new market equilibrium*:
+1. determine whether change shifts D and/or S curve
+2. determine how curve or curves shift
+3. determine new equilibrium P and Q
+
+**Price Controls**
+**Price Ceiling**: A legal maximum on the price of a good.
+Ex. Rent Control: “the best way to destroy a city other than bombing”
+  
+For price ceiling to bind and create shortage, must be less than equilibrium price.
+**Price Floor**: A legal minimum on the price of a good.
+
+For price floor to bind and create surplus, must be more than equilibrium price.
+
+## L7
+**Read ch. 4 and 5**
+**Price Elasticity of Demand**
+- Point Elasticity
+- Arc (Midpoint) Elasticity
+
+**Inelastic and Elastic Demand**
+**Determinants of Price Elasticity**
+
+Orange juice example: Price goes down 1 cent, quantity demanded gos up 5. ∆Q/∆P = 5L/-1c = -5L/c
+**Price Elasticity of Demand**: (negative of the) % change in Q^D divided by the % change in P
+ε^D = -(%∆Q^D/%∆P), or -((%∆Q/Q<sub>1</sub>)/(%∆P/P<sub>1</sub>))
+**Point Elasticity of Demand**: ε^D = -(1/slope)(*P*/*Q^D*), use for small price change.
+**Arc Elasticity of Demand (Midpoint Method)**: ε^D = (-∆Q^D/Avg. Q)/(∆P/Avg. P), use for large changes.
+**Perfectly Inelastic**: Doesn’t do shit, vertical demand curve, as price has no impact
+**Perfectly Elastic**: Does do shit, horizontal demand curve, huge impact.
+
+**Determinants**: 
+1. Substitution Possibilities: Goods without close substitutes are less price elastic, e.g. insulin for diabetics. 
+2. Budget Share: In general, the smaller a good’s budget share, the less elastic is demand.
+3. Time: Demand tends to be more price sensitive over time.
+4. Temporary vs. Permanent Price Change: Demand is more elastic for temporary compared to permanent price changes.
+
+## L8
+Read ch. 5 including “The Budget Line” in the appendix
+**Otherer Behaviour - Individual Demand**
+- Willingness to pay
+- Marginal and Total Benefit
+- Price Equals Marginal Benefit
+
+**Price Elasticity of Supply**: % change in Q^s divided by the % change in P
+ε^S = %∆Q^S/%∆P
+
+Perfectly inelastic supply (ε^S = 0) - vertical supply curve
+Perfectly elastic supply (ε^S = ∞) - horizontal supply curve
+
+**Determinants**:
+- ease at which producers can increase output e.g. capacity constraints
+- time - supply is usually more price sensitive over time
+
+**Go over supply and demand again, see if you can work out the graphs a bit more**
+
+Demand curve also indicates *willingness to pay*, i.e the **highest** price that will be paid for the last unit purchased.
+
+## L9
+
+Reading still the same
+
+**Marginal and Total Benefit**
+**Consumer Surplus**
+**Diamond-Water Paradox**
+**Market Demand**
+**Consumer Budget Constraint**
+
+**Marginal Benefit**: The additional benefit fof consuming one more unit (or last unit) of a good
+
+At P = 30¢, Kim demands therre epss vut could have demanded only two. The 3^rd egg, the *marginal* egg, must be worth at least 30¢ of other goods that could have bveen bought.
+
+**Consumer Surplus**: The difference between what a consumer is willing to pay and what he/she has to pay
+
+**Market Demand**: The horizontal summation of the individual demand curves of market participants. (i.e. add up the demands of the individual curves.)
+
+Consumers choose the best bundle or mix of goods they can afford. This depends on:
+- what bundles they can afford 
+	- budget constraint or budget line (see “The Budget Line” in appendix of TB)
+- consumer preferences or tastes
+
+## L10
+Read Ch. 6
+**Income and Substitution Effects**  
+**Preferences and Utility**
+**Diminishing Marginal Utility (MU)**
+**Equalizing MU per Dollar Spent**
+
+**Income Effect**: P up -> real income down -> Q^D down (for normal goods)
+
+**Substitution Effect**: P<sub>x</sub> Up -> good x now relatively more expensive compared to other goods -> substitute away from x to other relatively chearger goods - > Q^D for x down
+
+**Utility**: A measure of a person’s preferences or satisfaction from consuming a good or service.
+
+**Marginal Utility**: The additonal utility from consuming one more unit (or last unit) of good
+
+Utility is maximzed when the MU per dollar spent is the same for all godds X and Y.
+
+
+## L11
+
+**What is a Firm and Why do They Exist?**
+**Competetive Markets/Price-Takers**
+**Profits, Production, and Costs**
+**Increasing Marginal Costs (MC)**
+
+((UNRELATED)) use the set_layer function so that you don't get locked in qwerty
+Market *Demand* is linked to *consumers*, who maximise *utility*, constrained by *budget/income*, slope of curve down due to marginal benefit or marginal utiility, gains from trade is *consumer* surplus
+Market *Supply* is linked to *firms*, who maximize *profits*, constrained by *production function*, slope of curve up due to marginal cost, gains from trade is *producer* surplus
+
+**Firm**: An organization that produces goods or services
+
+**Labour components of firm**:
+1. *Workers/employees*: usually paid a fixed wage or salary and told what to do
+2. *Managers*: make decisions and monitor workers.
+3. *Owners*: Fund firm's investments and bear financial risks
+
+**Why do firms exist?**
+1. To minimize transaction costs
+2. Individual contracts unwieldly with team production
+3. Difficult or costly to specify complete contracts
+
+We assume firms' goal is to maximize profit. (p. 138)
+
+Assume firm's face competitive markets
+- No firm can influence market price. Firms are **price-takers**
+
+**Profit**: Revenue - Costs
+**Revenue**: Price x Quantity
+**Production**: A process that transforms inputs into outputs.
+
+**Output Q** = F(L,K), where L is the labour input and K is capital input.
+
+Depending on time horizon, not all inputs can be varied, some may be fixed.
+
+**Short run**: Some inputs are variable, all others fixed
+**Long run**: All inputs are variable
+
+**Marginal Product of Labour (MP)**: Additional output from additional (or last) unit of labour. 
+MP<sub>L</sub> = ∆Q/∆L (roughly)
+Notice diminishing MP<sub>L</sub> or dimnishing returns to labour
+Total Costs = Variable Costs + Fixed Costs
+**Marginal Costs**: Change in costs due to additonal (or last) unit of output produced
+MC = ∆C/∆Q (roughly)
+Increasing MC due to diminishing MP<sub>L</sub>
+
+## L12
+Ch. 6 and 7
+**Individual Firm Demand**
+**Fixed Cost as a Sunk Cost**
+**Marginal Cost and Supply**
+**Market Supply**
+**Producer Surplus**
+
+If charged P<sub>1</sub> > P<sub>equilibrium</sub>, Q^D = 0
+If firm charged P<sub>2</sub> < P<sub>equilibrium</sub>, Q^D large
+sell at a highr price -> markets arise
+Individual firm demand is perfectly elastic at the market price.
+**Sunk Cost**: A cost that can not be avoided or, once made, can not be recovered.
+Fixed costs in production decisions:
+1. in Short Run: Fixed costs don't enter into how much to produce since have to be paid regardless (a sunk cost)
+2. in Long Run: "fixed" costs are not sunk and can be avoided; thus do enter into production decisions.
+Rational to take an action if the MB > or = MC
+**Marginal Revenue**: A change in revenue due to additional (or last) unit of output sold
+for price-taking firm: MR = P
+MC Curve is firm's supply curve
+Market or industry supply is the horizontal summation of individual firm supply curves.
+**Producer Surplus**: the difference between the price and marginal cost over each unit of output supplied
+PS = revenues - sum of MC
+Profits = PS - fixed costs
+
+## L13
+Chapter 7 readings
+**Total Surplus and Competitive Markets**
+**Deadweight Loss**
+**Pareto Efficiency**
+**Competitive Market, Outcomes are Pareto Efficient**
+**Consumer Surplus** = Value to consumers - consumers' expenditures, ABP*
+Consumers's Expenditures = P* x Q*
+
+**Producer's Surplus** = producer revenues - producer costs, P*BQ*O - CBQ*O = P*BC
+**Total Surplus** = CS + PS
+= ABP* + P*BC
+=ABC (triangle, A and C on the y-axis, B the point where the curves meet)
+= value to consumers - producer costs
+
+Q* is the "efficient" output level where MB = MC and total surplus is maximised
+
+**Deadweight Loss**: The reduction in total surplus due to an inefficient quantity
+
+**Efficient Outcome**: No resources wasted
+
+**Pareto Efficiency**: A situation where you can not make someone better off without making someone else worse off 
+3 conditions for econ. effiency: pp. 169-170
+1. *Output effiency*
+MB=MC for last item produced (  if not,a dlust output to mac total rupluf)
+2. *Production efficiency*
+MC same fro all producers ( if not, shift production to lowest MC producer and produce at lower cost)
+3. *Consumption effiency*
+- MB same for all consumers ( if not, shift consumption to highest MB consumer and get more total benefit)
+
+Competitive market outcomes are efficient
+**Output Efficient**: at Q*: MB = MC = P*
+**Production Efficient: All producers face same market price and produce where P* = MC
+**Consumption Efficient**: All onsumers face same market price and consume where P* = MB.
+
+## L14
+chapter 7, pp.178-181, 363-365
+**Infomational Advantage of Price Mehcanism**
+**Efficiency vs Equity**
+**Application to Price Ceiling**
+
+Competitive markets lead to efficient but not necessarily equitable outcomes.
+
+Economic effiency leads to maximum total surplus, i.e., realize all possible gains from trade.
+**Equity**: The farness of the distribution of goods and wellbeing across society.
+Efficiency: Getting the economic "pie" or total surplus as big as possible. *Relies largely on positive analysis**
+Equity: dividing the economic pie "fairly". *Involves normative judgements*
+*Application to Price Ceiling*: Govt. imposes a price ceiling or maximum price below P*. Leads to excess demand and a lower market quantity Q<sub>2</sub>. Assume that consumers who value the good the most receive the good. Consumers who still purchase good do so at lower price, increase in CS = A. Consumers who no longer purchease good, decrease in CS = B. Total change in CS = A - B.  Producers who still produce now receive a lower price, decrease in their PS = A. Producers who no longer produce (higher cost producers), lost PS = C. Total chaneg in PS = -A - C.
+
+Change in Total Surplus = chane in CS + change in PS
+= (A - B) + (-A - C)
+= -B - C
+= deadweight loss
+
+## L15
+reading: chapter 7 & 8
+
+**IMPACT OF EXCISE TAX**
+**Determining the Market Quantity**
+**Welfare Impact**
+**Economic Incidence of Tax**
+**Determinants of DW Loss**
+
+**Excise Tax**: Tax on a good or a service
+let P<sub>b</sub> = price buyers pay
+    P<sub>s</sub> = price sellers receive
+    P<sub>b</sub> > P<sub>s</sub>
+
+**Specific or unit tax**: a fixed dollar tax per unit of a good.
+    P<sub>b</sub> = P<sub>s</sub> + t
+
+**ad valorem Tax**: Tax levied as a fixed percentage of the value of good
+    P<sub>b</sub> = (1 + t)P<sub>s</sub>
+
+No difference in market quantity or prices if tax is collected from suppliers or demanders.
+
+Production tax: tax adds to MC of suppling goods.
+
+Tax shifts supply curve upwards, which moces the market price to left, and the market cost increases.
+
+Consumption tax: tax lowers MB of consuming goods
+
+Demand curve moves down, market quantity the same as the production tax place.
+
+Market equilibrium quantity with tax t is where 
+1. demand equals supply
+	Q<sub>t</sub> = Q^D (at P<sub>b</sub>) = Q^S (at P<sub>s</sub>)
+2. price difference equals tax
+	P<sub>b</sub> - P<sub>s</sub> = t
+
+**Welfare Impact of a Tax**
+1. Impact on consumers: pay more, (P<sub>b</sub> > P*) and consume less
+CS (Before) =  A+B+C
+CS (After) = A (the top triangle, above P<sub>b</sub>)
+∆CS = -B - C
+2. Impact on producers: lower price received (P<sub>s</sub> < P*) and produce less
+PS (Before) = D + E + F
+PS (After) = F
+∆PS = -E-D
+3. Govt. Surplus: Collect tar revenues
+GS = t x Q<sub>t</sub> = B + D (it's a rectangle)
+4. Change in Total Surplus = ∆CS + ∆PS + ∆GS = - C - E (DW Loss), Excess Burden of Taxation
+t Q<sub>t</sub>(<Q*): MB > MC
+
+*Economic Incidence of tax* or *Who bears the tax?*
+Tax borne by the side of the market which is less price sensitive (i.e. less elastic)
+1. Elastic S & Inelastic D (e.g. tobacco products)
+2. Inelastic S & Elasic D
+
+Deadweight loss of tax (or excess burden of tax) is bigger when:
+1. tax t is larger (resulting in lower, more inefficient quantity)
+2. demand or supply is more price elastic (resulting in lower, more inefficient quantity)
+
+## L16
+Chapter 8
+
+**Costs in the Short Run**
+**Drawing the Short Run Cost Curves**
+**Tutorial 5 Q2**
+
+Depending on timem horizon, not all production inputs can be varied, some may be fixed.
+
+**Short run**: Some inputs are variable, all others fixed.
+
+**Long run**: All inputs are variable.
+
+**Fixed Costs**: Costs associated with fixed inputs, paid regardless of output level, a sunk cost in SR (short run)
+
+**Vaiable Cost**: Costs associated with variable inputs, varies with output level
+
+**Marginal Cost (again)**: Change in costs due to additional (or last) unit of output produced
+
+MC = ∆TC /∆Q (Roughly)
+
+Average Fixed Cost = Fixed Cost / Quantity
+
+Average Variable Cost = Variable Cost / Quantity
+
+Average Total Cost = Total Cost / Quantity
+
+ATC = AFC + AVC
+
+As Q increases, ATC and AVC move closer together.
+
+For SR Cost Curves, MC curve *must* intersect AVC and ATC curves at their turning point
+
+MC = w (wage) / MP<sub>L</sub>
+
+## L17
+Still chapter 8... you should be able to do this tonight, if you don't you're an idiot. Probs look at tutorial work for tomozzles as well
+
+**Economic Costs vs. Accounting Costs**
+**Price-Taking Firm: P = MR = AR**
+**Profits, Costs and Production in SR** *Break-Even Point, Shut Down Point*
+**Costs and Production in LR**
+
+Last year's mid sem up on wattle by the end of the week, which room i need to go to as well, determined by surname
+
+**Total Economic Cost**: Sum of opportunity cost of all inputs including implicit costs
+
+For Price-Taking Firms, Marginal Revenue = Price
+Average Revenue (AR) = Total Revenue/Quantity = (PxQ)/Q = P
+
+Thinking on the Margin:
+In SR, firm macimzes profits and produces at Q* where P (= MR ) = MC
+
+Profits = (P-ATC) x Q
+
+**Break-even point**: When price equals the minimum of average total costs (p. 202), i.e. no profit
+
+IF P ( = AR ) < ATC (at Q*), then profits are negative
+
+Profits = Revenues - Variable Costs - Fixed Costs
+        = (PxQ) - (AVCxQ) - FC
+	= (P-AVC)xQ - FC
+
+If P > AVC, then firm can more than cover its variable costs and achieve less negative or possibly positive profits.
+
+But, if P =< minimum of AVC, then the firm should **shut down** to maximize profit.
+
+
+## L18
+Read chapter 9
+**Price Taking Firm in the Long Run**
+**Production and Profits**
+**Returns to Scale**
+**Economies of Scale**
+**Set-Up Costs**
+**Economies of Scope**
+
+Bring a pencil for multiple choice questions
+
+Long run: All inputs are variable including capital K
+
+Tend to observe firms which produce more also use more K. 
+At low Q1, ATC(K1) < ATC(K2)
+	use less capital K1
+At high Q2, ATC(K2) < ATC(K1)
+	use more capital K2
+
+What about long run MC?
+ATC<sub>LR</sub> = TC<sub>LR</sub> / Q
+MC<sub>LR</sub> = TC<
+
+
+Thinking on the Margin:
+In LR, firm maximizes profits and produces where P(=MR) = MC<sub>LR</sub>
+
+In LR, break-even point and shutdown point are the same where:
+P = Min. ATC<sub>LR</sub>
+  = Min. AVC<sub>LR</sub>
+
+What happens to output if we increase all factores of production proportionately?
+*constant* returns to scale
+proportional (%) increase in all inputs leads to same % increase in output
+double inputs => output doubles
+
+*increasing* returns to scale:
+proportional (%) increase in all inputs leadst to more than % increase in output
+double inputs => output more than doubles
+
+*decreasing* returns to scale
+proportional (%) increase in all inputs leadst to less than % increase in output
+double inputs => output less than doubles
+
+**Economies of Scale**
+A long run **cost** concept
+
+Diseconomies of scale
+1. Rising LR average costs with highher output
+2. Associated with decreasing returns to scale in production
+
+Economies of Scale
+1. Falling LR average costs with higher output
+2. Associated with increasing returns to scale in production
+
+**Minimium Efficient Scale**(p. 212): The smallest scale of production to achieve minimum ATC<sub>LR</sub>
+**Set-Up Costs**: Costs necessary to setup or start production but do not vary with production levels.
+**Economies of Scope**: Where ATC declines when different goods are produced
+
+
+## L19
+Read: Ch 9 & 10
+**Implicit Cost of Capital**
+**LR and SR Cost Curves at minimum of ATC<sub>LR</sub>**
+**Entry and Exit of Firms**
+**LR Market Equilibrium**
+**Impact of Demand Increase**
+**Impact of Demand Decrease**
+
+**Implicit Cost of Capital**:  opportunity cost of financial capital invested in firm
+
+**Total Economic Cost**: sum of opportunity cost of all inputs including implicit costs
+
+*Lower case q is for output of single firm*
+
+Produce where P = MC to maximise profits
+at q\*: P = min ATC<sub>LR</sub> break even point
+Profits = {P - ATC} x q = 0
+
+
+When P = minimum of ATC<sub>LR</sub>,
+Firm earns zero economic profits or "normal economic profits", i.e. revenues cover all economic costs and provides "normal" rate of return on financial/physical capital investments.
+
+What passes through the minimum of ATC<sub>LR</sub> are the ATC<sub>SR</sub> and MC<sub>SR</sub> curves for the level of K at the minimum efficient scale.
+
+Market or industry supply is the horizontal summation of individual firm supply curves.
+
+In the LR,
+1. Firms can alter K input
+2. at the market level, the number for firms can vary
+
+When will new firms enter an industry?
+
+When existing firms receive SR profits, i.e., when P > min of ATC<sub>LR</sub>
+
+In LR, new firms *enter*:
+- increase market supply
+- drives down market price
+
+When will existing firms exit an industry?
+
+When existing firms make SR losses, i.e., when P < min of ATC<sub>LR</sub>
+
+In LR, some firms *exit*:
+- decrease market supply
+- raise market price
+
+Industry is in LR equilibrium when firms have no incentive to enter or exit, i.e., P = min of ATC<sub>LR</sub>
+
+LR Equilibrium has two desirable features:
+1. ATC<sub>LR</sub> is minimized
+- Goods are produced at lowest costs whichi is also price consumers pay
+2. Capital is allocated efficiently
+
+SR & LR Impact of a Demand Increase (p. 231)
+1. Increase in D -> market price rise
+2. -> positive SR firm profits
+3. -> firms enter in LR
+4. -> increase in market supply
+5. -> entry stops when LR industry equilibrium reached
+
+Result in LR
+1. More firms in industry
+2. LR output > SR output
+3. Price back to min ATC<sub>LR</sub> and zero economic profits
+
+SR & LR Impact of a Demand Decrease (p. 233)
+
+1. Decrease in D -> Market price falls
+2. -> negative SR firm profits
+3. -> Firms exit in LR
+4. -> decrease in market supply
+5. -> exit stops when LR Industry Equilibrium reached
+
+GRAB THE LAST PART OF THIS 
+
+## L20
+
+**LR Industry Supply Curve**
+- Constant-Cost Industry
+- External Diseconomies of Scale
+- External Economies of Scale
+**Sources of Monopoly**
+**For Monopolist: MR < P, AR = P**
+
+**Constant-cost Industry**: LR Average costs remain unchanged as industry output rises
+
+***External* diseconomies of scale**: Factors *outside* the control of a firm that *raise* its costs as industry outpet increases.
+- as industry Q increases, cost of inputs increases
+- an increasing-cost industry
+
+***External** economies of scale**: Factors *outside* the control of a firm that *lower* its costs as industry output increases
+- as industry Q increases, cost of inputs decreases
+- a decreasing-cost industry
+
+**Monopoly**: A market with a single seller of a product with no close substitutes
+**Barriers to entry**: anything that prevents firms from entering a market
+
+Sources of Monopoly or 
+Why only one seller in certain markets?
+1. economies of scale
+**natural monopoly**: a market most cheaply served by a single firm
+depends on size of market
+
+2. exclusive access to important inputs or technology
+
+3. patents
+
+4. government licenses
+
+Monopolist maximises profits and produces where MR = MC
+
+## L21
+
+Reading: chapters 10 and 11
+
+**For Monopolist: MR < P**
+**Profit-Maximizing Monopolist**
+- Output and Price Choice
+- Operates on Elastic Portion of Demand Curve
+**Inefficiency of Monopoly**
+
+Monopolist: MR = P + Q * ∆P/∆Q < P
+
+*Marginal Revenue can be negative!*
+MR < P, AR = P
+
+With linear demand, the marginal revenue curve is linear, lies below the demand curve, and is twice as as steep as the demand curve.
+
+Thinking on the Margin:
+Monopolist maximizee profit and produces where MR = MC
+1. Where MR=MC determines profit-max Q<sub>M</sub>
+2. D curve indicates price consistent with Q<sub>M</sub>
+3. ATC curve indicates ATC consistent with Q<sub>M</sub>
+4. Monopolist profits = [P<sub>M</sub> - ATC (at Q<sub>M</sub>)] x Q<sub>M</sub>
+
+Monopolist always operates on elastic portion of demand curve
+
+Monopolist producet too little. Why?
+Monopolist producer produces where MR = MC, but P > MR
+Consumers consume where MB = P, so MB = P > MR = MC
+and MB(to consumers) > MC(to producer), i.e., *not output efficient*
+From social perspective, need to produce and consume more.
+
+## L22
+Looks like this is going to be exam stuff, which is a bit lame and boring but I guess we can deal with that
+Read chapter 11
+Mean was 43, so we got one higher than average! Hooray!
+No multiple choice on final exam (O fuck (Exit Hamlet))
+Answer for ER question 2 relates to lecure 8, if you're wondering about it in the future.
+
+## L23
+Read ch. 11
+
+**Price Discrimination**
+1. First-Degree PD
+2. Second-Degree PD
+3. Third-Degree PD
+
+
+
+**Price Discrimination**: Different consumers pay different prices for same good
+
+Reasons for demand curve sloping down:
+1. people differ in their willingness-to-pay or maximum price a customer will pay to purchase one unit
+2. people may buy multiiple units but demand reflects declining marginal value for good
+**First-degree price discrimination**: selling each unit of output at a price equal to buyer's willingness-to-pay
+Demand curve is Marginal revenue curve, in this case
+With first-degree pd, monopolist output Q^d  is efficient (MB=MC and total surplus maximized) but there are equity concerns.
+
+Price discrimination or differences gives incentives for arbitrage
+**Second Degree price discrimination**: same price schedule offered to all buyers but they sort themselves through self-selection
+Monopolist knows there are diffesent types of consumers with different demand. But, for any individual conusmer, monopolist doesn't know what type he or she is. Quantity/price bundles allow cnsumers to sort/identify themselves
+**Third Degree price discrimination**: monopolist can identify separate groups of buyers of a good who differ in their demand for a good and charge different prices to these groups.
+This  maximises profits, by charging higher prices to less price-sensitive groups
+
+## L24
+
+Read ch. 11
+**Types of Market Structure**
+**Product Differentiation**
+**Monopolistic Competition**
+- *Defining Conditions*
+- *Short-Run Profits or Losses*
+- *Long-Run Equilibrium*
+**Monopolistic vs. Perfect Competition at LR Equilibrium**
+
+**Product Differentiation**: the effort by firms to produce goods that are slightly different from other types of goods.
+How are products differentiated?
+1. physical characteristics
+2. location
+3. time
+4. convenience
+
+Four conditions define a monopolistically competitive industry
+1. each firm produces a slighly differentiated product
+2. each firm faces a downward sloping demand curve
+3. free entry and exit
+4. many firms or differentiated product in industry
+MC firms can make **positive** profit if P* (AR) > ATC (at Q*), in SR
+In LR, new firms enter
+- consumers have more to choose from
+- Decrease in demand and MR for existing firms
+- Decrease in profits for existing firms
+
+MC firms cna make **negative** profit (losses)
+if P* (AR) < ATC (at Q*)
+
+In LR, firms exit
+- consumers have less to choose from
+- Increase in demand and MR for remaining firms
+- Increase in profits for remaining firms
+Long-run equilibrium when MC firms have no incentive to enter or exit (zero economic profits)
+
+**Note**: D curve is tangent to ATC curve and P* = ATC (at Q*)
+
+Two characteristics of LR equilibrium for MC industry
+1. P > MR just like moonopoly case due to downward-sloping demand
+2. P = ATC just like competitive case due to free entry and exit of firms
+Compared to perfect competition monopolistic competition leads to:
+1. Higher ATC -> output less than efficient scale
+2. P > MC -> inefficient output
+
+Is monopolistic competition bad? Hmm.
+cost: inefficient output
+benefit: product variety
+
+
+## L25
+Read ch. 11
+**Strategic Behaviour/Interaction**
+**Prisoners' Dilemma**
+**Incentives to Cooperate**
+
+Oligogoly markets have **few** competing firms. Each firm behaves strategically, i.e., recognize its actions have an effect on the actions of other firms
+Prisoners' Dilemma (not writing out the whole thing, just chucking it in here so that it's here if i need to google it for something or other)
+Player A will confess no matter what B's strategy is and oso too for B.
+"confess" is a dominant strategy.
+
+**dominant strategy**: a strategy that is the best regardless of the strategy of the other player(s)
+
+(A confess, B confess) is a pair of **Nash equilibrium strategies**, i.e., strategies which are best replies to one another. "Equilibrium" here since neither would choose an alternative strategy.
+Outcome is Pareto inefficient, i.e., both could be made better off if they both denied.
+- a coordination or cooperation problem
+- but not in their self-interest to cooperate
+
+Incentives to "cooperate": **repeated games**
+Suppose A and B are professional criminals who plan a seies of crimes, i.e., play the above game many, many times
+
+**Grim strategy**: "I will cooperate/deny until the other player/criminal defects from cooperating and confesses. Then I will always confess for all subsequent crimes."
+(A grim strategy, B grim strategy) are Nash equilibrium strategies (best replies to each other) and no one ever confesses. Now in their self-interest to "cooperate".
+
+
+## L26
+Read Chap. 13
+**Duopoly Example**
+**Comparison of Monopoly, Oligopoly, and Efficient/Competitive Outcomes**
+**Duopoly Prisoners'Dilemma**
+**Advertising Prisoners' Dilemma**
+A key feature of oligogoly: tension between cooperation and self-interest. As a group, best off cooperating and acting like a monopolist.
+**duopoly**: an oligopoly with two firms
+Efficient outcome: Max total surplus where MB = MC
+Monopoly outcome: Max profit where MR = MC
+Duopoly/oligopoly outcomes lie between monopoly and efficient/competitive outcomes
+When oligopoly fimrs decide on quantities as their strategy, as the number of firms increases:
+- Q(total oligopoly) -> Q(effic.)
+- P(oligopoly) -> P(effic)
+- P(total oligopoly) -> Profit(effic)
+i.e. approach perfectly competitive outcomes as more firms "compete"
+Produce a small output and charge P > MC
+But self-interest leads each firm not to cooperate.
+
+## L27
+
+Read chapters 16 and 14
+**Labour Demand ( L^D ) **
+**Labour Supply ( L^S ) **
+**Union-Nonunion Wage Differentials**
+
+For Labour Market, y-axis = wage rate, x-axis=labour. Labour supply curve = supply curve, labour demand = demand
+Labour demand is a derived demand.
+**marginal product of labour (MP<sub>L</sub>)**: additional output from additional (or last unit of) labour
+As Labour increases, MP<sub>L</sub> decreases, i.e. diminishing returns to labour
+**marginal revenue product of labour (MRP<sub>L</sub>)**: additional revenue form additonal (or last unit of) labour
+demand for labour:
+	employer thinks on the margin
+		MB = MC (for employer)
+		MRP<sub>L</sub> = w (wage rate)
+
+L^D is downward-sloping duse to diminishing MP<sub>L</sub>
+Input demand is linked to ouptup supply
+
+(Some stuff from L16, the changing formula thingies)
+
+which leads to MC = w/MP<sub>L</sub>
+
+Output supply: produce where P (=MR) = MC
+so P = w/MP<sub>L</sub>
+or P x MP<sub>L</sub> = w
+which is a the labour demand condition!
+Labour Supply ( L^S )
+
+Time allocation decision:
+allocate 24 hours in a day either in
+"labour"  market work
+"leisure" non-market work (housework, child care, schooling, etc.) play, sleep
+i.e. supply labour or demand leisure
+
+Wage rate is the price of labour or the opportunity cost of leisure or not working.
+
+What happens to L^S when wage rate increases?
+2 competing effects
+- substitution effect -> L^S increases
+- income effect -> L^S decreases
+
+## L28
+Read chapters 14 and 16
+
+**Demand for Physical Capital ( K^D )**
+**Implicit Rental Price**
+**Physical Capital and Financial Capital**
+**Present Discounted Value**
+
+Physical capital for an airline service: planes, trucks for baggage, terminals, shit like that
+
+Demand for capital is a derived demand.
+
+**marginal product of capital (MP<sub>K</sub>)**: additonal output from additional (or last unit of) capital
+as K increases, MP<sub>K</sub>, i.e. diminishing returns to capital
+
+**marginal revenue product of capital (MRP<sub>K</sub>)**: additional revenue from additonal (or last unit of) capital
+MRP<sub>K</sub> = P x MP<sub>K</sub>
+
+Demand for capital:
+Producer thinks on the margin
+MB = MC for firm
+MRP<sub>K</sub> = r (rental price)
+
+K^D is a downward-sloping due to diminishing MP<sub>K</sub>
+
+If a firm purchases capital, there is an *implicit* rental price
+Implicit cost of capital is the opportunity cost of financial capital invested in firm
+
+implicit rental rate = (dep cost/price of capital) + (interest cost/price of capital)
+
+implicit rental price = depreciation cost  + interest cost
+
+If interest rate increases: 
+- implicit rental rate increases
+- quantity of capital demanded decreases
+
+Via capital markets, firms obtain *financial* capital to buy *physical* capital
+Finance with:
+- equity: issue stocks or shares
+- debt: issue corporate bonds, take out bank loan
+
+return on shares = dividend + capital gain(loss)
+capital gain/loss: change in share price from purchase
+
+rate of return on stock: return on stock / share price
+
+Present Discounted Value (ch. 16 appendix)
+Present value from finance
+
+## L29
+Readings chapter 14
+
+**Risk vs Expected Return**
+**Efficient Market Hypothesis**
+**Individual Income Tax and Labour Market**
+**Tax Rated and Tax Revenues**
+Expected returns on financial assets vary with the amount of risk
+Risk-averse investors who take on more risk must be compensrated with a higher expected return
+**efficient market hypothesis**: theory that current stock price reflects all relevant information about current and future earnings prospcets
+*or* elimination of profit opportunities in financial markets as share prices adjust quickly to new information
+
+**Average and Marginal Tax Rate**
+
+**progressive tax**: as income rises, tax paid as a proportion of income rises, i.e., average tax rate increases
+**excise tax**: tax on a good or service
+
+P<sub>b</sub> = prive buyers pay
+P<sub>s</sub> = price sellers receive
+P<sub>b</sub> > P<sub>s</sub> due to tax
+
+Analogy for individual income tax
+w<sub>b</sub> = gross wage employers (buyers of labour) pay
+w<sub>s</sub> = after-tax wage workers (sellers of labour) receive
+w<sub>b</sub> > w<sub>s</sub> due to income tax
+Similar to unit excise tax (L15)
+Maginitude of tax impact depends on
+1. size of tax
+2. elasticities of L^S and L^d
+
+L15: Deadweigh loss of tax is bigger when tax t is larger
+as tax t increases, quantity of labour demanded decreases and larger DW loss triangle (more inefficient)
+
+
+## L31
+read chapter 15
+
+**Externalities**
+- Negative Externalities
+- Positive Externalities
+
+**Internalizing the Externality**
+- Mergers
+- Pigouvian Taxes or Subsidies
+
+**externality**: impact of one agent's actions on the well-being of a bystander
+**negative externality**: an externality which has an adverse impact
+
+Market outcome where MB = Private MC
+Efficient outcomes where MB = Private MC + Marginal External Cost = Social MC
+Problem (for this example of the steel factory and the downrivery fishery) missing market for clean water
+
+**positive externality**: an externality which has a beneficial impact
+
+example of PE: repairs I make to my house (an eyesore) provide benefits to my neighbours
+For this house, would choose level of repair where MC = Private MB
+Efficient repair level where MC = Private MB + Marginal External Benefit = Social MB
+Problem: missing market for homerepairs by other homeowners
+Remedy: internalize the externality by: 
+1. mergers
+2. Pigouvian tax or subsidy
+
+## L32
+**Coase Theorem**
+
+**Simple Pollution Example**
+**Assignment of Progerty Rights**
+- Right to Pollute
+- Right to Clean Water
+**Discussion of Coase Theorem**
+- Significance
+- Limitations / Complications
+
+**Pigouvian emissions tax**: Levy unit tax on polluter equal to Marginal External cCost t the efficient output level
+
+Issues with tax:
+1. informational problem
+2. ignores **reciprocal nature** of externalities
+
+Othere remedies for externalities 
+1. command and control regulations
+2. tradable permits
+
+**Coase theorem**: When parties can bargain costlessly, they will bargain and achieve the efficient outcome, regardless of how property rights are assigned.
+**property rights**: legal rules describing what parties can do with their property
+
+Efficient outcome reached no matter who is arssigned property rights
+Distribution of income is affected, however
+Bargaining assumed to be costless
+
+**Limitations/Complications**
+Bargaining costs
+Large number of affected parties
+- raises bargaining cost
+- more severe free rider problem
+Asymmetric information as barrier to efficient bargaining
+
+## L33
+read chapter 15
+
+**Rival Goods and Excludable Goods**
+**Private Goods, Public Goods, and Common Resources**
+**Public Goods**
+- Efficient Provision
+- Market Failure
+
+A good is **rival** if consumption of that good makes less of that good available for another person
+A **nonrival** good is not rival
+A good is **excludable** if it is possible to prevent a person from using that good
+A good is **nonexcludable** if it is *not* possible to prevent a peron from using that good
+**Private goods** are both excludable and rival
+**Public goods** are neither excludable nor rival
+**Common resources** are rival but not excludable
+For private goods, market demand is the horizzontal summation of individual demand curves
+Efficient provisiont where MB = MC
+MB of public good = summ of MB to all consumers of that good
+determine by *vertical* summation of individual demand curves
+
+## L34
+
+Read chapter 29 "International Traed", esp. pp. 738-752. See wattles coures page for hyperlink to ANU Library record
+Review lecture 3, absolute and comparative advantage
+
+**Common Resources**
+**Tragedy of the Commons**
+**Potential Solutions**
+**Other Examples**
+
+From last week's one: w<sub>s</sub> = post-tax/transfer change in total income (I) for each additional hour of work (H) = ∆I / ∆H
+w|s| = w|b| (1 - e), where e = **effective** "tax" rate
+
+**common resources**: goods that are rival but nonexcludable
+Linked to absence of **private** property assignment for a common property resource
+
+**Tragedy of the Commons**: overuse of common resources that creates undesirable outcomes for society
+anyone can graze sheep on common - nonexcludable
+As town grofs, more people and more shepp but given firexd amount of land, therefore grazing land per sheep decreases9
+Overgrazing occurs
+Consumption rivalry
+Land becomes barren and sheep raising collapses
+
+Efficient grazing where Social MC = MB
+Private MC =/= Social MC due to marginal external cost
+
+*Potential Solutions*
+1. Quantity Regulation
+Restrict the # of sheep grazing in total or per farmer
+
+2. Tax
+Apply a Pigouvian tax or access fee to common resource,i.e., internalize the externality
+
+3. Convert Common proprty resource to private property
+
+**Other examples**
+- overfishing in the ocean
+- use of clean air and water
+- congested (non-toll) roads
+- oil extraction by several companies or natiions from a common oilfield pool
+
+
+## L35
+
+## L36
+
+**World Production Possibilities Curve**
+**Wage Costs and Trade**
+**Reasons for Comparative Advantage**
+**Arguments for International Trade**
+**Intra-Industry Trade**
+
+Read ch. 9 pp. 191-199, see WATTLE for this shit
+
+A high productivity country can compete and pay higher wages
+Wage differneces only limited by labour productivity differences
+
+**Reasons for Comparative Advantage**
+
+1. Climate: impact on agricultural production, tourism services
+2. Natural Resources: oil from OPEC countries, gold mining in Australia, not Japan
+3. Technology/Know How/Human Capital. e.g. growth of Australian wine production and exports, Australia is a major manufacturer of high-speed ferries
+4. Capital-Labour Ratios: Capital abundant U.S. and Europe produces Boeing and Airbus planes (capital intensive production)
+
+Labour abundant China produce toys and clothing ( labour intensive production)
+
+**dynamic comparative advantage**: comparative advantage changes over time due to investment in physical and human capital and in technology
+
+**Economic Arguments for International Trade**
+
+1. voluntary exchange is mutually advantageous
+2. comparative advantage and specialisation
+3. exploit economies of scale
+4. benefits of increased competition
+
+**Intra-industry trade**: occurs when countries both import and export goods in the same industry
+Why?
+
+1. diversity of tastes
+2. economies of scale
+3. countered by transportation costs
+
+## L37
+
+**Market Equilibrium w/o Trade**
+**Welfare Impact on Exporting Country**
+**Welfare Impact on Importing Country**
+**Why Opposition to Trade?**
+
+Remember that **Consumer Surplus** = value to consumers - consumer expenditure
+and that **Producer Surplus** = producer revenues - producer costs
+
+**World Price**: price of a good determined by global market
+
+Australia is a **small economy** relative to the world market, i.e., Australian S and D for a good has little or no impact on world price. Australia is a price taker.
+
+If world price > domestic price (before trade), then export the good
+'
+if world price increases, domestic demand decreases and domestic supply increases
+
+**Exports** = domestic Q^S - domestic Q^D
+
+|--|--|--|--|--:|
+|| Before Trade | After Trade | Change |
+| Consumer Surplus | A + B | A | -B |
+| Producer Surplus | C | B + C + D | + B + D |
+| Total Surplus | A + B + C | A + B + C + D | + D |
+
+Domestic consumers pay more, consume less, and are worse off (lose B)
+Domestic producers charge more, produce more, and are better off (gain B + D)
+Total Surplus rises by D as producer gains outweigh consumer losses
+
+**Importing Country**
+
+If world price < domestic price (before trade), then import good
+Because other countries have a comparative advantage in production of that good
+
+If world price decreases, then domestic demand increases and domestic supply decreases
+imports = domestic Q^D - domestic Q^S
+
+|--|--|--|--|--:|
+|| Before Trade | After Trade | Change |
+| Consumer Surplus | A + B | A + B + D  | + B + D  |
+| Producer Surplus | B + C | C | -B |
+| Total Surplus | A + B + C | A + B + C + D | + D |
+
+Domestic consumers pay less, consume more, and are better off (gain B+D)
+Domestic producers charge less, produce less and are worse  off (lose B)
+Total surplus rises by D as consumer gains outweigh producer losses
+
+**Reasons for opposition to trade**
+1. gains large but dispersed among many, many consumers
+2. losses smaller but concentrated among smaller number of producers and their
+workers => leads to more concentrated and vociferous opposition
+
+
+## L38
+
+**FINAL EXAM**: 10 short questions, answer 2 of 3 long, multi-part questions.
+Similar in nature to tutorial questions, but probs harder i would imagine
+
+**Arguments for Trade Barriers**
+**Some Final "Lessons"**
+
+**Arguments for Trade Barrirs**
+1. **Thwart Cheap Foreign Labour**
+*Counter argument*: ignores gains from trade linked to a country's comparative advantage
+
+Foreign labour may be cheaper per unit of labour but not per unit of output, i.e., unit labour costs
+
+2. **Infant Industry Argument**
+Young or infant industries need to be protected until they can compete with more experienced producers
+*Counter*: Infant industries often never grow up if sheltered from competition
+
+3. **National Security Argument**
+Protect industries that produce strategic materials
+*Counter*: other means to achieve strategic objective (ex. stockpile material)
+
+4. **Retaliation Argument**
+Example: U.S. places tariff on Australian lamb, Australia threatens or retaliates by placing tariff on U.S. agricultural goods
+*Problem*: Harms AUS consumers, threatens a trade war or further retaliation
+
+5. **Redistribution Argument**
+For equity or politcal reasons, protect Australian workers in threatened industries
+*Counter*: use production subsidies, not tariffs or quotas
+*Long Run consideration*: why not retain workers in industries which can no longer compete?
+
+6. **Environmental or Labour Standard Argument**
+Restrict import from (usually poor) countries withe weak environmental and labour standards
+*Counter*: weak standards linked to economic poverty, trade helps economic development
+
+7. **Foreign Subsidies Argument**
+If foreign govt. subsidize their industry, so should we
+*Counter*: hy not simply enjoy the benefits (subsidy) provided by another country?
+AUS subsidy needs to be paid by AUS taxpayers

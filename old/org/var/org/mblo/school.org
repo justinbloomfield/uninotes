@@ -1,0 +1,10 @@
+* TODO finish the year 
+  SCHEDULED: <2016-11-15 Tue 13:00>
+  :PROPERTIES:
+  :ID:       f9172745-ce32-4678-9f63-d7ae1163d653
+  :END:
+* TODO MATH1113 exam haha kill me.  
+  SCHEDULED: <2016-11-15 Tue 08:30>
+  :PROPERTIES:
+  :ID:       bed3feec-d4bb-4e01-b03f-048636287cff
+  :END:

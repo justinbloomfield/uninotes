@@ -1,0 +1,10 @@
+#+READONLY
+#+TODO: TODO DONE
+#+TODO:  | DONE
+#+TAGS: 
+#+DRAWERS: PROPERTIES CLOCK LOGBOOK RESULTS
+#+ALLPRIORITIES: A B C
+* [[file:agendas.org][Agenda Views]]
+* [[file:adulting.org][adulting.org]]
+* [[file:home.org][home.org]]
+* [[file:school.org][school.org]]
