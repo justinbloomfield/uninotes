@@ -13,7 +13,40 @@
 ** L1
    
 Read 1.1-1.3 of Stewart calculus textbook by next week (probs need to pick it up)
- 
+
+** L2
+Calculus Course Outline available in the book i think
+Consultation hours for David are after lecture on Monday 3-4pm JD2146
+Don't forgot to read Stewart 1.1-1.3 by Monday
+
+  _Functions_
+For this course, only using real numbers for inputs and outputs
+
+To specify a function:
+- a rule
+- a set of possible inputs (known as the _domain_)
+  
+Domain notation:
+- \real - real numbers
+- (a,b) = {x \elem \real:a<x<b}
+- [a,b] ={x \elem \real:a=<x=<b}
+- N = {0,1,2,3,...}
+- Z = {...,-3,-2,-1,0,1,2,3,...}
+- Q = { $\frac{a}{b}$: a,b are integers}
+  
+  _Examples of Functions_
+f(x)=x^3 on [0,\infin)
+
+f(x)=x+1 on N
+
+f(x)=$\frac{1}{x^^{}2}$ on [-1,0)\cup(0,1]
 
    
-   
+_Maximal Domain of a Function_: the largest set of real numbers on which the function can be defined 
+
+3 points to remember:
+- Can't divide by zero
+- Can't take the root of -ve numbers
+- Can't log -ve numbers
+
+_Range of a Function_: the set of all output values on the domain
