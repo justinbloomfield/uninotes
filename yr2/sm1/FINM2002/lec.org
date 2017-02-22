@@ -1,0 +1,33 @@
+* FINM2002: DERIVATIVES
+  _Course Info_
+- 6 tutorial quizzes, best 5 of 6 - dates visible on course outline - 15%
+- Assignment - group of 5 (fak) - can do through wattle - 25%
+- Final exam - 60%
+* WK1
+** L1
+   _Course Overview_
+   
+
+*Derivative*: an instrument whose value depends on the value of other, more basic underlying variables.
+Examples are:
+- forwards (Remember: less standardized, traded on an exchange)
+- futures (Remember: the more standardized ones, traded on an exchange)
+- options contracts
+
+Derivatives can be used to:
+- hedge risks
+- speculate (take a view on the future direction of the market)
+- lock in an abitrage profit
+- change the nature of liability
+
+Futures terminology:  
+- *Open interest*: the toal number of contracts outsanding
+- *Settlement Price*: the price just before hte final bell each day
+- *Volume of trading*: the number of trades in 1 day
+  
+*Call = Buy*, *Put = Sell*
+
+Types of options:
+- *American*: exercisable whenever up to delivery date
+- *European*: exercisable only on the expiry date
+

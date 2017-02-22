@@ -1,0 +1,40 @@
+* STAT2032
+  Consultation hours Wed 10-12 _or_ by appointment
+  - Mid sem - 20%
+  - Online quizzes - 0%
+  - Assignment - 10%
+  - Final exam - 70%
+  No text book needed!!!
+* W1
+** L1 
+ _Cash Flows_
+Uncertainties:
+- Time
+- Frequency
+- Severity
+
+Assumptions: 
+- Cash flows = certain
+- Interest rate = certain
+  
+Value of cFs (Asset):
+$\mbox{Value of Asset } (t) = Vt(cF_t,cF_{t+1},...,cF_{t+n})$
+
+
+Types of interest rates:
+1. effective interest rate
+2. simple interest
+3. compound interest
+   
+*Effective interest rate*: $r_{e} = \frac{s(u+1)-s(u)}{s(u)}$
+
+*Simple interest rate*: $s(T)=s(0)(1+Ti)$
+
+*Compound interest rate*: $s(T)=s(0)(1+T)^{T}$
+
+*Accumulation Factor*: $A(t_1,t_2)=\frac{s(t_{2})}{s(t_{1})}$
+** L2
+   
+** L3
+
+** L4

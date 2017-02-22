@@ -1,0 +1,14 @@
+* STAT2008: Regression Modelling
+* WK1
+** L1
+   
+Characteristics of variables:
+- level of measurement
+- nominal - named categories
+- ordinal - ordered categories
+- interval
+- ratio
+
+Nominal and ordinal are discrete, ratios are continuous, and intervals use interval measurement
+# You know what these are, you don't need to go through those again
+
