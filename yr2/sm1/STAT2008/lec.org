@@ -12,3 +12,46 @@ Characteristics of variables:
 Nominal and ordinal are discrete, ratios are continuous, and intervals use interval measurement
 # You know what these are, you don't need to go through those again
 
+** L2
+*** Notation
+Population: 
+- random variables: X, Y, Y_1, Y_2, X_2
+- paramters: \mu, \epsilon, \pi
+
+Sample (observations/measurements):
+- sample instances of random variables: x, y, y_1, x_1 
+
+FOR THE EXAMPLE IN THE LECTURE
+
+Data: (x_i,y_i) | i=1,2,3,...,n n=138
+
+sample mean of y = $\frac{y_{1}+y_{2}+...+y_{n}}{n}$, or in more compact form:  $y\bar = \frac{\sum^{n}^{}_{}_{i=1}y_{i}}{n}$
+
+
+sample variance of y: \Delta^{2}y or s^{2}y = $\frac{S_{y}_{y}}{n-1}$ | n-1 = degrees of freedom = $$\frac{1}{n-1}\sum_{{i=1}}^{n}(y_{i}-\bar{\mbox{y}})^{2}$$
+
+unbiased point estimate of \delta^{2}y (population variance)
+
+/we could do the same for x/
+
+*** Central Limit Theorem
+If we are sampling from a population with mean \mu y, and variance \delta^{2}y, then as n -> \infin the sampling distribution of the mean will approach: 
+$$ N(y\mu,\frac{\delta^{2}^{}y}{n})$$
+
+standard deviation of the sampling distribution is $\frac{y\delta}{\sqrt{n}}$
+
+   _Confidence Intervals_
+
+A 100(1-\alpha)% CI for y\mu in:
+$\bar{\mbox{y}} \plusmn Z_{{\alpha/2}} . \frac{y\delta}{\sqrt{n}}$
+
+1. point estimate
+2. critical value from a standard distribution (model)
+3. standard error
+
+2 & 3 are the margin of error
+
+But, in practise, we don't (usually) know \delta\mbox{y}! We estimate \delta\mbox{y} using \Delta\mbox{y} (the sample standard deviation)
+
+** L3
+
