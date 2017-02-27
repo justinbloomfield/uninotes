@@ -1,3 +1,4 @@
+#+LATEX_HEADER: \usepackage{amsmath,cancel}
 * MATH1013
 ** COURSE INFO
 - Tutorial quizzes (best 8 of 10) - 10%
@@ -75,3 +76,29 @@ Inconsistent:
 _Interpolation_
 
 Fitting a function to something
+
+* WK2
+ Drop-in sessions will start this week
+ Sections 1.4-1.6 calc (get the textbook you fuck)
+** L1
+*** Limits
+_Definition_: Suppose $f(x)$ is defined on some open interval containing $a$, except possibly at $a$ itself. Then we say $$\lim_{x \rightarrow a}f(x)=L$$ if we can make $f(x)$ arbitrarily close to $L$ by taking $x$ sufficiently close to $a$.
+
+_Ex._: $\lim_{x \rightarrow a}x^{2}=1$
+
+_Reminder_: $f(a)$ has nothing to do with $\lim_{x \rightarrow a}f(x)$
+    
+_Ex._: \[g(x) = \begin{cases}
+x^{2} & x \neq 1 \\
+21 & x=1
+\end{cases}, \mbox{ } lim_{x \rightarrow 1}g(x)=1_{}\]
+
+_Proposition_: suppose $f(x),g(x)$ are defined near $a$ but possibly not at $a$ itself. If $f(x)=g(x)$ for all $x$ near $a$, then $$\lim_{x \rightarrow a}f(x)=\lim_{x \rightarrow a}g(x)$$  
+
+_Ex._: $$\lim_{x \rightarrow 2}\frac{x^{2}-4}{x-2}$$
+- factorise numerator, can see $(x+2)$ remains post-cancel
+- observe that $\frac{x^{2}-4}{x-2} = x+2 \mbox{ when } x\ne0$
+
+$$\lim_{x \rightarrow 2}\frac{x^{2}-4}{x-2}=\lim_{x\rightarrow2}x+2$$
+$$\therefore\lim_{x \rightarrow 2}\frac{x^{2}-4}{x-2}=4$$
+
