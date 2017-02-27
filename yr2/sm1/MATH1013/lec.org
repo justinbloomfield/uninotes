@@ -75,3 +75,15 @@ Inconsistent:
 _Interpolation_
 
 Fitting a function to something
+
+* WK2
+** L1
+*** Limits
+
+*Definition*: suppose $f(x)$ is defined on some open interval containing $a$, except possibly at $a$ itself. Then we say $$\lim_{x->a}f(x)=L$$ if we can make $f(x)$ arbitrarily close to $L$ by taking $x$ sufficiently close to $a$
+
+_Ex_: $\lim_{x->a}_{}x^{2}=1$
+
+_Reminder_: $f(a)$ has nothing to with $\lim_{x->a}f(x)$
+
+
