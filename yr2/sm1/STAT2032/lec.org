@@ -80,6 +80,16 @@ $(1+i)^{Ni}=(1+j)^{Nj}$
 
 $j=(1+1\%)\frac{12}{52}-1$
 $i=(1+12\%)\frac{52}{12}-1$
-** L3
+* W2
+** L1
+*** _Nominal Rates of Interest_
+1. effective interest rates
 
-** L4
+ Nominal interst rates per annum, convertible $m$ times a year
+
+ effective interest rate = $\frac{i^{m}}{m}$
+
+ nominal interest rate = $\frac{i^{m}}{m} * m$ = $i^{m}$
+    
+
+
