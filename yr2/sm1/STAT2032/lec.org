@@ -71,7 +71,7 @@ $X(1+6\%)^{3}(1+7\%)^{7}=ANSWER$
 | daily      |                          365 |
 
 CONVERTING BETWEEN DIFFERENT FREQUENCIES:
-e.g. $100(1+i)^{12}=112 -> \mbox{rearrange to get} i=0.8\mbox{something}$
+e.g. $100(1+i)^{12}=112 \rightarrow \mbox{ rearrange to get } i=0.8\mbox{ something }$
 
 _equivalent_ effective interest rate $j$ (monthly) to an effective interest rate $i$ (annual)    
 compounding periods of $j$ > compounding periods of $i$
