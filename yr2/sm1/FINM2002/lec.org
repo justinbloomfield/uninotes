@@ -44,7 +44,7 @@ We can use *arbitrage arguments* to determine the forward and futures prices of 
 
 *** Short Selling
 
-ALso known as shorting, involves selling an asset that is not owned
+Also known as shorting, involves selling an asset that is not owned
 
 - Not possible for all investment assets
 - broker borrows the securites from another client and sells them in the market in the usual way
@@ -89,60 +89,110 @@ If $F_{0}>S_{0}e^{rT}$ arbitrageurs can make a riskless profit by shorting the a
 *** Forward and Futures contract Prices on Assets with Known Income
 $$F_{0}=(S_{0}-D)e^{rT}$$
 
-*** Put the formulae in here tonight, there's a fucktonne of them
+*** Forward and Futures Contract Prices on Stock Indices
+$$F_{0}=S_{0}e^{(r-d)T}$$
 
 /For stock indices in Australia, the convention is $25 per point/
 
-*/Amount = base, Yield/Percentage = superscript/*
+**/Amount = base, Yield/Percentage = superscript/**
 
+*** Futures and Forwards on Currencies
+The underlying asset in a forward or futures currency contract is a certain number of units of a foreign currency. A foreign currency is analogous to a security providing a dividend yield. Holder of the currency can earn interest at the risk-free interest rate prevailing in the foreign country. E.g. the holder can invest the foreign currency in a foreign-denominated bond
+\therefore continuous dividend yield = foreign risk-free interest rate
+
+$$F_{0}=S_{0}e^{(r-r_{f})T}$$
 
 *** Futures and Forwards on Commodities
-    
+In the absence of storage costs and income the forward price of a commodity that is an investment asset is given by:
+$$F_{0}=(S_{0}-D)e^{rT}$$
+
+If there are storage costs, $Q$ is the present value of all of the storage costs less all income during the life of the forward contract, and the forward price is given by:
+$$F_{0}=(S_{0}_{}_{}+Q)e^{rT}$$
+
+If storage costs and income are given as a percentage, then $q$ is the percentage storage costs less the percentage income during the life of the forward contract, and the forward price is given by:
+$$F_{0}=S_{0}e^{(r-q)T}$$
+ 
+**** Consumption Commodities
+- Commodities that are consumption assets rather than investment assets usually provide no income, but can be subject to significant storage costs.
+- Individuals and companies who keep such a commodity in inventory do so because of its consumption value, not because of its value as in investment. As a result:
+  - Due to the high storage costs of consumption commodities, $Q$ is the present value of all of the storage costs, and the forward prices is given by: $$F_{0}\le(S_{0}+Q)e^{rT}$$
+  - If storage costs are expressed as a proportion $q$ of the spot price, the equivalent formula is: $$F_{0}\le S_{0}e^{(r-q)T}$$ 
+
 *** Valuing Forward Contracts
-The value of a forward contract at the time it is first entered into is zero. At a later stage it may prove to have a positive or negative value
+The value of a forward contract at the time it is first entered into is zero. At a later stage it may prove to have a positive or negative value. Suppose that:
+- $K$ is delivery price in forward contract
+- $F$ is the current forward price for the contract that was negotiated some time ago
+- The delivery date is $T$ years from today
+- $r$ is the $T$-year risk-free interest rate
+- $f$ is the value of the forward contract today
+
+The value of a long forward contract (on both types of consumption assets) is: $$f=(F-K)e^{-rT}$$
+
+Similarly, the value of a short forward contract is: $$f=(K-F)e^{-rT}$$
 
 *** Forward vs Futures Prices
 Forwards and futures prices are usually assumed to be the same. When interest rates are uncertain, they are, in theory, slightly different:
-- A string positive correlation between interest rates and the asset price implies thefutures price is slightly higer than the forward price.
+- A string positive correlation between interest rates and the asset price implies the futures price is slightly higher than the forward price.
   - due to the person in the long position in a futures contract receiving an immediate gain because of daily settlement
   - the positive correlation indicates that interest rates are also likely to have risen, therefore the gain will be invested at a higher than average interest rate
 - A strong negative correlation implies the reverse
 
-  
 *** Delivery
-In a futures contract, the party in th short position has the right to choose to deliver the asset at any time during a certain period (called the delivery period)
+In a futures contract, the party in the short position has the right to choose to deliver the asset at any time during a certain period (called the delivery period)
 
-The person in the short position has to give at least a few day notice of hteir intention to deliver
+The person in the short position has to give at least a few day notice of their intention to deliver
 
-*** Hedging
-rguments in favour of hedging inclued:
-(place args here)
+*** Hedging Strategies Using Futures
+    
+A *short hedge* is a hedge which involves a short position in futures contracts.
+- Appropriate when the hedger already owns an asset and expects to sell it at some time in the future
+
+A *long hedge* involves taking a long position in futures contracts.
+- Appropriate when a company knows it will have to purchase a certain asset in the future and wants to lock in the price now
+
+Arguments in favour of hedging include:
+- Companies should focus on the main business they are in and take steps to minimize risks arising from interest rates, exchange rates, and other market variables
+- By hedging, they avoid adverse movements such as sharp rises in the price of a commodity
 
 Arguments against hedging include:
 - Shareholders are usually well diversified and can make their own hedging decisions
 - It may increase risk to hedge when competitors do not
-(more to go in here)
+- Explaining a situation where there is a loss on the hedge and a gain on the underlying can be difficult
 
 *** Basis Risk
-Hedgers are not always perfect and straightforward. Some of the reasons for this are:
-- The asset whose price is to be hedged may not be exxactly the same as the asset undrlying the futures contract
+Hedges are not always perfect and straightforward. Some of the reasons for this are:
+- The asset whose price is to be hedged may not be exactly the same as the asset underlying the futures contract
 - The hedger may not be certain of the exact date the asset will be bought or sold
 - The hedge may require the futures contract to be closed out before its delivery month
 
 What is basis risk:
-- If the asset to be hedged 
+- If the asset to be hedged and the asset underlying the futures contract are the same, the basis risk should be zero at the expiration of the futures contract
+- Prior to expiration, the basis may be positive or negative
+- When the spot price increases by more than the futures price, the basis increases. We call this strengthening of the basis.
+- When the futures price increases by more than the spot price, the basis declines. We call this weakening of the basis
+
+*Basis = Spot price of asset to hedged - Futures price of contract used*
   
 Basis risk with a long hedge:
 - Suppose that:
-  - 
-  - 
-  -
+  - $F_{1}$: Initial Futures Price
+  - $F_{2}_{}$: Final Futures Price
+  - $F_{3}_{}$: Final Asset Price
 - You hedge the future purchase o an asset by entering into a long futures contract
--  Cost of Asset = $S_{2}-(F_{2}-F_{1})=F_{1}+\mbox{ Basis}$ 
+- Cost of Asset = $S_{2}-(F_{2}-F_{1})=F_{1}+\mbox{ Basis}$ \\
+
+
+Basis risk with a short hedge:
+- Suppose that:
+  - $F_{1}$: Initial Futures Price
+  - $F_{2}_{}$: Final Futures Price
+  - $F_{3}_{}$: Final Asset Price
+- You hedge the future sale of an asset by entering into a short futures contract
+- Price Realised = $S_{2}+(F_{1}-F_{2})=F_{1}+\mbox{ Basis}$
 
 One key factor affecting basis risk is the choice of the futures contract to bu used for hedging. 
-- Choos ea deliver month that is as close as possible to, but later than, the end of the life of the hedge
-- When there is no futures contract on the asset being hedged, choose the contract whose futures price is most highly correlated with the .......
+- Choose a deliver month that is as close as possible to, but later than, the end of the life of the hedge
+- When there is no futures contract on the asset being hedged, choose the contract whose futures price is most highly correlated with the asset price
 
 *** Cross Hedging
 
@@ -155,8 +205,18 @@ Hedge ratio is the ratio of the size of the position taken in futures contracts 
 $$h=\rho\frac{\sigma_{S}_{}}{\sigma_{F}}$$
 
 Where:
-- \sigma_s is the standard deviation of $\delta S$, the c.......
+- \sigma_s is the standard deviation of $\delta S$, the change in the spot price during the hedging period
+- \sigma_F is the standard deviation of $\delta F$, the change in the futures price during the hedging period
+- \rho is the coefficient of correlation between $\delta S$ and $\delta F$
 
 *** Hedging using Index Futures
     
 $$ \beta\frac{P}{A}$$
+
+- $P$ is the value of the portfolio
+- $\beta$ is its beta
+- $A$ is the value of the assets underlying one futures contract
+  
+Reasons for using index futures to hedge:
+- Desire to be out of the market for a short period of time
+- Desire to hedge systematic risk
