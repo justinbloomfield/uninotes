@@ -31,3 +31,132 @@ Types of options:
 - *American*: exercisable whenever up to delivery date
 - *European*: exercisable only on the expiry date
 
+* WK2
+** _Forwards and Futures_
+
+*** Consumption vs. Investment Assets
+
+When considering forward and futures contracts, it is important to distinguish betweeen *investment assets* and *consumption assets*
+- investment assests are assests held by significant numbers of pepole purely for investment purposes (e.g. stock, bonds, gold and silver)
+- consumption assets are assets held primarily for consumption and not usually fro investment purposes (e.g. copper, oil, pork bellies??)
+  
+We can use *arbitrage arguments* to determine the forward and futures prices of an investment asset from its spot price and other observable market variables. We are /not/ able to do this for consumption assets
+
+*** Short Selling
+
+ALso known as shorting, involves selling an asset that is not owned
+
+- Not possible for all investment assets
+- broker borrows the securites from another client and sells them in the market in the usual way
+- at some stage you must buy the securities back so they can be replaced in the account of the client you originally borrowed them from
+- must pay dividends and other benefits to the client you borrowed from.
+- client can be no better off, i.e. if you borrow a physical asset, client must pay you for the storage costs of the gold
+- investor benefits if prices fall, as they sell the asset for a higher price
+  
+Investor is required to maintain a margin account with the broker
+
+In Australia, only a limited number of stocks are allowed to be short sold, called the ASX Approved Securities List
+
+*** Measuring interest rates
+page 84 of textbook will help, also stuff from STAT2032
+
+*** Assumptions
+Assumptions regarding market participants:
+1. no transaction costs when trading
+2. subject to same tax rate on all net trading profits
+3. can borrow money at the same risk-free rate of interst as they can lend money
+4. take advantage of arbitrage opportunities as they occur
+   
+*** Forward and Futures Contract Prices
+Remember that forward and futures contracts can be valued by recognizing that, in many cases, forward and futures markets are redundant. This occurs when the payoff from a forward or futures contract can be replicated by a position in:
+1. the underlying asset, and
+2. riskless bonds
+   
+
+   _**Arbitrage relationship between spot and forward contracts**_
+| Position                       | Initial Cash flow | Terminal Cash Flow |
+|--------------------------------+-------------------+--------------------|
+| borrow and incur cost of carry | S_0               | -S_{0}e^{rT}         |
+| buy one unit of commodity      | -S_0              | S_T                |
+| enter 6-month forward sale     | 0                 | F-S_t              |
+| Net portfolio value            | 0                 | F-S_{0}e^{rT}        |
+# weird how org doesn't handle that table too well, wonder why?
+
+In general, if $F_{0}>S_{0}e^{rT}$, arbitrageurs can make a riskless profit from buying the asset and entering into a short forward contract on the asset. \\
+
+If $F_{0}>S_{0}e^{rT}$ arbitrageurs can make a riskless profit by shorting the asset and entering into a long forward contract. 
+
+*** Forward and Futures contract Prices on Assets with Known Income
+$$F_{0}=(S_{0}-D)e^{rT}$$
+
+*** Put the formulae in here tonight, there's a fucktonne of them
+
+/For stock indices in Australia, the convention is $25 per point/
+
+*/Amount = base, Yield/Percentage = superscript/*
+
+
+*** Futures and Forwards on Commodities
+    
+*** Valuing Forward Contracts
+The value of a forward contract at the time it is first entered into is zero. At a later stage it may prove to have a positive or negative value
+
+*** Forward vs Futures Prices
+Forwards and futures prices are usually assumed to be the same. When interest rates are uncertain, they are, in theory, slightly different:
+- A string positive correlation between interest rates and the asset price implies thefutures price is slightly higer than the forward price.
+  - due to the person in the long position in a futures contract receiving an immediate gain because of daily settlement
+  - the positive correlation indicates that interest rates are also likely to have risen, therefore the gain will be invested at a higher than average interest rate
+- A strong negative correlation implies the reverse
+
+  
+*** Delivery
+In a futures contract, the party in th short position has the right to choose to deliver the asset at any time during a certain period (called the delivery period)
+
+The person in the short position has to give at least a few day notice of hteir intention to deliver
+
+*** Hedging
+rguments in favour of hedging inclued:
+(place args here)
+
+Arguments against hedging include:
+- Shareholders are usually well diversified and can make their own hedging decisions
+- It may increase risk to hedge when competitors do not
+(more to go in here)
+
+*** Basis Risk
+Hedgers are not always perfect and straightforward. Some of the reasons for this are:
+- The asset whose price is to be hedged may not be exxactly the same as the asset undrlying the futures contract
+- The hedger may not be certain of the exact date the asset will be bought or sold
+- The hedge may require the futures contract to be closed out before its delivery month
+
+What is basis risk:
+- If the asset to be hedged 
+  
+Basis risk with a long hedge:
+- Suppose that:
+  - 
+  - 
+  -
+- You hedge the future purchase o an asset by entering into a long futures contract
+-  Cost of Asset = $S_{2}-(F_{2}-F_{1})=F_{1}+\mbox{ Basis}$ 
+
+One key factor affecting basis risk is the choice of the futures contract to bu used for hedging. 
+- Choos ea deliver month that is as close as possible to, but later than, the end of the life of the hedge
+- When there is no futures contract on the asset being hedged, choose the contract whose futures price is most highly correlated with the .......
+
+*** Cross Hedging
+
+Occurs when the asset underlying the futures contract is different to the asset whose price is being hedged
+
+*** Optimal Hedge Ratio
+
+Hedge ratio is the ratio of the size of the position taken in futures contracts to the size of the exposure
+
+$$h=\rho\frac{\sigma_{S}_{}}{\sigma_{F}}$$
+
+Where:
+- \sigma_s is the standard deviation of $\delta S$, the c.......
+
+*** Hedging using Index Futures
+    
+$$ \beta\frac{P}{A}$$

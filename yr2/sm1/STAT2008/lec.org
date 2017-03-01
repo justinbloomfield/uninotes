@@ -54,4 +54,35 @@ $\bar{\mbox{y}} \plusmn Z_{{\alpha/2}} . \frac{y\delta}{\sqrt{n}}$
 But, in practise, we don't (usually) know \delta\mbox{y}! We estimate \delta\mbox{y} using \Delta\mbox{y} (the sample standard deviation)
 
 ** L3
+   
+* WK2
+** L1: Simple Linear Regression Model
+   
+   _ORSENTOR_
+Mean model: $E[Y|X]=\beta_{0}+\beta_{1}X_{i}$\\
 
+
+$Y_{i}=\beta_{0}+\beta_{1}X_{i}+\epsilon_{i}$, $i=1,2,...,N$
+# draw these graphs that he's putting up now, so that you can get all of the relevant information out of them and can put it in here
+
+So how do we estimate oarsitnaorisetnaorsitenoariesntoarisentoairesntoiarst?
+_Using *Method of Least Squares_
+
+find b_0 & b_1 that minimise
+(((INSERT FORMULA HERE FROM )))
+
+To calculate b_0 & b_1 in practice we need means & variances of the $x$ & $y$ sample variables & we also need the covariance of X,Y:
+- to estimate this in the sample we use _Sum of the Product of X&Y_
+ $$\frac{S_{x,y}}{(n-1)} = 
+
+*** Assumptions undrelying a simple linear regression model
+
+General assumptions (applicable to most statisitcal models):
+- that the sample is representative of the population of interest
+- that the explanatory (x) variables are measured without error (or at least minimal error of $Y$) \rightarrow all the error is in the $Y$ direction (vertical on the earlier plots)
+- that a model of the proposed form (e.g. a linear model) is appropriate
+
+  
+Model-specific assumptions:
+- *Population*: $Y_{i}=\beta_{0}+\beta_{1}X_{i}+\epsilon_{i}$, $i=1,2,...,N$
+(((THERE ARE MORE HERE BE SURE TO GRAB THEM HOLY FUCK THERE"RS A LOT OF SHIT T OCIPY")))
