@@ -6,7 +6,7 @@
 |   11 |               | math1013 mcc1 | math1013 mcc1      |               |                  |
 |   12 |               |               |                    | math1013 mcc1 | finm2002 bpbw120 |
 |    1 |               |               | finm2002 mcc1      |               |                  |
-|    2 | math1013 mcc1 | stat2032 rnrt | finm2002 mcc1      |               | stat2008 cop26  |
+|    2 | math1013 mcc1 | stat2032 rnrt | finm2002 mcc1      |               | stat2008 cop26   |
 |    3 |               | stat2032 rnrt | stat2008 mcc1      | stat2032 cbe5 | stat2032 copt    |
 |    4 |               |               |                    |               | stat2008 mcc1    |
 |    5 |               |               | math1013 moran1012 |               |                  |
