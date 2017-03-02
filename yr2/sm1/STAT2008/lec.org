@@ -1,4 +1,4 @@
-* STAT2008: Regression Modelling
+* STAT2008: Regression Modeling
 * WK1
 ** L1
    
@@ -85,4 +85,6 @@ General assumptions (applicable to most statisitcal models):
   
 Model-specific assumptions:
 - *Population*: $Y_{i}=\beta_{0}+\beta_{1}X_{i}+\epsilon_{i}$, $i=1,2,...,N$
-(((THERE ARE MORE HERE BE SURE TO GRAB THEM HOLY FUCK THERE"RS A LOT OF SHIT T OCIPY")))
+- Deterministic model for the mean: $E[Y_{i}|X]=\beta_{0}+\beta_{1}X_{i}$
+- stochastic model for variance: $\epsilon_{i}$
+- Assumptions specific to this model are about \epsilon_i
