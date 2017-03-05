@@ -88,3 +88,33 @@ Model-specific assumptions:
 - Deterministic model for the mean: $E[Y_{i}|X]=\beta_{0}+\beta_{1}X_{i}$
 - stochastic model for variance: $\epsilon_{i}$
 - Assumptions specific to this model are about \epsilon_i
+
+** L2
+ANOVA = Analysis of Variance 
+
+The estimated variance model is detailed in the ANOVA table
+
+_ANOVA Table_
+| Source (of variability) | degrees of freedom | sum of squares | mean square | F statistic | P |
+|-------------------------+--------------------+----------------+-------------+-------------+---|
+| model/regression        | 1                  | SS_Reg = SS_Total+SS_error |             |             |   |
+| error/residual          | n-2                | SS_error = $\epsilon ei^2$ | MS total = $\frac{SS_{error}}{n-2}=\Delta^{2}j$            |             |   |
+|-------------------------+--------------------+----------------+-------------+-------------+---|
+| Total                   | n - 1              | Syy = SS_Total | could calculate MS total = $\frac{SS_{Total}}{n-1}=\Delta^{2}j$ |             |   |
+
+- Row 4 is equivalent to the Null model $Y=\beta_{0}+\epsilon$
+- Row 2 is equivalent to the SLR model: $Y=\beta_{0}+\beta_{1}X+\epsilon$
+  
+
+Key estimate of the error variance \delta^2 is the MS error. To calculate this:
+1. find
+2. 
+
+** L3
+   
+Conclusion: "The slope of the linear regression model relating average temparature anomalies to year is significantly positive \rightarrow temperatures have been nivreasing over time."
+
+Finally, we need to assess the analysis and the results. Some questions follow:
+1. Is the data we sued the best available to address the research question? (issue of the science)
+2. Is the model a good fit? (is the moedl ont only apporpiriate, but also useful)
+

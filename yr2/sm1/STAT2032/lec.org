@@ -90,6 +90,29 @@ $i=(1+12\%)\frac{52}{12}-1$
  effective interest rate = $\frac{i^{m}}{m}$
 
  nominal interest rate = $\frac{i^{m}}{m} * m$ = $i^{m}$
-    
+
+** L2
+   
+_Ex_.: F=$100, want AV for t=4. 2
+1. compound interest 5%
+2. simple interest 5%
+
+_Ex_: [[file:R/l2.R][file:~/usr/doc/uninotes/yr2/sm1/STAT2032/R/l2.R]]
+
+Rem: $d=\frac{i}{1+i}$
+
+|   m | i = $(1 + \frac{i^{m}}{m})^{m}-1$ (using i^m=12%) |
+|-----+--------------------------------------------|
+|   1 |                                       0.12 |
+|   2 |                                 0.05842944 |
+|   3 |                                0.015632761 |
+|   4 |                               3.3218901e-3 |
+|   6 |                               1.0750021e-4 |
+|  12 |                                    1.32e-9 |
+|  52 |                                         0. |
+| 365 |                                         0. |
+#+TBLFM: $2=(1+(0.12^$1)($1))^$1-1
+
+THERE'S SOME WEIRD LIMIT SHIT GOING ON HERE I THINK THAT WE PROBS WANT TO ADD THAT IN LOLE
 
 
