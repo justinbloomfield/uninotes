@@ -220,3 +220,21 @@ $$ \beta\frac{P}{A}$$
 Reasons for using index futures to hedge:
 - Desire to be out of the market for a short period of time
 - Desire to hedge systematic risk
+
+  
+* WK3
+** Innterest Rate Contracts & Swaps
+*** Types of Interest Rates
+*Treasury Rates*:
+- The rate that an investor earns on Treasury bills and bonds
+- these bills and bonds are risk-free
+
+*London InterBank Offered Rate*:
+- rate of interest the bank is prepared to make a large wholesale deposit with other banks
+
+*Repo Rates*:
+- repurchase agreement where an investment dealer sells securities they own and buys them back later at a slightly higher price
+
+*** Bond Pricing
+*Zero Rates*:
+- the n-year zero-coupon rate is the rate of interest earned on an investment that starts today and lasts for n years
