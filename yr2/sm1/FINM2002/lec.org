@@ -221,7 +221,6 @@ Reasons for using index futures to hedge:
 - Desire to be out of the market for a short period of time
 - Desire to hedge systematic risk
 
-  
 * WK3
 ** Innterest Rate Contracts & Swaps
 *** Types of Interest Rates
