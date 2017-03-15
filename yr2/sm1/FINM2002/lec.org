@@ -238,3 +238,35 @@ Reasons for using index futures to hedge:
 *** Bond Pricing
 *Zero Rates*:
 - the n-year zero-coupon rate is the rate of interest earned on an investment that starts today and lasts for n years
+- All of the interest and principal is realised at the end of the n years, and as suck there are no intermediate or coupon payments
+
+Most bonds that we can invest in provide a periodic cash flow called a coupon, with the bond's principal (or face value) received at the maturity of the bondThe therosetical price of the bond is the present value of all of the cash floaw reveived by the purchaser of the bond.
+
+*Par yield*:
+- the par yield for a certian bond is the coupon rate that causes the bond price to equal its par value (or face value)
+
+**** Determining Treasury Rates
+
+We can caluvulate Treasury rates form the quoted prices of the Treasury bonds
+
+*** Forward Rates
+
+An _forward rate_ is an interest rate which is fixed for a future transaction.  t
+
+*** Iterest Rate Swaps
+
+An agreement where a floating rate is exchanged for a fixed rate or vice versa
+
+These can have a number of benefits attached to them:
+- They can change your exposure from floating to fixed or fixed to floating
+- They are able to reduce the costs of borrowing
+
+there's a super long example for this so make sure that you understand it
+
+/tenor = rate of coupon payments/
+
+*** Valuation of an Interest Rate Swap
+
+When a swap is entered into it has a value of 0. However, as time proceeds, the swap may obtain a positive or a negative value
+
+
