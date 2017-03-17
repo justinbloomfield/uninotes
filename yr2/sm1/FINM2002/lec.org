@@ -1,5 +1,4 @@
 * FINM2002: DERIVATIVES
-  _Course Info_
 - 6 tutorial quizzes, best 5 of 6 - dates visible on course outline - 15%
 - Assignment - group of 5 (fak) - can do through wattle - 25%
 - Final exam - 60%
@@ -268,4 +267,50 @@ there's a super long example for this so make sure that you understand it
 
 When a swap is entered into it has a value of 0. However, as time proceeds, the swap may obtain a positive or a negative value
 
+* W4
+stupid fucking group assignment coming up hooray that will be lots of fun
 
+*REALLY HAVE TO MAKE SURE THAT YOU GET THIS EXAMPLE DOWN BECAUSE HOLY SHIT IS IT BIG AND CONFUSING*
+
+** Valuation of an Interest Rate Swap
+
+When a swap is first entered into it has a value of 0. However, as time proceeds the swap may obtain a positive or tigative example
+
+*** Credit Risk
+
+Risk resulting from uncertainty in a counterparty''s ability or willingness to meet it's contractual obligations
+
+An intermediary has a credit risk exposure only when the value of the swap to the financial intermediary is positive
+
+
+** Options and Options Trading Strategies
+*** Option Basics
+Remember that there are 4 types of option possibilities:
+- Long and short call
+- Long and short puts
+(((ADD IN THE EXTRA STUFF FOR THEM)))
+
+Moneyness:
+- at-the-money
+- in-the-money
+- out-of-the-money
+
+*** Assets underlying options
+*Stock options*
+*anothto&
+onte mosro!
+
+*** Dividends and splits
+
+
+*** Extended Option Topics
+Executive stock options: options issued to its ekecutives as a porformance incentive
+
+Convertible bonds: regular bonds that can be exchanged for equity at certain times in the future according to a predetermined exchange ratio
+
+*** Notation (fucking lot of it)
+get that table thing too
+
+an example too, basically just going to have rewatch the second half fak
+
+*** Option Bounds
