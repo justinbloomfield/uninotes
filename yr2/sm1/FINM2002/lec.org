@@ -267,7 +267,7 @@ there's a super long example for this so make sure that you understand it
 
 When a swap is entered into it has a value of 0. However, as time proceeds, the swap may obtain a positive or a negative value
 
-* W4
+* WK4
 stupid fucking group assignment coming up hooray that will be lots of fun
 
 *REALLY HAVE TO MAKE SURE THAT YOU GET THIS EXAMPLE DOWN BECAUSE HOLY SHIT IS IT BIG AND CONFUSING*
@@ -287,30 +287,101 @@ An intermediary has a credit risk exposure only when the value of the swap to th
 *** Option Basics
 Remember that there are 4 types of option possibilities:
 - Long and short call
+  - A long position in a call option, meaning they are the holder of the call option and have the right but not the obligation to buy the asset. Payoff is $\mbox{max}(S_{T}-X,0)$
+  - A short position in a call option, which means they are the writer of the call option and are obligated to sell the asset to the holder if the holder decides to exercise the option. Payoff is $\mbox{min}(X-S_{T}, 0)$ 
 - Long and short puts
-(((ADD IN THE EXTRA STUFF FOR THEM)))
+  - A long position in a put option, which means they are the holder of the put option and have the right but not the obligation to sell the asset. Payoff is $\mbox{max}X-S_{T},0)$
+  - A short position in a put option, which means they are the writer of the put option and are obligated to buy the asset off the holder if the holder decides to exercise. Payoff is $\mbox{min}(S_{T}-X,0)$
 
-Moneyness:
-- at-the-money
-- in-the-money
-- out-of-the-money
+*** Moneyness
+At-the-money:
+- A call option is at-the-money if the strike price equals the asset price
+- A put option is at-the-money if the strike price equals the asset price
+
+In-the-money:
+- A call option is in-the-money if the strike price is less than the asset price
+- A put option is in-the-money if the strike price is greater than the asset price
+
+Out-of-the-money:
+- A call ogtion is out-of-the-money if the strike price is greater than the asset price
+- A put option is out-of-the-money if the strike price is less than the asset price
 
 *** Assets underlying options
-*Stock options*
-*anothto&
-onte mosro!
+*Stock options*: most trading on stock options is on exchanges, and they are American in nature 
+
+*Foreign currency options*: _most_ currency options trading occurs in the over the counter market. Can be either American or European in nature.
+
+*Index options*: index options are traded in both over the counter markets and on exchanges. 
+
+*Futures options*:
+- When an exchange trades a particular futures contract it often also trades options on that contract
+- Normally mature just before the delivery period of the futures contract
 
 *** Dividends and splits
+Suppose you own $N$ options with a strike price of $X$:
+- No adjustments are made to the option terms for cash dividends
+- When there is an n-for-m stock split,
+  - the strike price is riduced to $mX/n$
+  - the number of options is increased no $nN/m$
+- Stock dividends are handled in a manner similar to stock splits
 
 
 *** Extended Option Topics
+    
+*Warrants*: 
+- Warrants are options that are issued (or written) by a corporation or a financial institution
+- Number of warrants outstanding is determined by the size of the original issue and changes only when they are exercised or when they expire
+- Traded in the same way as stocks
 Executive stock options: options issued to its ekecutives as a porformance incentive
 
-Convertible bonds: regular bonds that can be exchanged for equity at certain times in the future according to a predetermined exchange ratio
+*Convertible bonds*: regular bonds that can be exchanged for equity at certain times in the future according to a predetermined exchange ratio
 
 *** Notation (fucking lot of it)
 get that table thing too
 
-an example too, basically just going to have rewatch the second half fak
+- $c$ - European call option price
+- $C$ - American call option price
+- $p$ - European put option price
+- $P$ - American put option price
+- $S_{0}$ - stock price today
+- $S_{T}$ - stock price at option maturity
+- $X$ - strike price
+- $D$ - present walue of dividends during option's life
+- $T$ - life of option
+- $r$ - Risk-free raet for maturity $T$
+- $\sigma$ - volatility of stock price
+
+| Variable | $c$ | $p$ | $C$ | $P$ |
+|----------+-----+-----+-----+-----|
+| $S_{0}$  | +   | -   | +   | -   |
+| $X$      | -   | +   | -   | +   |
+| $T$      | ?   | ?   | +   | +   |
+| $\sigma$ | +   | +   | +   | +   |
+| $r$      | +   | -   | +   | -   |
+| $D$      | -   | +   | -   | +   |
+
+*** American vs. European options
+An American option is worth at least as much as the corresponding European option. This is due to the value of being able to exercise the option at the time of your choosing
 
 *** Option Bounds
+An American or European call option gives the holder the right to buy one share of a stock for a certain price.
+No matter what happens, the option can never be worth more than the stock
+Hence, the scock price is an upper bound to the option price: $c \leq S_{0} \mbox{ and } C \leq S_{0}$
+
+An American or European put option gives the holder the right to sell one share of a stock for the exercise price.
+No matter how low the stock price becomes, the option can never be worth more than X. $p \leq X \mbox{ and } P \leq X$
+
+For European options, cannot be worth more than $X$ at maturity, thus cannot be worth more than the present value of $X$. $p \leq Xe^{-rT} \mbox{ and } P \leq Xe^{-rT}$
+
+The lower bound for the price of a European call option on a non-dividend paying stock is $c \geq \mbox{max}(S_{0}-Xe^{-rT},0)$
+
+The lower bound for the price of a European put option on a non-dividend paying stock is $p \geq \mbox{max}(Xe^{-rT}-S_{0},0)$
+
+*** Put-Call Parity
+
+_Ex_: consider the following two portfolios:
+- Portfolio E: European call on a stock + PV of the strike price in cash
+- Portfolio F: European put on the stock + the stock
+
+Both are worth $\mbox{MAX}(S_{T},X)$ at the maturity of the options. Therefore must be worth the same today. This means:
+$$c + Xe^{-rT} = p + S_{0}$$
