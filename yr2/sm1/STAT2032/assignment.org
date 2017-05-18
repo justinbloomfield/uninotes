@@ -1,0 +1,61 @@
+- Value of salary as a perpetuity with interest?
+- Not sure if this shit is supposed to all be done through interest bearing annuities?? Fuck knows lmao
+
+* Word Maths
+P
+Q1. Buying house *several years after graduation*. Means can get loan when bank balance is greater than 20% of the market price!
+- According to the sprad sheet, seems like we'll be able to afford the starting downpayment on the house at 31/5/2020.
+
+ 
+* Question 1
+  
+** 1.1
+Can purchase house after 31/12/21, but won't be able to afford the next payment, have to wait until 28/2/22 to not get in trouble with the Nosebergs.
+
+** 1.2
+Assume the remaining principle wil be repaid in a 30-year home loan with monthly level payments.
+*** 1.2.1
+    Calculate the monthly level payments you have to repay: $2956.22
+    STEPS:
+    - Market price at time of purchase - downpayment of 20% = $583,443 as initial principle
+    -#### WRONG FORM PLS FIX 583,443 = K * a^(12)_30|0.045
+    - Works out to be $2956.22
+*** 1.2.2
+    Calculate the total interest you have to repay throughout 30 years' time and the interest portion of your 15th payment
+    - Want I_15 and sum of all I_{1...360} 
+    - I_15: Need K_14, then can use magic to find I_15. 
+      - Use Prospective Method
+      - $2146.58 is the amount of interest paid at t=15
+        
+    - Total Interest
+      - Going from formula AND sum, total interest paid is $480,796.19
+*** 1.2.3
+    Calculate your bank account balance in 30 years, right after you pay off your home loan
+ - $3,152,073.59 (seems high, but looking at the difference in salary and living costs at this point seems reasonable)
+
+** 1.3
+If you would like to pay off the loan as soon as possible, and it is ok to repay any amount of money per month:
+*** 1.3.1
+    What is the quickest way to pay off the loan? (Take into account that bank interest is 4%/month, so just putting all money straight into paying off the loan may not be the fastest way)
+    Put all money into the payments
+*** 1.3.2
+    When will the loan be paid off? The loan will be paid off after 235 months, or after 30/9/2041
+*** 1.3.3 
+    What is the amount of the last payment - 10,292.85
+
+* Question 2
+
+** 2.1
+   Assuming you will invest in either bond A or bond B (but not both at the same time); calculate the normal ammount of each bond, which can be purchased
+   - Nominal amount of Bond A is $25473.95
+   - Nominal amount of Bond B is $28112.03
+
+** 2.2
+   Assume you are also subject to a tax of 20% on coupons and 30% on capital gains (lecture 8? 9?), payable immediately it is incurred, with coupons and redemption walues to be invested in the bank account when they are received.
+   The gross yields of the bonds are unchanged.
+   Compare the two bond investment options by calculating the bank account balances when you've just paid off the 30-years home loan and select one with reasons.
+Bank balance for bond A at 31/3/52 is $3,123,694.94
+Bank balance for bond B at 31/3/52 is $3,154,775.83
+
+Bond B gives a higher balance (provided it is redeemed after 15 years), and so bond B should be preferred of the two investments.
+Bond A actually would not provide any profit at all, leaving the bank account reduced compared with the balance had no investment been undertaken.
