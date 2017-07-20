@@ -385,3 +385,89 @@ _Ex_: consider the following two portfolios:
 
 Both are worth $\mbox{MAX}(S_{T},X)$ at the maturity of the options. Therefore must be worth the same today. This means:
 $$c + Xe^{-rT} = p + S_{0}$$
+
+* WK5
+$P=C+Xe^{rT}-S_{0}$
+** Option Pricing
+- No arbitrage
+- Relative pricing
+
+** Binomial Models
+
+In order to have a rosk-less portfolio, need to have equal payoffs in both possible states of the world
+
+As portfolios are risk-free, should earn the risk-free rate of interest
+
+* WK11
+
+** Credit Derivatives
+*"A contract where the payoff depends on the credit worthiness of one or more commercial or sovereign entities"*
+They allow credit risks to be traded and managed in much the same way as market risks
+Underlying asset is the credit risk
+
+*** Credit Default Swaps
+A contract that provides insurance against the risk of default by a particular company
+The company which may be at risk of default is known as the *Referenc company*
+When default occurs, it's known as a *credit event*
+
+Buyer obtains right to sell bond issued by company for par when a credit event occurs
+This issued bond is known as a *reference obligation*
+The total par value of the bond that can be sold is called the *notional principal*
+
+**** How it works
+- Buy bond from company
+- Expect coupons in return for buying bonds, and FV at maturity
+- Fear default on coupons or FV
+- Hence, take out CDS
+- Make periodic payments to seller of CDS until EOL of CDS, or until a credit event occurs
+- If such an event occurs, party that lsold you CHS must settle the swap either by physical delivery or in cash
+- Must pay interest accrued up to date of credit event
+- When cash settlement, calculation agent polls dealers to determine mid-market price $Q$
+- Cash settlement is then $(100-Q)%$ of the notional principal
+
+*** Total Return Swap
+Involves the return on one asset or group of assets being swapped for the return on another
+Can be used to diversify credit risk by swapping one type of exposure for another
+
+*** Credit Spread Options
+Provides a payoff when the spread between the yields on two assets exceeds some pre-specified level
+  
+** Weather Derivatives
+   Used to hedge risk in the form of adverse weather conditions
+   THERE ARE SOME FORMULAE FOR THIS SHIT SO LIKE DON'T FORGET TO GRAB THOSE
+
+   
+** Energy Derivatives
+   Traded in both OTC markets and on exchanges
+   
+*** Crude Oil
+
+*** Natural Gas
+
+*** Electricity
+
+** Insurance Derivatives
+Similar characteristics to insurance contracts
+Provide some form of proticion against an adverse event occurring
+
+*** Reinsurance Example
+((((((((((((()))))))))))))
+
+** Derivative Mishaps
+(((((((((())))))))))
+
+* W12 
+
+** Integrity of Capital Markets
+   
+** Code of Ethics
+stuff
+
+** Standards of Practice
+more stuff
+
+** (A) Material Non-Public Information
+Don't act on it, it's bad 
+Info is non-public until it is available in the market place in general
+
+** (B) Market Manipulation

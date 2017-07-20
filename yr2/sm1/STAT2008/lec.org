@@ -123,4 +123,16 @@ Finally, we need to assess the analysis and the results. Some questions follow:
 aoeuaoeuaoeuaoeu
 * WK4
 ** L1
- 
+* WK11
+**  god fucking dammit end me
+Model Selection
+A "good" model is one whech we can use to address the research question, which may:
+- involve certain variable, which we must include in the model, so we can observe and/or "control for" the effects of these variables
+- other variables (included in the data) may also be included in the model, if they help to explain of sort of variation i.e. they turn out to be "significant"
+- ultimately the research question may require some predictions; preferably predictions that hold validity
+  Not iy have already chosen some scale for the variables in the model and a particular form for the model, we can then experiment with model that include other X variables in the data as predictors, as well as dorived variables (X^2, logX, interaction terms involving X, ...)
+If we have K possible predictors, then the number of candidate models is O(2^k) <- ("of the order") <- as a minimum (as we can also allaw for different orders of the predictors)
+i.e. k = 1, 2 possible models; k=10 > 1024 models
+                               k=20, 2^20 > 1,048,576
+For observational covariates (optional X's) we use *Principle of Parsimony* (Occam's Razor)
+Of two simpler models, we will tend to prefer the simpler one (especially if there is no sig. difference between them)
