@@ -1,0 +1,3 @@
+[submodule "yr2/sm2/comp1100/src"]
+	path = yr2/sm2/comp1100/src
+	url = https://github.com/justinbloomfield/comp1100-src
