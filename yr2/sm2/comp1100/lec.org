@@ -1,0 +1,26 @@
+* COMP1100 - Programming as Problem Solving
+
+* Wk 1 
+** Lecture 1 - Intro
+This was super boring and nothing happened lmao
+
+** Lecture 2 - Binaries
+
+Conversions:
+- Divide number by base to which you are converting
+- Prepend remainder to result string
+- Replace number by quotient
+- repeat until quotient is 
+
+(hand example it's fucking weird)
+
+This negative number shit is whack yo
+
+| Number                   | View                          |
+|--------------------------+-------------------------------|
+| $00101010_{2}$           | Binary                        |
+| $42_{10}$                | decimal, but not great        |
+| $0010_{2} 1010_{2}$      | two groups of 4 to create...  |
+| $2A_{16}$                | ...Hexadecimal                |
+| $00_{2} 101_{2} 010_{2}$ | Or, three groups to create... |
+| $052_{8}$                | ...Octal                      |
