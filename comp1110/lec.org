@@ -1,0 +1,62 @@
+* COMP1110 - Structured Programming
+
+* Wk 1
+
+** L1
+
+*** Java Variables 
+
+- *Instance*
+  - non-static fields, object-local
+  - each object has its own version (instance) in the field
+- *Class*
+  - Static fields, global
+  - Exactly one version of the field exists
+- *Local*
+  - Temporary state, limited to execution scope of code
+- *Parameters*
+  - Temporary state, limited to execution scope, passed form one method to another
+
+
+Java names:
+- are case-sensitiv
+- whitespace not permitted
+- $, _ not permitted
+- Java keywords and reserved words cannot be used
+
+Captilazation conventions:
+- class names start with capital letters (`Bike`)
+- variable names start with lower cas, and use upper case for subsequent word (`currentGear`)
+- constant names use all caps and underscores (MAX_GEAR_RATIO)
+
+*** Java's Primitive data types
+byte
+short
+int
+longf
+float
+double
+boolean
+char
+
+| type    | description                                            | rang           | default |
+|---------+--------------------------------------------------------+----------------+---------|
+| byte    | 8-bit signed 2's complement integer                    | -128 - 127     | 0       |
+| short   | 16-bit signed 2's complement integer                   | -32768 - 32767 | 0       |
+| int     | 32-bit signed 2's complement integer                   | -2^31 - 2^31-1 | 0       |
+| long    | 64-bit signed 2's complement integer                   | -2^63 - 2^63-1 | 0L      |
+| float   | single precision 32-bit IEEE 754 floating point number |                | 0.0f    |
+| double  | double precision 64-bit IEEE 754 floating point number |                | 0.0d    |
+| boolean | logically just a single bit: true /or/ false           | true, false    | ????    |
+| char    | 16-bit Unicode character                               | 0 - 65?        | ????    |
+
+*** Java Literals
+- When a numerical value, e.g. 1, appears, the compier normally knows exactl what it means
+- Special cases:
+  - An integer value is a `long` if it ends with 'l' or 'L'
+  - The prefix `0x` indicates hexadecimal, `0b` is binary
+    - 0x30 // 48 epressed in hex
+    - 0b110000 // 48 expressed in binary
+  - An `f` indicates a `float` while d indicates double
+  - Underscores may be used to break up numbers
+    - long creditCardNumber = 1234_5678_9012_3456L;
