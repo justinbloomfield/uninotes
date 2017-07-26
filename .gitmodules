@@ -1,9 +1,9 @@
-[submodule "yr2/sm2/comp1100/src"]
+[submodule "comp1100/src"]
 	path = comp1100/src
 	url = https://github.com/justinbloomfield/comp1100-src
-[submodule "yr2/sm2/comp1110/labs"]
+[submodule "comp1110/labs"]
 	path = comp1110/labs
 	url = git@gitlab.cecs.anu.edu.au:u6053932/comp1110-labs
-[submodule "yr2/sm2/comp1110/homework"]
+[submodule "comp1110/homework"]
 	path = comp1110/homework
 	url = git@gitlab.cecs.anu.edu.au:u6053932/comp1110-homework
