@@ -5,5 +5,8 @@
 	path = comp1110/homework
 	url = git@gitlab.cecs.anu.edu.au:u6053932/comp1110-homework
 [submodule "comp1100/comp1100-src"]
-	path = comp1100/comp1100-src
+	path = comp1100/homework
 	url = git@gitlab.cecs.anu.edu.au:u6053932/comp1100-src
+[submodule "comp1100/labs"]
+	path = comp1100/labs
+	url = git@gitlab.cecs.anu.edu.au:u6053932/labs

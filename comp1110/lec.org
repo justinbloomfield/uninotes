@@ -19,15 +19,15 @@
 
 
 Java names:
-- are case-sensitiv
+- are case-sensitive
 - whitespace not permitted
 - $, _ not permitted
 - Java keywords and reserved words cannot be used
 
 Captilazation conventions:
-- class names start with capital letters (`Bike`)
-- variable names start with lower cas, and use upper case for subsequent word (`currentGear`)
-- constant names use all caps and underscores (MAX_GEAR_RATIO)
+- class names start with capital letters (=Bike=)
+- variable names start with lower cas, and use upper case for subsequent word (=currentGear=)
+- constant names use all caps and underscores (MAX\textunderscore GEAR\textunderscore RATIO)
 
 *** Java's Primitive data types
 byte
@@ -60,3 +60,39 @@ char
   - An `f` indicates a `float` while d indicates double
   - Underscores may be used to break up numbers
     - long creditCardNumber = 1234_5678_9012_3456L;
+
+** L2
+
+*** Java Arrays
+
+Arrays hold a fixed number of values of a given type (or sub type)
+
+- Declaring: \mintinline{java}{int[] values;}
+
+- Initializing: \mintinline{java}{values = new int[8];} for an 8 element array
+
+- Accessing: \mintinline{java}{int x = values[3];} accessing the 4th element
+
+- Copying: \mintinline{java}{System.arraycopy(0, y, 0, 8)}
+
+
+*** Java Operators
+
+- Assignment: \mintinline{java}{=}
+
+- Arithmetic: \mintinline{java}{+ - * / %}
+
+- Unary: \mintinline{java}{+ - ++ -- !}
+
+- Equality, relational conditional and \mintinline{java}{instanceof}: \mintinline{java}{== != > >= < <= && || instanceof}
+
+- Bitwise: \mintinline{java}{~ & ^ | << >> >>>}
+
+*** Expressions
+
+A construct that evaluates to a *single value*
+
+Made up of:
+- variables
+- operators
+- method invocations
