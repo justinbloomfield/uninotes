@@ -118,16 +118,16 @@ Imperative programming has three components:
 **** If-else
 - \mintinline{java}{if-then & if-then-else} statements
   - can be nested, ifs within ifs (in some cases though else-if is a better fit)
-  - take the form of:
-   \#+begin_src java
+  - take the form of
+#+begin_src java
     if (condition) {
-    body;
+        body;
     } else-if (condition) {
-    body;
+        body;
     } else {
-    else body;
+        body;
     }
-\#+end_src
+#+end_src
 
 **** switch statements
 - \mintinline{java}{switch} selects one path among many
@@ -135,7 +135,7 @@ Imperative programming has three components:
   - Execution continues unless a \mintinline{java}{break} statement is issued
   - \mintinline{java}{default} is used to perform an action when no case statement is met
   - Works thus:
-\#+begin_src java
+#+begin_src java
 switch (var) {
     case var_value;
         body for case;
@@ -147,24 +147,25 @@ switch (var) {
     default:
         body for no matches;
 }
-\#+end_src
+#+end_src
 
 *** Control Flow 2 (J6)
 
 **** While and do-while
 - The \mintinline{java}{while} statement executes continuously while condition is \mintinline{java}{true}
 - The \mintinline{java}{do-while} evaluates conditional at the *end* of the statement
-\#+begin_src java
+#+begin_src java
 while (condition) {
     body;
 }
-\#+end_src
+#+end_src
 
-\#+begin_src java
+#+begin_src java
 do {
     body;
 } while (condition);
-\#+end_src
+#+end_src
+
 **** For
 A compact way to iterate over a set of variables
 
@@ -173,7 +174,7 @@ Statement has 3 logical parts:
 - Termination condition
 - Increment statement
 
-\#+begin_src java
+#+begin_src java
 for (type var = x; x < y; x++ or some other action) {
     body;
 }
@@ -182,7 +183,7 @@ for (type var = x; x < y; x++ or some other action) {
 for (int v : array) (
     body; // e.g. System.out.println("value of array at this index is " + v);
 )
-\#+end_src
+#+end_src
 
 **** Branching statements (loops)
 - The \mintinline{java}{break} statement terminates a loop costruct
@@ -269,6 +270,5 @@ LIST OF SHIT
 fuck this omg
 
 **** Using objects
-
 
 Go over this bit, hard to understand when you aren' paying proper attention and you've had to skip over a whole bunch of stuff as well
