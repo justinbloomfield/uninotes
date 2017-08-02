@@ -96,3 +96,179 @@ Made up of:
 - variables
 - operators
 - method invocations
+*STILL NEED TO GRAB THE REST OF THIS*
+
+* Wk 2
+
+** Lab exams next week
+   SCHEDULED: <2017-08-09 Wed>
+make sure you've done _all_ of the questions because we've had them all
+
+** TODO Rest of the lecture from friday done, make sure to watch that as well 
+** L1
+
+i++ -> i = i + 1
+*** Control Flow 1 (J5)
+
+Imperative programming has three components:
+- Sequence: one thing after another
+- Selection: choices / options on where/what the program can go/do
+- Iteration: 
+
+**** If-else
+- \mintinline{java}{if-then & if-then-else} statements
+  - can be nested, ifs within ifs (in some cases though else-if is a better fit)
+  - take the form of:
+   \#+begin_src java
+    if (condition) {
+    body;
+    } else-if (condition) {
+    body;
+    } else {
+    else body;
+    }
+\#+end_src
+
+**** switch statements
+- \mintinline{java}{switch} selects one path among many
+  - Execution "jumps" to the first matching \mintinline{java}{case}
+  - Execution continues unless a \mintinline{java}{break} statement is issued
+  - \mintinline{java}{default} is used to perform an action when no case statement is met
+  - Works thus:
+\#+begin_src java
+switch (var) {
+    case var_value;
+        body for case;
+        break; // need to put this in to stop at this statement, otherwise it just keeps going lol
+    case var_value2;
+        body for case;
+        break; 
+    ...etc...
+    default:
+        body for no matches;
+}
+\#+end_src
+
+*** Control Flow 2 (J6)
+
+**** While and do-while
+- The \mintinline{java}{while} statement executes continuously while condition is \mintinline{java}{true}
+- The \mintinline{java}{do-while} evaluates conditional at the *end* of the statement
+\#+begin_src java
+while (condition) {
+    body;
+}
+\#+end_src
+
+\#+begin_src java
+do {
+    body;
+} while (condition);
+\#+end_src
+**** For
+A compact way to iterate over a set of variables
+
+Statement has 3 logical parts:
+- Inititialization
+- Termination condition
+- Increment statement
+
+\#+begin_src java
+for (type var = x; x < y; x++ or some other action) {
+    body;
+}
+
+// print all items in array
+for (int v : array) (
+    body; // e.g. System.out.println("value of array at this index is " + v);
+)
+\#+end_src
+
+**** Branching statements (loops)
+- The \mintinline{java}{break} statement terminates a loop costruct
+- The \mintinline{java}{continue} statement repeats the loop construct
+
+*** Methods (J7)
+
+- A subroutine
+  - Reusable code
+  - Modularity, encapsulation
+- May take arguments
+- _*May*_ return a value
+
+**** Method Declaration
+
+Method declarations will have the following, in order;
+- Any modifiers (\mintinline{java}{public}, \mintinline{java}{private}, etc)
+- return type
+- name
+- parameters, in parentheses
+- exceptions the method may throw
+- body 
+
+**** Class and Instance methods
+
+     A method declared with the \mintinline{java}{static} modifier is a *class* method (otherwise it is an *instance* method)
+
+Class methods may operate *on class fields only*
+
+Instance methods may operate on class *and* instance fields
+
+**** Parameters
+
+     Parameters are the mechanism for passing iformation to a method or constructor
+
+- Primitive types passed by /value/
+  - changes to par *are not seen* by caller
+- Reference types passed by /value/
+  - Changes to the /reference/ *are not seen* by caller
+  - CHanges to /object referred to/ *are not seen* by caller
+- Your last parameter may in fact be more than one parameter (/varargs/), and treated as an array
+
+**** Branching (methods)
+
+     The \mintinline{java}{return} statement exits the current method
+
+**** Returning a value from a method
+
+Methods return to caller when:
+- all statemens in method are executed, or
+- \mintinline{java}{return} is reached
+- method throws exceptions
+
+Methods declared \mintinline{java}{void} return nothing
+
+*** Classes and Objects 1 (O1)
+
+**** Class declaration
+A class declaration will have the following, in order:
+- modifiers
+- keyword \mintinline{java}{class}
+- class' name (first letter capitalized)
+- optional superclass' name precede by \mintinline{java}{extends}
+- optional list of interfaces preceded by \mintinline{java}{implements}
+- body, in {}
+
+**** Member Variable Declaration
+
+Three kinds:
+- Class and instance variable (fields)
+- Variables within method (local variables)
+- arguments (parameters)
+
+MORE HERE FOR THIS PART
+
+**** Constructors
+
+A special method that is automatically executed when an instance is created
+
+Constructors differ from normal methods:
+LIST OF SHIT
+
+**** Creating objecs
+fuck this omg
+
+**** Using objects
+
+
+Go over this bit, hard to understand when you aren' paying proper attention and you've had to skip over a whole bunch of stuff as well
