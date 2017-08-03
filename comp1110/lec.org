@@ -59,4 +59,7 @@ char
     - 0b110000 // 48 expressed in binary
   - An `f` indicates a `float` while d indicates double
   - Underscores may be used to break up numbers
-    - long creditCardNumber = 1234_5678_9012_3456L;
+    - long creditCardNumber = 1234_5678_9012_3456
+
+
+
