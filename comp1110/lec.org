@@ -167,6 +167,7 @@ do {
 #+end_src
 
 **** For
+
 A compact way to iterate over a set of variables
 
 Statement has 3 logical parts:
@@ -272,3 +273,80 @@ fuck this omg
 **** Using objects
 
 Go over this bit, hard to understand when you aren' paying proper attention and you've had to skip over a whole bunch of stuff as well
+
+** L2 
+
+*** Classes and  Objects 2
+
+**** Locals (stack), Globals (statics), and Heap (objects)
+
+- *Local* variables are declared within the scope of a method and hold temporary state, disappear once the method returns
+- *Global* variables (aka /class variables/) are declared within the scope of a class (with a \mintinline{java}{static} qualifier), and last als long as the class is loaded (usually duration of the program)
+- *Heap* variabes (/instance variables/) are declared within the scope of a class (*without* the \mintinline{java}{static} qualifier), and last as long as the containing instance is reachable
+
+
+**** Garbage Collection
+
+In some object oriented languages, the programmer must keep track of objects and delete them when they are no longer used. This is error prone.
+
+Java uses a garbage collector to automatically collect objects that can *no longer be used*. Garbage collection approximates liveness by reachability (the collector conservatively assumes that any reachable object is live).
+
+**** The \mintinline{java}{this} keyword
+
+     Within instance methods and constructors, the \mintinline{java}{this} keyword refers to the object whose method or constructor is being called
+
+- Disambiguating field names form parameters
+- Calling other constructors
+
+**** Access Control
+
+Access modifiers determine whether fields and methods may be accessed by other classes
+
+- Top level: \mintinline{java}{public} or /package-private/
+- Member level: \mintinline{java}{public}, \mintinline{java}{protected}, /package-private/, or \mintinline{java}{private}
+
+| Modifier                     | Class      | Package    | Subclass   | World      |
+|------------------------------+------------+------------+------------+------------|
+| \mintinline{java}{public}    | \checkmark | \checkmark | \checkmark | \checkmark |
+| \mintinline{java}{protected} | \checkmark | \checkmark | \checkmark | \times     |
+| /no modifier/                | \checkmark | \checkmark | \times     | \times     |
+| \mintinline{java}{private}   | \checkmark | \times     | \times     | \times     |
+
+**** Class and Instance Members
+
+     The \mintinline{java}{static} keyword identifies class variable, class methods and constants
+- A *class variable* is common to all objects (only one version)
+- A *class method* is einvoked using a class name (not an object reference) and executes independently of any particular object
+- A *constant* can be declared by combining the \mintinline{java}{final} modifier with the \mintinline{java}{static} keyword
+
+**** Initializers
+
+     Fields may be initialized when they are declared. They can also be initialized by *initializer blocks*, which can initialize fields using arbitrarily complex code (error handling, loops, etc)
+- A statict initalizer block consists of code enclosed by braces '{}' and preceded by the \mintinline{java}{static} keyword
+- An instance initializer block is similar , but does nat have the \mintinline{java}{static} keyword
+
+**** Enum Types
+
+     Defined with the \mintinline{java}{enum} keyword. 
+Consists of a fixed set of onstants as its fields.
+This is useful for defining non-numerical sets such as NORTH, SOUTH, EAST, WEST, or HD, D, CR, P, N, etc.
+
+- May have other *fields*
+- May have *methods*
+- May use *constructors*
+- Can be used as argument to *iterators*
+
+\pagebreak
+
+Created like so: 
+#+begin_src java
+public enum Gender {
+    Female, Male
+}
+#+end_src
+
+Which can be referred to like: \mintinline{java}{Gender gender}
+
+Calling parent constructor: \mintinline{java}{super(name, age, gender);} to inherit values from parent. New values need to be assigned as normal.
+
+
