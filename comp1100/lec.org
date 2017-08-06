@@ -105,5 +105,5 @@ Expressions are not evaluated until their results are needed
 - Functions have *no side-effects*, *monads* embed side-effects inside Haskell and its type system
 - Haskell programs are easy to parallelise: there is no shared state
 - Definitions are *equations*: easy to validate properties, allowing proofs
-- Haskell programs are easy to *refactor
+- Haskell programs are easy to *refactor*
 
