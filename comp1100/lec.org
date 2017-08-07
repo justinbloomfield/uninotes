@@ -24,3 +24,86 @@ This negative number shit is whack yo
 | $2A_{16}$                | ...Hexadecimal                |
 | $00_{2} 101_{2} 010_{2}$ | Or, three groups to create... |
 | $052_{8}$                | ...Octal                      |
+
+* Week 2
+
+** Lecture 1 - Programming
+
+*** Imperative vs Declarative 
+(there's a difference here but it's not in the slides so watch it, also start going to the lecture pls)
+
+Influential Languages:
+- Conceptual Foundations: \lambda calculus/Lisp, Simula/Smalltalk, Algol, Prolog
+- Also influential: ML/Haskell, Pascal, Eiffel, Ada, Modula-3, C, Java
+
+*** How software is executed
+
+- *Compiler*: program the translates source program into machin instructions, e.g. Haskell
+- *Interpreter*: program that interprets (executes) a source program, e.g. Smalltalk, Perl
+
+Many languages have been implemented using both compilers and interpereters, including BASIC, C, Lisp, Pascal, Python...
+
+*** Programming myths
+
+- "It's easy, everybody can do it with just a few tutorials." - salespeople hopping on a hype train for a language (fuck you Rust)
+- "It's intrinsically hard." - old programmers say to keep their jobs
+- "A weird way to spend your day." - stereotyping
+
+** Lecture 2 - Haskell, Basic Types, Guards
+
+*** Haskell
+
+/*Function: a relation between two sets with the property that for each element of the first set there is exactly one element form the second set*/
+
+Haskell is *pure* because only functions in a mathematical sense of a function can be written in Haskell.
+
+**** Mathematical functions
+
+- There can be no communication with the outside world, i.e. no communication with other shit between the inputs and the outputs
+- The function can not hold values internally after the function has been evaluated
+- The function cannot write to its input values
+
+*** The Essence of Functional programming
+
+- Types model objects in the public domain
+- Programming means defining types and writing functions over types
+- Computing with functions means evaluation (reduction)
+- Variables name values and cannot vary
+- Functions have no side-effects
+
+
+/*Haskell is functional*/
+
+- Functions are *first-class*, i.e. functions are values which can be used in exactly the same way as other sorts of values
+- The meaning of Haskell programs is centered around *evaluating expressions* rather than *executing instructions*
+- Taken together, these result in an entirely different way of thinking about programming. Much of our time this semester will be spent exploring this way of thinking.
+
+/*Haskell is Pure*/
+
+Haskel functions are always *referentially transparent*:
+- no mutations; everything (variables, data structures ...) is *immutable*
+- expressions are side-effect free
+- programs are *deterministic* - calling the same function with the same arguments results in the same output
+
+Benefits of this:
+- equation reasoning and refactoring: "replace equals by"
+- parallelism: evaluating in parallel is easy when no side effects
+- fewer headaches: easier to debug, maintain, and reason about programs
+
+/*Haskell is lazy*/
+
+Expressions are not evaluated until their results are needed
+
+- It is possible to design and work with *infinite data structures*
+- It enables a more compositional programming style
+- /but/ it makes reasoning about time and space usage more difficult
+
+*** The Essence of Haskell programming
+
+- Programs are *higher level*: define relationship between input and output (the "what") rather than the "how" to compute a result
+- *First class functions* can be passed around like any other data
+- Functions have *no side-effects*, *monads* embed side-effects inside Haskell and its type system
+- Haskell programs are easy to parallelise: there is no shared state
+- Definitions are *equations*: easy to validate properties, allowing proofs
+- Haskell programs are easy to *refactor*
+

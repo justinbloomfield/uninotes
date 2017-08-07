@@ -13,7 +13,8 @@ An investment is the /current/ commitment of money or other resources in theexpe
 - Expectation: certain level of uncertainty (risk)
 - Future benefits: monetary or non-monetary
 
-_Real assets vs Financial Assets_
+*** Real assets vs Financial Assets_
+
 *Real assets*:
 - Land
 - Buildings
@@ -35,6 +36,7 @@ _Real assets vs Financial Assets_
 *Derivative Securities*: Provides payoffs that are determined by the prices of other assets such as bond or stock prices
 
 *** The Investment Process
+
 *Portfolio*: collection of investment assets
 
 Once established, update/rebalance by:
@@ -181,4 +183,103 @@ Ask price: asked pricees represent offers to sell
 *Brokerage Commission*: fee paid to broker for making the transaction
 
 *Spread*: difference between the bid and asked prices
+
+still got some shit to finish for this
+
+* Week 2 - Risk, Return, and the Historical Record
+
+** Lecture
+
+*** Determinants of the Level of Interest Rates
+
+These determinants include:
+- Supply side (supply of funds from savers)
+- Demand side (demand for funds from those who require more)
+- Government's net demand (net supply of funds or demand for them)
+
+*** Real and Nominal Rates of Interest
+
+- *Nominal interest rate*: the growth rate of money
+- *Real interest rate*: the growth rate of purchasing power
+
+Suppose $r_{n}$ the nominal rate, $r_{r}$ the real rate, and $i$ the inflation rate. The approximation formula is: $$r_{r} \approx r_{n} - i$$ 
+The *exact* relationship is $1 + r_{r} = \frac{1+r_{n}}{1+i}$, in the form of $$\mbox{growth of purchasing power} = \frac{\mbox{growth of money}}{\mbox{growth of prices}}$$
+
+Investors are concerned with their real rate of interest because it measures the increase in their purchasing power. Given this, investors will demand higher nominal rates of return on their investments as expected inflation increases
+
+*** Holding Period Returns
+
+The holding period return (HPR) is a measure of the ruturn earned over a given investment period
+
+$$HPR = \frac{\mbox{Investment Value}_{t} + \mbox{Investment Income}_{t} - \mbox{Investment Value}_{t-1}}{\mbox{Investment Value}_{t-1}}$$
+
+The HPR calculation implicitly assumes that:
+- investment income is received at the end of the holding period
+- to the extent this is correct, ignores reinvestment income
+
+Formula below with often yield the same result, this will not be when, for example, calculating the HPR on shares which undergo /capitalization changes/ during the holding period.
+
+$$HPR = \frac{\mbox{Price}_{t} + \mbox{Income (e.g. Dividend)}_{t} - \mbox{Price}_{t-1}}{\mbox{Price}_{t-1}}$$
+
+Given this, you should either use the other definition, or include /adjusted/ prices in the above formula
+
+*** Summing/Average Returns over Time
+(((((STUFF GOES HERE LUL)))))
+Lots of forumlae and stuff go in this bit, write them out later though *with examples* because they're going to be shit otherwise
+
+*** Geometric and Arithmetic Returns
+
+*Aritmetic* average return is a good indication of the expected rate of return for an investment during a future individual year
+
+*Geometric* average return assumes you:
+- Reinvest all profits back into the stock
+- The reinvested funds earn the rate of return the stock earns in subsequent periods
+*More formulae to go in here* hand write them first, then add in them in here when you have the time to do it
+
+If difference is more volatile, ????
+
+The geoemetric return is more consistent with the actual return received by the investor
+  
+*** Comparing investments with Different Investment Horizons
+
+Investments with longer horizons commonly earn greater HPRs. 
+
+- HPRs on investments with different holding periods need to be stated as rates of return for a /common/ period before they are compared
+- Commony, returns are expressed on an annual basis, or a as effective annual rates (EARs)
+- EARs can be calculated using the tools introduced in FINM1001 ($\mbox{EAR} = (1 + HPR)^\mbox{t} - 1$)
+
+*** Discrete vs Continous Compounding
+The EAR is a discrete measuree fof investment return
+
+Continuously compounded rates $r_{cc}$ are sometimes used in practice
+
+An EAR can be converted into an $r_{cc}$ as follows: $r_{cc} = \ln{1 + \mbox{EAR}}$
+
+The difference between the effective and continuously compounded rates: 
+- Small over short holding periods
+- Large over longer holding periods
+
+
+In theory, continuous compounding is preferred, given it:
+- REASONS
+
+*** Expected Return and Standard Deviation
+
+Investors cannot be certain about the HPR, because of uncertainty about future asset values
+
+$$Funny E(r) = \sigma_{s}\mbox{Pr}(s)r(s)$$
+
+with 
+- Pr(s) = probabilty of bscenario occuring
+- r(s) is return given that scenario
+
+Standard deviation does not differentiate between upside and downside risk
+
+*** Time Series Analysie of Historical Returns
+
+While historical data analysis can form the basis of expected return and risk estimation, historical data reveals 
+the HPRs realized over specific perieds, not what investors expected them to be.
+Therefore, we must HDS to make /inferences/ about the probablity distributions observed HPRs were drawn from.
+
+more thingies, copy paste this shit from further up
 

@@ -19,15 +19,15 @@
 
 
 Java names:
-- are case-sensitiv
+- are case-sensitive
 - whitespace not permitted
 - $, _ not permitted
 - Java keywords and reserved words cannot be used
 
 Captilazation conventions:
-- class names start with capital letters (`Bike`)
-- variable names start with lower cas, and use upper case for subsequent word (`currentGear`)
-- constant names use all caps and underscores (MAX_GEAR_RATIO)
+- class names start with capital letters (=Bike=)
+- variable names start with lower cas, and use upper case for subsequent word (=currentGear=)
+- constant names use all caps and underscores (MAX\textunderscore GEAR\textunderscore RATIO)
 
 *** Java's Primitive data types
 byte
@@ -61,5 +61,295 @@ char
   - Underscores may be used to break up numbers
     - long creditCardNumber = 1234_5678_9012_3456
 
+
+
+
+** L2
+
+*** Java Arrays
+
+Arrays hold a fixed number of values of a given type (or sub type)
+
+- Declaring: \mintinline{java}{int[] values;}
+
+- Initializing: \mintinline{java}{values = new int[8];} for an 8 element array
+
+- Accessing: \mintinline{java}{int x = values[3];} accessing the 4th element
+
+- Copying: \mintinline{java}{System.arraycopy(0, y, 0, 8)}
+
+
+*** Java Operators
+
+- Assignment: \mintinline{java}{=}
+
+- Arithmetic: \mintinline{java}{+ - * / %}
+
+- Unary: \mintinline{java}{+ - ++ -- !}
+
+- Equality, relational conditional and \mintinline{java}{instanceof}: \mintinline{java}{== != > >= < <= && || instanceof}
+
+- Bitwise: \mintinline{java}{~ & ^ | << >> >>>}
+
+*** Expressions
+
+A construct that evaluates to a *single value*
+
+Made up of:
+- variables
+- operators
+- method invocations
+*STILL NEED TO GRAB THE REST OF THIS*
+
+* Wk 2
+
+** Lab exams next week
+   SCHEDULED: <2017-08-09 Wed>
+make sure you've done _all_ of the questions because we've had them all
+
+** TODO Rest of the lecture from friday done, make sure to watch that as well 
+** L1
+
+i++ -> i = i + 1
+*** Control Flow 1 (J5)
+
+Imperative programming has three components:
+- Sequence: one thing after another
+- Selection: choices / options on where/what the program can go/do
+- Iteration: 
+
+**** If-else
+- \mintinline{java}{if-then & if-then-else} statements
+  - can be nested, ifs within ifs (in some cases though else-if is a better fit)
+  - take the form of
+#+begin_src java
+    if (condition) {
+        body;
+    } else-if (condition) {
+        body;
+    } else {
+        body;
+    }
+#+end_src
+
+**** switch statements
+- \mintinline{java}{switch} selects one path among many
+  - Execution "jumps" to the first matching \mintinline{java}{case}
+  - Execution continues unless a \mintinline{java}{break} statement is issued
+  - \mintinline{java}{default} is used to perform an action when no case statement is met
+  - Works thus:
+#+begin_src java
+switch (var) {
+    case var_value;
+        body for case;
+        break; // need to put this in to stop at this statement, otherwise it just keeps going lol
+    case var_value2;
+        body for case;
+        break; 
+    ...etc...
+    default:
+        body for no matches;
+}
+#+end_src
+
+*** Control Flow 2 (J6)
+
+**** While and do-while
+- The \mintinline{java}{while} statement executes continuously while condition is \mintinline{java}{true}
+- The \mintinline{java}{do-while} evaluates conditional at the *end* of the statement
+#+begin_src java
+while (condition) {
+    body;
+}
+#+end_src
+
+#+begin_src java
+do {
+    body;
+} while (condition);
+#+end_src
+
+**** For
+
+A compact way to iterate over a set of variables
+
+Statement has 3 logical parts:
+- Inititialization
+- Termination condition
+- Increment statement
+
+#+begin_src java
+for (type var = x; x < y; x++ or some other action) {
+    body;
+}
+
+// print all items in array
+for (int v : array) (
+    body; // e.g. System.out.println("value of array at this index is " + v);
+)
+#+end_src
+
+**** Branching statements (loops)
+- The \mintinline{java}{break} statement terminates a loop costruct
+- The \mintinline{java}{continue} statement repeats the loop construct
+
+*** Methods (J7)
+
+- A subroutine
+  - Reusable code
+  - Modularity, encapsulation
+- May take arguments
+- _*May*_ return a value
+
+**** Method Declaration
+
+Method declarations will have the following, in order;
+- Any modifiers (\mintinline{java}{public}, \mintinline{java}{private}, etc)
+- return type
+- name
+- parameters, in parentheses
+- exceptions the method may throw
+- body 
+
+**** Class and Instance methods
+
+     A method declared with the \mintinline{java}{static} modifier is a *class* method (otherwise it is an *instance* method)
+
+Class methods may operate *on class fields only*
+
+Instance methods may operate on class *and* instance fields
+
+**** Parameters
+
+     Parameters are the mechanism for passing iformation to a method or constructor
+
+- Primitive types passed by /value/
+  - changes to par *are not seen* by caller
+- Reference types passed by /value/
+  - Changes to the /reference/ *are not seen* by caller
+  - CHanges to /object referred to/ *are not seen* by caller
+- Your last parameter may in fact be more than one parameter (/varargs/), and treated as an array
+
+**** Branching (methods)
+
+     The \mintinline{java}{return} statement exits the current method
+
+**** Returning a value from a method
+
+Methods return to caller when:
+- all statemens in method are executed, or
+- \mintinline{java}{return} is reached
+- method throws exceptions
+
+Methods declared \mintinline{java}{void} return nothing
+
+*** Classes and Objects 1 (O1)
+
+**** Class declaration
+A class declaration will have the following, in order:
+- modifiers
+- keyword \mintinline{java}{class}
+- class' name (first letter capitalized)
+- optional superclass' name precede by \mintinline{java}{extends}
+- optional list of interfaces preceded by \mintinline{java}{implements}
+- body, in {}
+
+**** Member Variable Declaration
+
+Three kinds:
+- Class and instance variable (fields)
+- Variables within method (local variables)
+- arguments (parameters)
+
+MORE HERE FOR THIS PART
+
+**** Constructors
+
+A special method that is automatically executed when an instance is created
+
+Constructors differ from normal methods:
+LIST OF SHIT
+
+**** Creating objecs
+fuck this omg
+
+**** Using objects
+
+Go over this bit, hard to understand when you aren' paying proper attention and you've had to skip over a whole bunch of stuff as well
+
+** L2 
+
+*** Classes and  Objects 2
+
+**** Locals (stack), Globals (statics), and Heap (objects)
+
+- *Local* variables are declared within the scope of a method and hold temporary state, disappear once the method returns
+- *Global* variables (aka /class variables/) are declared within the scope of a class (with a \mintinline{java}{static} qualifier), and last als long as the class is loaded (usually duration of the program)
+- *Heap* variabes (/instance variables/) are declared within the scope of a class (*without* the \mintinline{java}{static} qualifier), and last as long as the containing instance is reachable
+
+
+**** Garbage Collection
+
+In some object oriented languages, the programmer must keep track of objects and delete them when they are no longer used. This is error prone.
+
+Java uses a garbage collector to automatically collect objects that can *no longer be used*. Garbage collection approximates liveness by reachability (the collector conservatively assumes that any reachable object is live).
+
+**** The \mintinline{java}{this} keyword
+
+     Within instance methods and constructors, the \mintinline{java}{this} keyword refers to the object whose method or constructor is being called
+
+- Disambiguating field names form parameters
+- Calling other constructors
+
+**** Access Control
+
+Access modifiers determine whether fields and methods may be accessed by other classes
+
+- Top level: \mintinline{java}{public} or /package-private/
+- Member level: \mintinline{java}{public}, \mintinline{java}{protected}, /package-private/, or \mintinline{java}{private}
+
+| Modifier                     | Class      | Package    | Subclass   | World      |
+|------------------------------+------------+------------+------------+------------|
+| \mintinline{java}{public}    | \checkmark | \checkmark | \checkmark | \checkmark |
+| \mintinline{java}{protected} | \checkmark | \checkmark | \checkmark | \times     |
+| /no modifier/                | \checkmark | \checkmark | \times     | \times     |
+| \mintinline{java}{private}   | \checkmark | \times     | \times     | \times     |
+
+**** Class and Instance Members
+
+     The \mintinline{java}{static} keyword identifies class variable, class methods and constants
+- A *class variable* is common to all objects (only one version)
+- A *class method* is einvoked using a class name (not an object reference) and executes independently of any particular object
+- A *constant* can be declared by combining the \mintinline{java}{final} modifier with the \mintinline{java}{static} keyword
+
+**** Initializers
+
+     Fields may be initialized when they are declared. They can also be initialized by *initializer blocks*, which can initialize fields using arbitrarily complex code (error handling, loops, etc)
+- A statict initalizer block consists of code enclosed by braces '{}' and preceded by the \mintinline{java}{static} keyword
+- An instance initializer block is similar , but does nat have the \mintinline{java}{static} keyword
+
+**** Enum Types
+
+     Defined with the \mintinline{java}{enum} keyword. 
+Consists of a fixed set of onstants as its fields.
+This is useful for defining non-numerical sets such as NORTH, SOUTH, EAST, WEST, or HD, D, CR, P, N, etc.
+
+- May have other *fields*
+- May have *methods*
+- May use *constructors*
+- Can be used as argument to *iterators*
+
+\pagebreak
+
+Created like so: 
+#+begin_src java
+public enum Gender {
+    Female, Male
+}
+#+end_src
+
+Which can be referred to like: \mintinline{java}{Gender gender}
+
+Calling parent constructor: \mintinline{java}{super(name, age, gender);} to inherit values from parent. New values need to be assigned as normal.
 
 
