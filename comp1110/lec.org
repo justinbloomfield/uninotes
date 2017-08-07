@@ -51,7 +51,7 @@ char
 | char    | 16-bit Unicode character                               | 0 - 65?        | ????    |
 
 *** Java Literals
-- When a numerical value, e.g. 1, appears, the compier normally knows exactl what it means
+- When a numerical value, e.g. 1, appears, the compier normally knows exactly what it means
 - Special cases:
   - An integer value is a `long` if it ends with 'l' or 'L'
   - The prefix `0x` indicates hexadecimal, `0b` is binary
@@ -60,9 +60,6 @@ char
   - An `f` indicates a `float` while d indicates double
   - Underscores may be used to break up numbers
     - long creditCardNumber = 1234_5678_9012_3456
-
-
-
 
 ** L2
 
@@ -331,6 +328,9 @@ Access modifiers determine whether fields and methods may be accessed by other c
 **** Enum Types
 
      Defined with the \mintinline{java}{enum} keyword. 
+
+
+
 Consists of a fixed set of onstants as its fields.
 This is useful for defining non-numerical sets such as NORTH, SOUTH, EAST, WEST, or HD, D, CR, P, N, etc.
 
@@ -350,6 +350,171 @@ public enum Gender {
 
 Which can be referred to like: \mintinline{java}{Gender gender}
 
+***** Richer Enum
+
+#+begin_src java
+public enum Grade {
+    HD{"High Distinction", 80}, D{"Distinction", 70}, C{"Credit", 60}, P{"Pass", 50}, N{"Fail", 0};
+
+    //final = unchanging
+    private final String longname;
+    private final int lower; //lower bound
+    
+    Grade(String longname, int lower) {
+        this.longname = longname;
+        this.lower = lower;
+    }
+
+    public static Grade fromMark(double mark) {
+        for (Grade g : Grade.values()) {
+            if (mark >= g.lower) {
+                return g;
+            }
+        }
+        return N; //this needs to be here so that the method has a return
+    }
+}
+#+end_src
+
+      Then, for this example at least add it to comp1110 student \mintinline{java}{+ Grade.fromMark(mark)}
+
+**** Inheritance
+
 Calling parent constructor: \mintinline{java}{super(name, age, gender);} to inherit values from parent. New values need to be assigned as normal.
 
+To add to \mintinline{java}{toString()} method of child class, use \mintinline{java}{return super.toString() + "whatever"} to prine whatever the parent does + the important shit for this
+
+
+     
+* Wk 3
+
+** L1
+
+
+*** Nested Classes
+
+A class may be defined inside another class. They imporve encapsulation adn clarity.
+
+- *Static nested classes*: (use \mintinline{java}{static} keyword) behave as if declared elsewhere, but happen to be packaged together in a single file, cannot refer directly to instance fileds of parent
+- *Inner classes*: (non-static) has direct access to the instance fields and members of its enclosing class
+
+#+begin_src java
+public class LectureTheater {
+    String name;
+    Projector projector;
+
+    public LectureTheater(String name) {
+        this.name = name;
+        this.projector = new Projector(projectorModel, hd, this);
+    }
+    
+    @Override
+    public String toString() {
+    return "Room: " + name + ", Model: " + projector;
+    }
+}
+    
+public class Projector {
+    private String model;
+    private boolean hd;
+    private LectureTheater room;
+
+    Projector(String model, boolean hd, LectureTheater room) {
+        this.model = model;
+        this.hd = hd;
+        this.room = room;
+    }
+
+    @Override
+    public String toString() {
+    return "Model: " +model+"Is HD? "+hd+", in location: "+room.name;
+    }
+}
+#+end_src
+THIS EXAMPLE IS NOT COMPLETE NEED TO ADD THE FINAL PART OF IT
+
+
+This is a static nested thingy
+#+begin_src java
+public class LectureTheaterStaticNested {
+    String name;
+    Projector projector;
+
+    public LectureTheater(String name) {
+        this.name = name;
+        this.projector = new Projector(projectorModel, hd, this);
+    }
+    
+    Projector(String model, boolean hd, LectureTheater room) {
+        this.model = model;
+        this.hd = hd;
+        this.room = room;
+    }
+
+    @Override
+    public String toString() {
+    return "Room: " + name + ", Model: " + projector;
+    }
+}    
+#+end_src
+THIS ONE ISN'T FINISHED EITHER LUL, make sure to get it down later because of dankm memes
+
+*** Objects and Classes 3
+
+**** Interfaces
+
+An interface can be thought of as a contrac. The implemnter of a n interface /must/ implement the listed functionality
+- uses \mintinline{java}{interface} keyword rather than \mintinline{java}{class}
+- cannot be instantiated (can't be created with \mintinline{java}{new})
+- can /only/ contain constants, method signatures, nested types
+- Classes implement inerfaces via \mintinline{java}{implements} keyword
+
+An interface can be used as a type. A variable declared with an interface type can hold a reference to an object of any class that implements xxx
+
+ADD IN A CODE EXAMPLE HERE IT"S JUST REALLY HARD BECAUSE I REALLY NEED TO PEE AT THE MOMENT
+
+*** Lambda Expressions
+
+Allow code to be passed as a parameter, just as data can be. 
+
+Particularly useful for event handling; can pass /behaviou/ as an argument ('do /this/ when x happens')
+
+Syntax:
+- Comma-separated formal paramaters (x)
+- Arrow (->)
+- Body (either single expression ar statment block, which may contain return)
+#+begin_src java
+     x -> x > 100 or x -> { ... return true; }
+#+end_src
+
+*** Inheritance
+
+An inherited class in known as a /subclass, derived class/ or /child class/. Its parent is known as a /superclass, base class/, or /parent class/
+
+Subclasses inherit via the \mintinline{java}{extends} keyword
+
+**** Overriding and Hiding Methods
+
+Instance methods:
+- If method has same signature as one its superclass, it is said to *override*. Marke with \mintinline{java}{@Override} annotation
+- Same name, number and type of parameter, and return type as overridden parent method
+- The *type of the instance* determines the method
+
+Class methods:
+- If it hase same ignature, it *hides* the superclass metod
+- The cass with respect to which te call is made determines the method
+
+**** Polymorphism
+
+stuff
+
+**** Hiding fields
+
+Don't do it
+
+**** The \mintinline{java}{super} keyword
+
+
+
+_/*Lots of stuff to add in here as well*/_
 
