@@ -1,18 +1,20 @@
 * COMP1110
-** TODO COMP1110 Assignment 1
-  DEADLINE: <2017-08-11 Fri 23:00>
-** TODO COMP1110 Friday lectures
+** TODO COMP1110 Friday/Monday/Friday lectures
    SCHEDULED: <2017-08-06 Sun>
-** TODO COMP1110 All homework, especially binary 
-   DEADLINE: <2017-08-09 Wed>
 
 * FINM2003
 ** TODO FINM2003 Quiz
    SCHEDULED: <2017-08-07 Mon 12:00>
 ** TODO FINM2003 Tutorial questions
    SCHEDULED: <2017-08-07 Mon 12:00>
+** TODO FINM2003 Asssignment
+   DEADLINE: <2017-10-09 Mon 12:00>
 
 * COMP1100
-
+** TODO Assignment 1
+   DEADLINE: <2017-08-28 Mon 09:00>
+   
 * ECON1102
+** TODO Assignment for week 4
+   DEADLINE: <2017-08-18 Fri 17:00>
 

@@ -1,6 +1,8 @@
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
 * COMP1100 - Programming as Problem Solving
 
-* Wk 1 
+* Week 1 
 ** Lecture 1 - Intro
 This was super boring and nothing happened lmao
 
@@ -106,4 +108,243 @@ Expressions are not evaluated until their results are needed
 - Haskell programs are easy to parallelise: there is no shared state
 - Definitions are *equations*: easy to validate properties, allowing proofs
 - Haskell programs are easy to *refactor*
+
+* Week 3
+
+** Lecture 1
+
+Stuff about case statements, custom type
+
+*** Tuples
+
+A *fixed* number of values of (possibly different) fixed types *combined* into a single value
+
+
+Ex. associating prices to shop items
+#+begin_src haskell
+("Salt", 139)
+("Chips", 25)
+
+type ShopItem = (String, Int) -- giving the type a name
+#+end_src
+
+Ex.
+#+begin_src haskell
+minAndMax :: Integer -> Integer -> (Integer,Integer)
+
+minAndMax x y
+  | x >= y    = (y,x)
+  | otherwise = (x,y)      
+#+end_src
+
+**** Functions over tuples (pattern matching)
+
+#+begin_src haskell
+addPair :: (Integer, Integer) -> Integer
+addPair (x, y) = x + y
+#+end_src
+Example of evaluation:
+#+begin_src haskell
+addPair (5, 8)
+-> 5 + 8
+-> 13
+#+end_src
+
+
+**** Nested patterns
+#+begin_src haskell
+addPair :: (Integer, Integer) -> Integer
+addPair (0, y) = y
+addPair (x, y) = x + y
+
+shift :: ((Int, Int), Int) -> (Int, (Int, Int))
+shift ((x, y), z) -> (x, (y, z))
+
+name :: ShopItem -> String
+price :: ShopItem -> Int
+name (n, p) = n
+price (n, p) = p
+#+end_src
+
+
+**** Built-in selectors in pairs
+
+#+begin_src haskell
+fst :: (a, b) -> a
+fst (x, y) = x
+
+snd :: (a, b) -> b
+snd (x, y) = y
+#+end_src
+
+**** Emaple: adding vectors
+
+#+begin_src haskell
+addVectorsPairs :: (Num a) => (a, a) -> (a, a) -> (a, a)
+addVectorsPairs x y = (fst x + fst y, snd x + snd y)
+
+first :: (a, b, c) -> a
+first (x, _, _) = x
+
+second :: (a, b, c) -> b
+second (_, y, _) = y
+
+third :: (a, b, c) -> c
+third (_, _, c) = z
+
+-- more vector adding
+
+addVectorsTriples :: (Num a) => (a, a, a) -> (a, a, a) -> (a, a, a)
+addVectorsTriples x y = (first x + first y, second x + second y, third x + third y)
+#+end_src
+
+** L2
+
+*** Records
+
+A record data type that represents employees in a company.
+This datatype has three *named fields* called, \mintinline{haskell}{name, age, salay},
+ /each of which has a different type/
+
+#+begin_src haskell
+data Employee = Employee {name :: String, age :: Integer, salary :: Double}
+
+-- Defining an employee
+bob = Employee {name = "Bob", age = 44, salary = 100000.93} -- positional values
+
+chris = Employee "Chris" 32 85560.80 -- uses named values
+
+
+-- Extracting values from records
+getName :: Employee -> String
+getName Employee{name = n} = n
+
+getAge :: Employee -> Integer
+getAge Employee{age = a} = a
+
+getSalary :: Employee -> Double
+getSalary Employee{salary = s} = s
+
+
+incrementAge :: Employee -> Employee
+incrementAge emp = emp { age = age emp + 1 }
+
+doubleSalary :: Employee -> Employee
+doubleSalary emp = emp { salary = 2 * (salary emp) }
+#+end_src
+
+The field names for a record:
+- work as functions to get the value of a field (accessor functions)
+- operate as labels in the syntax that uses braces
+- are top-level functions (in one scope there can only be one function with that name)
+
+*** Recursion
+
+"To understand recursion you must first understand recursion"
+
+**** Fundamental rules for creating good recursive function
+
+- There must be a base case (or cases)
+- Each recursive call must lead towards a base case
+
+**** Why recursion is important
+
+- Recursive programs are often more succint and easier to understand
+- Some problems are more easily solved by recursion
+- Recursion is often used as a method of traversion (or navigating) over complex data structures
+- Program verification is easier (induction)
+- because it's recursion!
+
+#+begin_src haskell
+-- Factorial example
+fac :: Integer -> Integer
+fac n
+  | n == 0 = 1
+  | n > 0  = n * fac (n - 1)
+  | otherwise = error "Negative argument"
+
+
+-- Yth power of x
+power :: Integer -> Integer -> Float
+power x y
+  | y == 0 = 1
+  | y > 0  = fromIntegral x * power x (y - 1)
+  | otherwise = 1 / power x (abs y)
+#+end_src
+
+* Week 4
+
+** Lecture 1
+
+*** Recursive Algebraic Datatypes
+
+Natural numbers are, by definition:
+- 0 (sometimes)
+- The number after 0 (the "successor")
+- The number after that
+- and the number after that... etc
+
+**** Custom type for (Pseudo) Natural Numbers
+#+begin_src haskell
+data PseudoNatural = Zero | Succ PseudoNatural
+
+one   =  Succ Zero
+two   = Succ one
+three = Succ two
+four  = Succ three
+#+end_src
+
+We can define an infinite pseudo-natural number in Haskell if the type of pseudo natural numberis is defined as on previous slide:
+\mintinline{haskell}{infinity = Succ infinity}, although infinity is not a natural number...
+
+**** Defining a Recursive Datatype
+
+Base case: Define the primitive type with a constructor that has no arguments
+
+Recursive cases: Combine different types with a constructor.
+A data type declaration is recursive when this type is (recursively) "called" by its own constructor
+
+**** Mutually Recursive Datatype
+
+#+begin_src haskell
+data Sender = InitiateCommunication String | RespondToReceiver String Receiver
+
+data Receiver = RespondToSender String Sender
+#+end_src
+
+*** Haskell Lists
+
+The *list type* is an abstract datatype that represents a countable number of ordered values, where the same value may occur more than once.
+
+In functional programming, list datatypes are *recursive data types* defined with:
+- a constructor for creating an empty list
+- a constructor for adding an item at the beginning of a list
+
+All objects of *recursive* types can contain an arbitrary number of nesting of constructors
+
+Haskell allows us to build 'infinite values' with finite representation. 
+Hence, Haskell lists can be infinite.
+
+**** Typical Operations an Lists
+- Determine the first element (*head*) of a list
+- Determine the elements after the head of the list (*tail*)
+- Compute the length of a list
+- Prepend an entity to a list
+- Concatenate two lists
+- Check whether the list is empty
+- Check whether an element belongs to a list
+- Return the number af times an element occurs in a list
+- Return a prefix of length n of a list
+
+**** Custom Lists
+
+User-defined Type for List of Int: 
+\mintinline{haskell}{data CustomIntList = Empty | Cons Int CustomIntList}
+- \mintinline{haskell}{Empty}: constructor for an empty list
+- \mintinline{haskell}{Cons}: constructor for a non-empty list
+
+
+
+
+
 

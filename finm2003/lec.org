@@ -1,3 +1,5 @@
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
 * FINM2003: Investments
 - Mid Sem 20%
 - Group Assignment 20%
@@ -188,16 +190,14 @@ still got some shit to finish for this
 
 * Week 2 - Risk, Return, and the Historical Record
 
-** Lecture
-
-*** Determinants of the Level of Interest Rates
+** Determinants of the Level of Interest Rates
 
 These determinants include:
 - Supply side (supply of funds from savers)
 - Demand side (demand for funds from those who require more)
 - Government's net demand (net supply of funds or demand for them)
 
-*** Real and Nominal Rates of Interest
+** Real and Nominal Rates of Interest
 
 - *Nominal interest rate*: the growth rate of money
 - *Real interest rate*: the growth rate of purchasing power
@@ -207,7 +207,7 @@ The *exact* relationship is $1 + r_{r} = \frac{1+r_{n}}{1+i}$, in the form of $$
 
 Investors are concerned with their real rate of interest because it measures the increase in their purchasing power. Given this, investors will demand higher nominal rates of return on their investments as expected inflation increases
 
-*** Holding Period Returns
+** Holding Period Returns
 
 The holding period return (HPR) is a measure of the ruturn earned over a given investment period
 
@@ -223,11 +223,11 @@ $$HPR = \frac{\mbox{Price}_{t} + \mbox{Income (e.g. Dividend)}_{t} - \mbox{Price
 
 Given this, you should either use the other definition, or include /adjusted/ prices in the above formula
 
-*** Summing/Average Returns over Time
+** Summing/Average Returns over Time
 (((((STUFF GOES HERE LUL)))))
 Lots of forumlae and stuff go in this bit, write them out later though *with examples* because they're going to be shit otherwise
 
-*** Geometric and Arithmetic Returns
+** Geometric and Arithmetic Returns
 
 *Aritmetic* average return is a good indication of the expected rate of return for an investment during a future individual year
 
@@ -240,7 +240,7 @@ If difference is more volatile, ????
 
 The geoemetric return is more consistent with the actual return received by the investor
   
-*** Comparing investments with Different Investment Horizons
+** Comparing investments with Different Investment Horizons
 
 Investments with longer horizons commonly earn greater HPRs. 
 
@@ -248,7 +248,7 @@ Investments with longer horizons commonly earn greater HPRs.
 - Commony, returns are expressed on an annual basis, or a as effective annual rates (EARs)
 - EARs can be calculated using the tools introduced in FINM1001 ($\mbox{EAR} = (1 + HPR)^\mbox{t} - 1$)
 
-*** Discrete vs Continous Compounding
+** Discrete vs Continous Compounding
 The EAR is a discrete measuree fof investment return
 
 Continuously compounded rates $r_{cc}$ are sometimes used in practice
@@ -263,11 +263,11 @@ The difference between the effective and continuously compounded rates:
 In theory, continuous compounding is preferred, given it:
 - REASONS
 
-*** Expected Return and Standard Deviation
+** Expected Return and Standard Deviation
 
 Investors cannot be certain about the HPR, because of uncertainty about future asset values
 
-$$Funny E(r) = \sigma_{s}\mbox{Pr}(s)r(s)$$
+$$E(r) = \Sigma_{s}\mbox{Pr}(s)r(s)$$
 
 with 
 - Pr(s) = probabilty of bscenario occuring
@@ -275,11 +275,130 @@ with
 
 Standard deviation does not differentiate between upside and downside risk
 
-*** Time Series Analysie of Historical Returns
+** Time Series Analysis of Historical Returns
 
 While historical data analysis can form the basis of expected return and risk estimation, historical data reveals 
 the HPRs realized over specific perieds, not what investors expected them to be.
 Therefore, we must HDS to make /inferences/ about the probablity distributions observed HPRs were drawn from.
 
-more thingies, copy paste this shit from further up
+The expected return can be estimated by assigning identical probabilty to each historical outcome before calculating the /arithmetic/ average of the sample HPRs
+
+$$E(r) = \Sigma_{s=1}^{n}\mbox{Pr}(s)r(s)=\frac{1}{n}\Sigma_{s=1}^{n}r(s)$$
+
+Arithmetic average is an unbiased estimate of expected return,
+but geometric (or time-weighted) average return is often perferred when measuring past performance
+
+
+We can use our expected return estimates $\hat{r}$, in generating our risk estimates $\hat{\sigma}$:
+
+$$\hat{\sigma} = \sqrt{\hat{\sigma^{2}}} = \sqrt{(\frac{n}{n-1})\Sigma_{s=1}^{n}(r(s)-\hat{r})^{2}}$$
+
+Trade off between:
+- Return: measured by the asset's return in excess of the risk-free rate
+- Risk: measured by the standard deviation of excess returns
+
+*Sharpe Ratio* = $\frac{\mbox{Excess Return}}{\mbox{Std. Dev. Excess Return}}$
+
+** Return Distributions
+
+Calculating higher moments of the distribution
+- Skewness
+  - Measures the symmetry of the distribution
+  - Defining $R$ as the asset's excess return
+
+    Skewness = $\frac{n}{(n-1)(n-2)}\Sigma_{i}(\frac{R-\bar{R}}{\hat{\sigma}})^{3}$
+
+If the return is /positively/ skewed, standard deviation will /overestimate/ risk
+
+Conversely, and of even greater concern, if the return distribution is /negatively/ skewed,
+standard deviation will /underestimate/ risk
+
+\pagebreak
+
+When return distributions exhibit "fat tails":
+- standard deviation will underestimate the likelihood of large gains occurring
+- also underestimate the likelihood of large losses occurring.
+
+** Value at Risk
+
+VaR is a quantile (q) of a distribution, or the level below which q% of the distribution's value lie
+
+The 5% VaR, commonly used in practice, is:
+- The value at the 5^th percentile when returns have been sorted in descending order
+- The value which will be lower than the values of 95% of the distribution, but will be lower than the values of 5% of the distribution
+- Can be derived as Mean - 1.65 x Standard Deviation if returns are normally distributed
+
+** Expected Shortfall
+
+- Gives the expeceted loss given that one of the worst case scenarios eventuates
+- Involves averaging across the lowest 5% of observations
+- Also referred to as the /conditional tail expectation/
+- More consverative measure than VaR
+
+\pagebreak
+* Week 3 - Capital Allocation and Optimal Risky Portfolios
+
+** Utility functions
+
+In economics, /utility/ is a measure of a person's preferences over some set of goods and services
+
+Quantify the trade-offs between risk and return using /utility functions/
+
+These functions:
+- Allow investors to assign a utility score to investment portfolio given their risk and return characteristics
+- Reward investments for having higher expected returns, while penalizing them for having higher risk.
+  The magnitude of the penalty is usually a function of investor's risk aversion.
+- Can be used to rank competing investment portfolios
+
+An example of a utility function is $$U = E(r) - \frac{1}{2}A\sigma^{2}$$
+
+Where: 
+- U = Utility
+- E(r) = portfolio's expected return
+- A = coefficient of risk aversion
+  - A = 0: risk-neutral investor
+  - A > 0: risk-averse investor
+  - A < 0: risk-loving investor
+- \sigma^2 = variance of returns
+
+A portfolio is only desirable if its utility score is above the risk-free rate 
+
+Ex. 
+ | Portfolio   | Risk Premium | Expected Return | Risk (SD) |
+ |-------------+--------------+-----------------+-----------|
+ | Low risk    |           2% |              7% |        5% |
+ | Medium risk |            4 |               9 |        10 |
+ | High risk   |            8 |              13 |        20 |
+
+| Risk aversion (A) | Utility score of L            | M    | H    |
+|-------------------+-------------------------------+------+------|
+|               2.0 | .07 - 1/2 * 2 * .05^2 = .0675 | etc. | etc. |
+|               3.5 | etc.                          |      |      |
+|               5.0 |                               |      |      |
+
+
+
+Portfolios that generate the same utility for an investor can be connected using a curve known as an /indifference curve/.
+The more risk averse the investor the steeper the indifference curve.
+
+** Determining Risk Aversion  
+
+Investors' risk aversion could be estimated in a number of ways 
+- Having them complete questionnaires
+- Observing their decisions when confronted with risk
+- Measuring how much they are willing to pay in order to avoid risk
+
+Mean-Variance (M-V) Criterion
+- Portfolio A dominates portfolio B if $E(r_{a}) \geq E(r_{B})$ and $\sigma_{A} \leq \sigma_{B}$
+
+** Capital Allocation
+
+/The choice among broad asset classes that represents a very important part of portfolio construction/
+
+"Top-down" approach to investment
+- An asset alocation decision
+- A security collection decision
+
+The simplest way to control risk is to manipulate the fraction of the portfolio invested in risk-free assets versus the portion invested in the risky assets.
+This is called a /capital allocation decision/.
 

@@ -1,3 +1,5 @@
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
 * COMP1110 - Structured Programming
 
 * Wk 1
@@ -354,7 +356,11 @@ Which can be referred to like: \mintinline{java}{Gender gender}
 
 #+begin_src java
 public enum Grade {
-    HD{"High Distinction", 80}, D{"Distinction", 70}, C{"Credit", 60}, P{"Pass", 50}, N{"Fail", 0};
+    HD{"High Distinction", 80}, \ 
+    D{"Distinction", 70}, \
+    C{"Credit", 60}, \
+    P{"Pass", 50}, \
+    N{"Fail", 0};
 
     //final = unchanging
     private final String longname;
@@ -384,8 +390,6 @@ Calling parent constructor: \mintinline{java}{super(name, age, gender);} to inhe
 
 To add to \mintinline{java}{toString()} method of child class, use \mintinline{java}{return super.toString() + "whatever"} to prine whatever the parent does + the important shit for this
 
-
-     
 * Wk 3
 
 ** L1
@@ -517,4 +521,188 @@ Don't do it
 
 
 _/*Lots of stuff to add in here as well*/_
+
+** L2
+
+*** Inheritance 2 (O5)
+
+In Java all classes ultimately inherit from *one* root class: \mintinline{java}{java.lang.Object}.
+Implemented methods:
+- \mintinline{java}{clone} returns a copy of an object
+- \mintinline{java}{equals(Object obj)} establishes equivalence
+- \mintinline{java}{finalize()} called by GC before reclaiming
+- \mintinline{java}{getClass()} returns runtime class of the object
+- \mintinline{java}{hashCode()} returns a hash code for the object
+- \mintinline{java}{toString()} returns string representation of object
+
+**** Final Classes and Methods
+
+The \mintinline{java}{final} keyword in a class declaration states that the class /may not/ be subclassed
+
+The \mintinline{java}{final} keyword in a method declaration states that the method /may not/ be overridden
+
+"bottom of the hierarchy", i.e. for Animal, Albatross would be final, but Animal is abstract
+
+**** Abstract Classes and Methods
+
+The \mintinline{java}{abstract} keyword in a class declaration states that the class is abstract, it may not be instantiated
+
+The \mintinline{java}{abstract} keyword in a method declaration states that the method declaration is abstract; the implementation must be provided by a subclass
+
+**** Casting a thing
+
+#+begin_src java
+// declares type to reassure Java that it's a thingy
+((Platypus) animals[animals.length-1]).quack();
+#+end_src
+
+*** JavaFX 1 (X1)
+
+- Designed for rich client applications
+  - Graphics, UI's, video, audio, etc.
+- Java APIs, integrated with Java8
+  - Not to be confused with JavaFX 1.x, which was a scripting language, not a Java APIs
+- Replaces Swing
+- JavaFX HelloWorld
+
+- Extend \mintinline{java}{javafx.application.Application}
+  - Override the \mintinline{java}{start()} method
+- \mintinline{java}{Stage}
+  - Think of it as a window
+- \mintinline{java}{Scene}
+  - Container for a scene graph
+- \mintinline{java}{StackPane}
+  - /Organizer/ of nodes in scene graph
+  - Others include \mintinline{java}{FlowPane, TilePane, GridePane}, etc.
+
+**** JavaFX Scene Graph
+
+Tree of nodes, with a single 'branch' at the root
+- branch (may have children, eg \mintinline{java}{Group, Region})
+- leaf (may not have children, eg \mintinline{java}{Rectangle, Circle})
+
+
+**** JavaFX Rectangle / Circle
+
+#+begin_src java
+// lots of import stuff
+
+public class JavaFXSquare extends javafx.application.Application {
+    @Override
+    public void start(Stage primaryStage) throws Exception {
+        primaryStage.setTitle("Square"); // add a snippet for this
+        Group root = new Group();
+        Scene scene = new Scene(root, 800, 450);
+        primaryStage.setScene(scene);
+
+        Rectangle r = new Rectangle(100, 100, 100, 100);
+        Circle c = new Circle(400, 225, 100);
+        r.setFill(Color.RED);
+        c.setFill(Color.RED);
+        root.getChildren().add(c);
+
+        
+        primaryStage.show();
+    }
+}
+#+end_src
+
+**** JavaFX Hello World
+
+#+begin_src java
+// lots of import statements
+
+public class JFXHelloWorld extends javafx.application.Application {
+    @Override
+    public void start(Stage primaryStage) throws Exception {
+        primaryStage.setTitle("Hello");
+        StackPane root = new StackPane();
+        Scene scene = new Scene(root, 800, 450);
+        primaryStage.setScene(scene);
+
+        
+        Text hi = new Text("Hello world!");
+        hi.setFont(Font.font("Liberation Mono", FontWeight.NORMAL, 40));
+        hi.setFill(Color.BLUE);
+        hi.setOpacity(0.5); 
+        primaryStage.setOpacity(0.5); // window opacity
+        
+        root.getChildren().add(hi);
+                
+        primaryStage.show();
+    }
+}
+#+end_src
+
+* Week 4
+
+** L1
+
+*** JavaFX and Event Handling (X2)
+
+**** Event Handling
+
+Event handling is another control flow construct
+- Branches
+- Loops
+- Methods
+- Events (the occurrence of event changes control flow)
+
+Events usually handled using Lamda expressions
+
+**** Events in JavaFX
+
+Events are instances of \mintinline{java}{javafx.event.Event}
+
+Event properties:
+- Event type
+- Source
+- Target
+
+Event handlers
+- Pass the Lambda expression, 
+  eg. \mintinline{java}{scene.setOnKeyType(event -> code)}
+
+*** Number, Autoboxing (J10)
+
+**** The Number Classes
+
+Normally yyou will represent numbers with the primitive types \mintinline{java}{int, short, float}, etc.
+Java includes 'boxed' object analogues to each of these: \mintinline{java}{Integer, Short, Float}, etc.
+- Number classes have methods (primitives don't)
+  - \mintinline{java}{toString(), parseInt()}, etc.
+- Number classes have constants
+  - \mintinline{java}{Integer.MIN_VALUE, Short.MAX_VALUE}, etc.
+- Number classes have a space overhead
+  - They are instantiated as true objects
+
+**** Autoboxing
+
+Classes such as Innteger and Character are 'boxed' versions of the primitive types int and char.
+Java offers automatic support for boxing and unboxing.
+- Boxing: \mintinline{java}{Integer i = 5;}
+- Unboxing: \mintinline{java}{int j = i;}
+
+**** The Math Class
+The Math class contains methods and constants useful for basic mathematics
+
+*** Character and String (J11)
+
+**** The Character Class
+
+The Character class boxes \mintinline{java}{char}, just like Integer boxes int.
+It contains methods and constants usefulr for manipulating characters
+- Tests: \mintinline{java}{isLetter(), isDigit()}, etc
+- Conversion: \mintinline{java}{toString()} (a single character string!)
+
+Escape sequences are used to represent characters that are hard to type:
+- =\' , \" , \\, \n=, etc.
+
+**** The String Class
+
+Provided to store and manipulate strings
+- Implicit creation from literal: \mintinline{java}{String x = "foo"}
+- The special \mintinline{java}{length} field: \mintinline{java}{if (x.length() > 3)}
+- Concatenation with "+": \mintinline{java}{String y = x + "bar"}
+
 
