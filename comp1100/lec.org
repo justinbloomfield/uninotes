@@ -346,5 +346,49 @@ User-defined Type for List of Int:
 
 
 
+* Week 5
 
+** L1
+
+In Haskell, functions are themselve data that can be:
+- applied to fewer than all of their arguments to return a new *partially applied* function
+- passed as arguments to or returned from functions, which are then called *higher order functions*
+- expressed as literal values (expressions) without naming them in the form of *lambda abstractions*
+- combined using operators
+
+*** Curried Functions
+
+- Functions in Haskell take their arguments one at a time; this is called *currying* after Haskell Curry of \lambda-calculus fame
+- Currying supports partial application, and makes Haskell syntax clean
+
+*** zip
+
+\mintinline{haskell}{zip :: [a] -> [b] -> [(a,b)]}
+
+zip takes two lists and returns a list of corresponding pairs.
+If one input list is short, /excess elements of the longer list are discarded/.
+
+\mintinline{haskell}{zipWith :: (a -> b -> c) -> [a] -> [b] -> [c]}
+
+zipWith generalises zip by zipping with the function given as the first argument, instead of a tupling function.
+For example, zipWith (+) is applied to two lists to produce the list of corresponding sums.
+
+*** map
+
+\mintinline{haskell}{map :: (a -> b) -> [a] -> [b]}
+
+map f xs is the list obtained by applying f to each element of xs
+
+*** filter
+
+\mintinline{haskell}{filter :: (a -> Bool) -> [a] -> [a]}
+
+filter, applied to a predicate and a list, returns the list of those elements that satisfy the predicate
+
+*** Fold/Reduce Functions
+
+A fold deals with two things:
+a *combining function*, and a *data structure*, typically a list of elements
+
+The fold proceeds to combine elements of the data structure using the function in some systematic way
 
