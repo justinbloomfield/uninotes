@@ -634,7 +634,7 @@ public class JFXHelloWorld extends javafx.application.Application {
 }
 #+end_src
 
-* Week 4
+* Wk 4
 
 ** L1
 
@@ -705,6 +705,7 @@ Provided to store and manipulate strings
 - The special \mintinline{java}{length} field: \mintinline{java}{if (x.length() > 3)}
 - Concatenation with "+": \mintinline{java}{String y = x + "bar"}
 
+
 - Get a character with \mintinline{java}{charAt()}
 - Get a substring with \mintinline{java}{substring()}
 - Others: \mintinline{java}{split(),trim(),toLowerCase()}, etc
@@ -716,5 +717,49 @@ Provided to store and manipulate strings
 Sometimes it is useful to parameterize a class with a type, T. Java generics allow us to do this.
 Rather than \mintinline{java}{IntContainer, LongContainer}, etc, we can just write \mintinline{java}{Container<T>}, and then create instances such as \mintinline{java}{Container<Integer>}, etc.
 Prior to the introduction of Java generics, programmesr often used \mintinline{java}{Object} as a work-around because it can refer to any non-??? type
+=======
+  
+
+* Wk 5
+
+** L1
+
+Mid-sem is 5pm this Friday, really should probs do this because of how shit you did on the first assignment lul, do the practice exam to make sure you have an idea of what it's going to be like
+
+*** Introduction to Software Systems
+
+**** The Collection Framework
+Interfaces: implementation-agnostic interfaces for collections
+ 
+Implementations: concrete implementations
+
+Algorithms: searching, sorting, etc
+
+***** TODO Grab the table, that seems handy
+
+*** Using Collections (J14)
+
+**** forEach
+
+Collections implement the \mintinline{java}{forEach} thingy
+
+**** Ordering collections
+
+The \mintinline{java}{Comparable} interface defines a 'natural' ordering for all instances of a given type, T: <<<<ex>>>>
+#+begin_src java
+     
+#+end_src
+
+The \mintinline{java}{Comparator} interface allows a type T to be ordered in additional ways
+#+begin_src java
+     public interface Comparator<T> ........
+#+end_src
+
+**** Collections.sort()
+
+- No arguments, uses natural order for type
+- Single lambda argument
+
+
 
 
