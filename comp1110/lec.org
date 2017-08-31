@@ -705,4 +705,16 @@ Provided to store and manipulate strings
 - The special \mintinline{java}{length} field: \mintinline{java}{if (x.length() > 3)}
 - Concatenation with "+": \mintinline{java}{String y = x + "bar"}
 
+- Get a character with \mintinline{java}{charAt()}
+- Get a substring with \mintinline{java}{substring()}
+- Others: \mintinline{java}{split(),trim(),toLowerCase()}, etc
+- Finding: \mintinline{java}{indexOf(), contains()}, etc
+- Replacing: \mintinline{java}{replace(), replaceAll()}, etc
+
+*** Generics (J12)
+
+Sometimes it is useful to parameterize a class with a type, T. Java generics allow us to do this.
+Rather than \mintinline{java}{IntContainer, LongContainer}, etc, we can just write \mintinline{java}{Container<T>}, and then create instances such as \mintinline{java}{Container<Integer>}, etc.
+Prior to the introduction of Java generics, programmesr often used \mintinline{java}{Object} as a work-around because it can refer to any non-??? type
+
 
